@@ -18,6 +18,7 @@ To use the application, follow the outlined steps:
 
 ```console
 $ python3 -m venv venv
+$ source env/bin/activate
 ```
 
 2. Install the modules listed in the `requirements.txt` file:
