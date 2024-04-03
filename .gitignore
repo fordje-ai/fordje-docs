@@ -7,7 +7,7 @@ cache/
 build/
 dist/
 venv/
-.env
+.env*
 cdk.out
 cdk.context.json
 node_modules
@@ -16,3 +16,7 @@ node_modules
 **/.vscode/*
 !**/.vscode/settings.default.json
 !**/.vscode/launch.json
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
