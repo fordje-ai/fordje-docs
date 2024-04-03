@@ -1,4 +1,6 @@
-from fastapi import Body, APIRouter, HTTPException
+from auth.jwt_bearer import JWTBearer
+from auth.jwt_handler import decode_jwt
+from fastapi import Body, APIRouter, Depends, HTTPException
 from passlib.context import CryptContext
 
 from auth.jwt_handler import sign_jwt
@@ -6,6 +8,7 @@ from database.database import add_admin
 from models.admin import Admin
 from schemas.admin import AdminData, AdminSignIn
 
+token_listener = JWTBearer()
 router = APIRouter()
 
 hash_helper = CryptContext(schemes=["bcrypt"])
@@ -35,3 +38,15 @@ async def admin_signup(admin: Admin = Body(...)):
     admin.password = hash_helper.encrypt(admin.password)
     new_admin = await add_admin(admin)
     return new_admin
+
+@router.get("/me", response_model=AdminData)
+async def admin_info(token: str = Depends(token_listener)):
+    user_info = decode_jwt(token)
+    
+    admin_exists = await Admin.find_one(Admin.email == user_info['user_id'])
+    if not admin_exists:
+        raise HTTPException(
+            status_code=409, detail="Admin with email supplied already exists"
+        )
+    
+    return admin_exists
