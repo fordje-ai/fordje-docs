@@ -1,24 +1,6 @@
-<p align="center">
-  <h1 align="center">React JS Authentication Boilerplate</h1>
-</p>
-
-<p align="center">
-  <a href="https://app.travis-ci.com/ederssouza/reactjs-auth-boilerplate">
-    <img src="https://app.travis-ci.com/ederssouza/reactjs-auth-boilerplate.svg?branch=master" alt="Build Status" />
-  </a>
-
-  <a href='https://coveralls.io/github/ederssouza/reactjs-auth-boilerplate?branch=master'>
-    <img src='https://coveralls.io/repos/github/ederssouza/reactjs-auth-boilerplate/badge.svg?branch=master' alt='Coverage Status' />
-  </a>
-
-  <a href="https://github.com/ederssouza/reactjs-auth-boilerplate/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="Coverage Status" />
-  </a>
-</p>
-
+# Fordje Docs App
 ## Summary
 
-- [About](#about)
 - [Built using](#built-using)
 - [Getting started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -36,23 +18,6 @@
   - [Private route](#private-route)
   - [Hybrid route](#hybrid-route)
 - [Control visibility of components](#control-visibility-of-components)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Authors](#authors)
-- [License](#license)
-
-## About
-
-This repository was created to assist in the authentication implementation process in React **JS applications with JWT and refresh token**. All components and contexts have **unit tests** and a **basic HTML structure without CSS**. The project has features to **secure routes** and **control the visibility of components** based on permissions, the entire implementation process is in this document.
-
-Feel free to clone the project or use it as a template and make any changes you deem necessary.
-
-## Built using
-
-- [React JS](https://reactjs.org): JavaScript library
-- [TypeScript](https://www.typescriptlang.org): JavaScript With Syntax For Types
-- [Jest](https://jestjs.io): JavaScript Testing Framework
-- [React Testing Library](https://testing-library.com): Testing utilities
 
 ## Getting started
 
@@ -74,9 +39,9 @@ yarn install
 
 ```bash
 # start app open development mode
-yarn start
+yarn dev
 # or
-npm run start
+npm run dev
 ```
 
 ### Compiles and minifies for production
@@ -227,22 +192,6 @@ export function NavBar () {
 }
 ```
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ederssouza/reactjs-auth-boilerplate/tags).
-
-## Authors
-
-See also the list of [contributors](https://github.com/ederssouza/reactjs-auth-boilerplate/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-----
-
-Develop by Eder Sampaio 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/ederssouza).

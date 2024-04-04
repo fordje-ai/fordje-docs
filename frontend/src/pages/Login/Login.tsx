@@ -1,5 +1,6 @@
 import React, { FormEvent, useEffect, useState } from 'react'
 import { useSession } from '@/hooks'
+import { Button, Container, FormControl, InputLabel, MenuItem, Select, TextField, Typography } from '@mui/material'
 
 function initialFormValues() {
   return {
@@ -54,48 +55,54 @@ function Login() {
   }, [])
 
   return (
-    <div>
+    <Container maxWidth="sm" sx={{flexGrow: 1}}>
+      <Typography variant="h4" component="h1" gutterBottom>
+        Fordje Login
+      </Typography>
       <form noValidate onSubmit={handleSubmit}>
-        <select name="select-user" onChange={handleUserChange}>
-          <option value="" style={{ display: 'none' }}>
-            Select an user to test
-          </option>
-          {users.map((user) => (
-            <option key={user.email} value={JSON.stringify(user)}>
-              {user.name}
-            </option>
-          ))}
-        </select>
+        <FormControl fullWidth>
+          <InputLabel id="select-user-label">Select User</InputLabel>
+          <Select
+            labelId="select-user-label"
+            id="select-user"
+            label="Select User"
+            onChange={handleUserChange}
+          >
+            {users.map((user) => (
+              <MenuItem key={user.email} value={JSON.stringify(user)}>{user.name}</MenuItem>
+            ))}
+          </Select>
+        </FormControl>
 
-        <div>
-          <label htmlFor="email">Email</label>
-          <input
-            value={values.email}
-            type="email"
-            name="email"
-            id="email"
-            disabled={loginRequestStatus === 'loading'}
-            onChange={handleChange}
-          />
-        </div>
-
-        <div>
-          <label htmlFor="password">Password</label>
-          <input
-            value={values.password}
-            type="password"
-            name="password"
-            id="password"
-            disabled={loginRequestStatus === 'loading'}
-            onChange={handleChange}
-          />
-        </div>
-
-        <button type="submit" disabled={loginRequestStatus === 'loading'}>
+        <TextField
+          id="email"
+          label="Email"
+          variant="outlined"
+          fullWidth
+          margin="normal"
+          type="email"
+          value={values.email}
+          disabled={loginRequestStatus === 'loading'}
+          onChange={handleChange}
+          required
+        />        
+        <TextField
+          id="password"
+          label="Password"
+          variant="outlined"
+          fullWidth
+          margin="normal"
+          type="password"
+          value={values.password}
+          disabled={loginRequestStatus === 'loading'}
+          onChange={handleChange}
+          required
+        />
+        <Button type="submit" variant="contained" color="primary" fullWidth disabled={loginRequestStatus === 'loading'}>
           {loginRequestStatus === 'loading' ? 'Loading...' : 'Submit'}
-        </button>
+        </Button>
       </form>
-    </div>
+    </Container>
   )
 }
 

@@ -1,13 +1,13 @@
 import { Routes, Route } from 'react-router-dom'
 import { useRoutePaths } from '@/hooks'
-import { Home, Login, Metrics, Register, Users } from '@/pages'
+import { Home, Login, Search, Register, Users } from '@/pages'
 import { PrivateRoute } from '../PrivateRoute'
 import { PublicRoute } from '../PublicRoute'
 
 function Router() {
   const {
     LOGIN_PATH,
-    METRICS_PATH,
+    SEARCH_PATH,
     REGISTER_PATH,
     ROOT_PATH,
     USERS_PATH,
@@ -37,10 +37,10 @@ function Router() {
       <Route path={REGISTER_PATH} element={<Register />} />
 
       <Route
-        path={METRICS_PATH}
+        path={SEARCH_PATH}
         element={
-          <PrivateRoute permissions={['metrics.list']} redirectTo={LOGIN_PATH}>
-            <Metrics />
+          <PrivateRoute redirectTo={LOGIN_PATH}>
+            <Search />
           </PrivateRoute>
         }
       />

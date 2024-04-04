@@ -1,4 +1,4 @@
 // seconds * minutes * hours * days
-export const COOKIE_EXPIRATION_TIME = 60 * 60 * 24 // 1 day
-export const TOKEN_COOKIE = 'reactauth.token'
-export const REFRESH_TOKEN_COOKIE = 'reactauth.refreshToken'
+export const COOKIE_EXPIRATION_TIME = 60 * 60 // 1 hour
+export const TOKEN_COOKIE = 'fordjeauth.token'
+export const REFRESH_TOKEN_COOKIE = 'fordjeauth.refreshToken'
