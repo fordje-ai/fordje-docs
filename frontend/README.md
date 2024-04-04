@@ -1,70 +1,248 @@
-# Getting Started with Create React App
+<p align="center">
+  <h1 align="center">React JS Authentication Boilerplate</h1>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://app.travis-ci.com/ederssouza/reactjs-auth-boilerplate">
+    <img src="https://app.travis-ci.com/ederssouza/reactjs-auth-boilerplate.svg?branch=master" alt="Build Status" />
+  </a>
 
-## Available Scripts
+  <a href='https://coveralls.io/github/ederssouza/reactjs-auth-boilerplate?branch=master'>
+    <img src='https://coveralls.io/repos/github/ederssouza/reactjs-auth-boilerplate/badge.svg?branch=master' alt='Coverage Status' />
+  </a>
 
-In the project directory, you can run:
+  <a href="https://github.com/ederssouza/reactjs-auth-boilerplate/blob/master/LICENSE.md">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="Coverage Status" />
+  </a>
+</p>
 
-### `npm start`
+## Summary
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [About](#about)
+- [Built using](#built-using)
+- [Getting started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installing dependencies](#installing-dependencies)
+- [Project setup](#project-setup)
+  - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+  - [Compiles and minifies for production](#compiles-and-minifies-for-production)
+  - [Lints and fixes files](#lints-and-fixes-files)
+  - [Run your unit tests](#run-your-unit-tests)
+- [Test users](#test-users)
+  - [Administrator](#administrator)
+  - [Client](#client)
+- [Route types](#route-types)
+  - [Public route](#public-route)
+  - [Private route](#private-route)
+  - [Hybrid route](#hybrid-route)
+- [Control visibility of components](#control-visibility-of-components)
+- [Contributing](#contributing)
+- [Versioning](#versioning)
+- [Authors](#authors)
+- [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About
 
-### `npm test`
+This repository was created to assist in the authentication implementation process in React **JS applications with JWT and refresh token**. All components and contexts have **unit tests** and a **basic HTML structure without CSS**. The project has features to **secure routes** and **control the visibility of components** based on permissions, the entire implementation process is in this document.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Feel free to clone the project or use it as a template and make any changes you deem necessary.
 
-### `npm run build`
+## Built using
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React JS](https://reactjs.org): JavaScript library
+- [TypeScript](https://www.typescriptlang.org): JavaScript With Syntax For Types
+- [Jest](https://jestjs.io): JavaScript Testing Framework
+- [React Testing Library](https://testing-library.com): Testing utilities
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+You need to install on your machine [Node.js](https://nodejs.org) or [Yarn](https://yarnpkg.com).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Installing dependencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm install
+# or
+yarn install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Project setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Compiles and hot-reloads for development
 
-## Learn More
+```bash
+# start app open development mode
+yarn start
+# or
+npm run start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Compiles and minifies for production
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+yarn build
+# or
+npm run build
+```
 
-### Code Splitting
+### Lints and fixes files
+```bash
+# show errors
+yarn lint
+# or
+npm run lint
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# fix errors
+yarn lint:fix
+# or
+npm run lint:fix
+```
 
-### Analyzing the Bundle Size
+### Run your unit tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+# run tests
+yarn test
+# or
+npm run test
 
-### Making a Progressive Web App
+# run tests on watch mode
+yarn test:watch
+# or
+npm run test:watch
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# run tests on coverage mode
+yarn test:coverage
+# or
+npm run test:coverage
 
-### Advanced Configuration
+# run tests on coverage with watch mode
+yarn test:coverage:watch
+# or
+npm run test:coverage:watch
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Test users
 
-### Deployment
+The app is integrated with the [node-api-refresh-token.cyclic.app](https://node-api-refresh-token.cyclic.app) API, configured in the `.env` file. There are two users with different accesses so that the tests can be performed:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Administrator
 
-### `npm run build` fails to minify
+- **Email**: admin@site.com
+- **Password**: password@123
+- **Permissions**: `users.list`, `users.create`, `metrics.list`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Client
+
+- **Email**: client@site.com
+- **Password**: password@123
+- **Permissions**: `metrics.list`
+
+## Route types
+
+The route components are based on `<Route />` component of [react-router-dom](https://reactrouter.com/web/guides/quick-start) and receive same props.
+
+### Public route
+
+The route can only be accessed if a user is not authenticated. If accessed after authentication, the user will be redirected `/` route.
+
+```tsx
+import { Routes } from 'react-router-dom'
+import { PublicRoute } from 'src/router/PublicRoute'
+
+const SampleComponent = () => <div>Sample component</div>
+
+export const Router = () => (
+  <Routes>
+    <PublicRoute
+      path="/login"
+      component={SampleComponent}
+    />
+  </Routes>
+)
+```
+
+### Private route
+
+The route can only be accessed if a user is authenticated. Use permission props (returned by the API) to access the control.
+
+```tsx
+import { Routes } from 'react-router-dom'
+import { PrivateRoute } from 'src/router/PrivateRoute'
+
+const SampleComponent = () => <div>Sample component</div>
+
+export const Router = () => (
+  <Routes>
+    {/*
+      allow route access if the user has the permissions
+      `users.list` and `users.create`
+    */}
+    <PrivateRoute
+      path="/users"
+      component={SampleComponent}
+      permissions={['users.list', 'users.create']}
+    />
+  </Routes>
+)
+```
+
+### Hybrid route
+
+The route can be accessed if a user is authenticated or not. Use `Route` component.
+
+```tsx
+import { Route, Routes } from 'react-router-dom'
+
+const SampleComponent = () => <div>Sample component</div>
+
+export const Router = () => (
+  <Routes>
+    <Route path="/contact" element={<SampleComponent />} />
+  </Routes>
+)
+```
+
+## Control visibility of components
+
+Use the `CanAccess` component and pass `permissions` props to control the visibility of a component.
+
+```tsx
+import { CanAccess } from 'src/components'
+
+export function NavBar () {
+  return (
+    <>
+      {/*
+        the component is shown if the user has the permissions
+        `users.list` and `metrics.list`
+      */}
+      <CanAccess permissions={['users.list', 'metrics.list']}>
+        {/* YOUR COMPONENT HERE */}
+      </CanAccess>
+    </>
+  )
+}
+```
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ederssouza/reactjs-auth-boilerplate/tags).
+
+## Authors
+
+See also the list of [contributors](https://github.com/ederssouza/reactjs-auth-boilerplate/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+----
+
+Develop by Eder Sampaio 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/ederssouza).
