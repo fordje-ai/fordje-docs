@@ -3,10 +3,15 @@ import CloudUploadIcon from '@mui/icons-material/CloudUpload';
 import stateCodes from '@/utils/stateCodes.json';
 import { useState } from "react";
 
-const stateCodeOptions = Object.keys(stateCodes).map(key => ({
+type StateCodeDisplay = {
+  label: string;
+  value: string;
+}
+
+const stateCodeOptions = Object.keys(stateCodes).map((key): StateCodeDisplay => ({
   label: stateCodes[key] as string,
   value: key
-}));
+})) as Array<StateCodeDisplay>;
 
 const VisuallyHiddenInput = styled('input')({
   clip: 'rect(0 0 0 0)',

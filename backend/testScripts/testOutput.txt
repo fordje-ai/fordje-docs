@@ -1,0 +1,23 @@
+City of Parsons, KS § 585-2 
+
+PARSONS CODE 
+
+§ 585-3 
+
+provider or wireless infrastructure provider, whether authorized by a small cell deployment agreement or a master license agreement, permit or ordinance. 
+
+<h2>§ 585-3. Application requirements; fees. </h2>
+
+A. Site plans and structural calculations. The applicant must submit fully dimensioned and to-scale site plans, elevation drawings and structural calculations prepared, sealed, stamped and signed by a professional engineer licensed and registered by the State of Kansas. Drawings must depict any existing wireless facilities on the wireless support structures, with all existing transmission equipment identified; and the proposed small cell facility, with all proposed transmission equipment and other improvements. 
+B. Equipment specifications. For all components of the small cell facilities, wireless support structures, and accessory equipment depicted on the plans, the applicant must include, if applicable: 
+(1) Physical dimensions, including, without limitation, height, width, depth, volume and weight with mounts and other necessary hardware; 
+(2) Technical rendering of all external components, including enclosures and all attachment hardware. 
+C. Approvals required. Construction may only occur after receiving all applicable permits of general applicability from the City [e.g., utility and/or excavation permit(s)], and the City's approval of the specific application. The City shall process and approve (or deny) applications within the time frames prescribed by applicable laws and subject to the limitations of applicable laws. 
+D. Removal of existing street furniture, trees or other City infrastructure. No proposed small cell facility installation may cause or result in the removal of any existing City infrastructure, without the express written permission of and compensation to the City. 
+E. Removal due to public project and other causes. If requested by the City, in order to accomplish construction and maintenance activities directly related to improvements for the health, safety and welfare of the public, a wireless services provider or wireless infrastructure provider shall relocate or adjust its facilities within the public right-of-way at no cost to the City, as long as such request similarly binds all users of such right-of-way. Such relocation or adjustment shall be completed as soon as reasonably possible within the time set forth in any written request by the City for such relocation or adjustment, as long as the City provides the wireless services provider or wireless infrastructure provider with a minimum of 180 days' advance written notice to comply with such relocation or adjustment, unless circumstances beyond the City's control require a shorter period of advance notice. If any such relocation or adjustment is for private benefit, the provider shall not bear the cost of the relocation or adjustment to the extent of such private benefit, and the provider shall not be obligated to commence the relocation or adjustment until receipt of funds for such relocation or adjustment. The provider shall have no liability for any delays caused by a failure to receive funds for the cost of such relocation or adjustment, and the City shall have no obligation to collect such funds. 
+F. Fees. Unless already provided pursuant to a separate agreement with the City, the application will be accompanied by the following fees, as applicable: 
+(1) For a new pole that is used as a wireless support structure that is not a co-location: a fee of $1,000; 
+(2) For an application that includes up to five co-locations of small cell facilities: a fee of $500; for 
+
+Downloaded from https://ecode360.com/PA2793 on 2024-04-17
+

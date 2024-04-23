@@ -1,9 +1,8 @@
 from auth.jwt_bearer import JWTBearer
-from auth.jwt_handler import decode_jwt
+from auth.jwt_handler import decode_jwt, sign_jwt
 from fastapi import Body, APIRouter, Depends, HTTPException
 from passlib.context import CryptContext
 
-from auth.jwt_handler import sign_jwt
 from database.database import add_admin
 from models.admin import Admin
 from schemas.admin import AdminData, AdminSignIn
@@ -20,7 +19,10 @@ async def admin_login(admin_credentials: AdminSignIn = Body(...)):
     if admin_exists:
         password = hash_helper.verify(admin_credentials.password, admin_exists.password)
         if password:
-            return sign_jwt(admin_credentials.username)
+            return {
+                'access_token': sign_jwt(admin_credentials.username),
+                'refresh_token': sign_jwt(admin_credentials.username, 86400)
+            }
 
         raise HTTPException(status_code=403, detail="Incorrect email or password")
 

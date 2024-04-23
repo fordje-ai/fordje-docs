@@ -33,6 +33,6 @@ async def read_root():
     return {"message": "Welcome to this fantastic app."}
 
 
-app.include_router(AdminRouter, tags=["Administrator"], prefix="/admin")
+app.include_router(AdminRouter, tags=["Users"], prefix="/user")
 app.include_router(AhjRouter,tags=["AHJs"],prefix="/ahj",dependencies=[Depends(token_listener)],)
 app.include_router(CodeDocRouter,tags=["CodeDocs"],prefix="/codedoc",dependencies=[Depends(token_listener)],)

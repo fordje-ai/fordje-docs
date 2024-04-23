@@ -7,15 +7,15 @@ from config.config import Settings
 
 
 def token_response(token: str):
-    return {"access_token": token}
+    return token
 
 
 secret_key = Settings().secret_key
 
 
-def sign_jwt(user_id: str) -> Dict[str, str]:
+def sign_jwt(user_id: str, expiry: int = 2400) -> Dict[str, str]:
     # Set the expiry time.
-    payload = {"user_id": user_id, "expires": time.time() + 2400}
+    payload = {"user_id": user_id, "expires": time.time() + expiry}
     return token_response(jwt.encode(payload, secret_key, algorithm="HS256"))
 
 
