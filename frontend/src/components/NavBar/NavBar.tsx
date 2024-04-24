@@ -14,7 +14,11 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import HardwareIcon from '@mui/icons-material/Hardware';
 
-const pages = ['Docs List', 'Users'];
+const pages = [
+  {'name': 'Docs List', 'url': '/docs'},
+  {'name': 'Users', 'url': '/users'},
+  {'name': 'Review', 'url': '/review'}
+];
 const settings = ['Profile', 'Dashboard', 'Logout'];
 
 import { Link } from 'react-router-dom'
@@ -22,7 +26,7 @@ import { CanAccess } from '../CanAccess'
 
 function NavBar() {
   const { isAuthenticated, user, signOut } = useSession()
-  const { LOGIN_PATH, METRICS_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } =
+  const { LOGIN_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } =
     useRoutePaths()
 
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
@@ -96,8 +100,8 @@ function NavBar() {
               }}
             >
               {pages.map((page) => (
-                <MenuItem key={page} onClick={handleCloseNavMenu}>
-                  <Typography textAlign="center">{page}</Typography>
+                <MenuItem key={page.name} href={page.url} onClick={handleCloseNavMenu}>
+                  <Typography textAlign="center">{page.name}</Typography>
                 </MenuItem>
               ))}
             </Menu>
@@ -107,7 +111,7 @@ function NavBar() {
             variant="h5"
             noWrap
             component="a"
-            href="#app-bar-with-responsive-menu"
+            href="/"
             sx={{
               mr: 2,
               display: { xs: 'flex', md: 'none' },
@@ -124,11 +128,11 @@ function NavBar() {
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
               <Button
-                key={page}
-                onClick={handleCloseNavMenu}
+                key={page.name}
+                href={page.url}
                 sx={{ my: 2, color: 'white', display: 'block' }}
               >
-                {page}
+                {page.name}
               </Button>
             ))}
           </Box>
