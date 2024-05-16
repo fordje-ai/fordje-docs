@@ -53,16 +53,3 @@ To run the tests, run the following command:
 
 You can also write your own tests in the `tests` directory.  
 The test follow by the official support [FastAPI testing guide](https://fastapi.tiangolo.com/tutorial/testing/), [pytest](https://docs.pytest.org/en/stable/), [anyio](https://anyio.readthedocs.io/en/stable/) for async testing application.
-
-## Deployment
-
-This application can be deployed on any PaaS such as [Heroku](https://heroku.com) or [Okteto](https://okteto) and any other cloud service provider.
-
-## Contributing ?
-
-
-Fork the repo, make changes and send a PR. We'll review it together!
-
-## License
-
-This project is licensed under the terms of MIT license.
