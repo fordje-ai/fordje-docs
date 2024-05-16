@@ -25,7 +25,15 @@ function AuthProvider(props: Props) {
     const { email, password } = params
 
     try {
-      const response = await api.post('/sessions', { email, password })
+      // const response = await api.post('/sessions', { email, password })
+      const response = {
+        data: {
+          token: 'testToken',
+          refreshToken: 'testRefreshToken',
+          permissions: ['all'],
+          roles: ['all']
+        }
+      }
       const { token, refreshToken, permissions, roles } = response.data
 
       createSessionCookies({ token, refreshToken })
@@ -59,7 +67,17 @@ function AuthProvider(props: Props) {
       setLoadingUserData(true)
 
       try {
-        const response = await api.get('/me')
+        // const response = await api.get('/me');
+
+        const response = {
+          data: {
+            token: 'testToken',
+            email: 'testEmail@fordje.com',
+            refreshToken: 'testRefreshToken',
+            permissions: ['all'],
+            roles: ['all']
+          }
+        };
 
         if (response?.data) {
           const { email, permissions, roles } = response.data

@@ -26,8 +26,7 @@ import { CanAccess } from '../CanAccess'
 
 function NavBar() {
   const { isAuthenticated, user, signOut } = useSession()
-  const { LOGIN_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } =
-    useRoutePaths()
+  const { LOGIN_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } = useRoutePaths();
 
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
   const [anchorElUser, setAnchorElUser] = React.useState<null | HTMLElement>(null);
@@ -48,10 +47,12 @@ function NavBar() {
   };
 
   return (
-    <AppBar position="static" sx={{ maxHeight:"65px", marginBottom: "15px"}}>
+    <AppBar position="static" sx={{ maxHeight:"65px", marginBottom: "15px", backgroundColor: (theme) => theme.palette.primary.light}}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <HardwareIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
+          <Box sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}>
+            <img src="logo-small.png" />
+          </Box>
           <Typography
             variant="h6"
             noWrap
@@ -62,8 +63,8 @@ function NavBar() {
               display: { xs: 'none', md: 'flex' },
               fontFamily: 'monospace',
               fontWeight: 700,
-              letterSpacing: '.3rem',
-              color: 'inherit',
+              letterSpacing: '.1rem',
+              color: '#171A1F',
               textDecoration: 'none',
             }}
           >
@@ -106,7 +107,9 @@ function NavBar() {
               ))}
             </Menu>
           </Box>
-          <HardwareIcon sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }} />
+          <Box sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }}>
+            <img src="logo-small.png" />
+          </Box>
           <Typography
             variant="h5"
             noWrap
@@ -118,9 +121,10 @@ function NavBar() {
               flexGrow: 1,
               fontFamily: 'monospace',
               fontWeight: 700,
-              letterSpacing: '.3rem',
-              color: 'inherit',
+              letterSpacing: '.1rem',
+              color: '#171A1F',
               textDecoration: 'none',
+              
             }}
           >
             Fordje
@@ -130,7 +134,7 @@ function NavBar() {
               <Button
                 key={page.name}
                 href={page.url}
-                sx={{ my: 2, color: 'white', display: 'block' }}
+                sx={{ my: 2, color: (theme) => theme.palette.primary.dark, display: 'block' }}
               >
                 {page.name}
               </Button>

@@ -1,5 +1,5 @@
 import { BrowserRouter } from 'react-router-dom'
-import { NavBar } from './components'
+import { Footer, NavBar } from './components'
 import { AuthProvider } from './providers'
 import { Router } from './router'
 
@@ -9,6 +9,7 @@ function App() {
       <AuthProvider>
         <NavBar />
         <Router />
+        <Footer />
       </AuthProvider>
     </BrowserRouter>
   )

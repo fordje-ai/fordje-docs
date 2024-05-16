@@ -6,60 +6,65 @@ import { AxiosError } from "axios";
 import { useEffect, useState } from "react";
 import { Controller, useForm } from "react-hook-form";
 import { useParams } from "react-router-dom";
-import { CodeDocBlock, flattenCodeDoc } from "@/utils/transformCodeDoc";
+import { CodeDocBlock, flattenCodeDoc, reshapeCodeDoc } from "@/utils/transformCodeDoc";
 
 function Review() {
   const [docBlocks, setDocBlocks] = useState<CodeDocBlock[]>([])
   // const { id } = useParams();
   const testCodeDoc = {
-    type: "h1",
-    text: "header 1",
-    children: [
+    id: 1,
+    content: [
       {
-        type: 'p',
-        text: 'p1'
-      },
-      {
-        type: "h2", 
-        text: 'header 2', 
+        type: "h1",
+        text: "header 1",
         children: [
           {
-            type: "h3",
-            text: 'header 3',
+            type: 'p',
+            text: 'p1'
+          },
+          {
+            type: "h2", 
+            text: 'header 2', 
             children: [
-              { type: 'p', text: 'text 2' },
-              { type: 'p', text: 'text 3' },
-              { type: 'p', text: 'text 4' },
-              { type: 'p', text: 'text 5' },
+              {
+                type: "h3",
+                text: 'header 3',
+                children: [
+                  { type: 'p', text: 'text 2' },
+                  { type: 'p', text: 'text 3' },
+                  { type: 'p', text: 'text 4' },
+                  { type: 'p', text: 'text 5' },
+                ]
+              }
             ]
-          }
+          },
+          {
+            type: "h2",
+            text: 'header 4',
+            children: [
+              { type: 'p', text: 'text 6' },
+              { type: 'p', text: 'text 7' },
+              { type: 'p', text: 'text 8' },
+            ]
+          },
+          {
+            type: "h2",
+            text: 'header 5'
+          },
+          {
+            type: "h2",
+            text: 'header 6'
+          },
         ]
       },
-      {
-        type: "h2",
-        text: 'header 4',
-        children: [
-          { type: 'p', text: 'text 6' },
-          { type: 'p', text: 'text 7' },
-          { type: 'p', text: 'text 8' },
-        ]
-      },
-      {
-        type: "h2",
-        text: 'header 5'
-      },
-      {
-        type: "h2",
-        text: 'header 6'
-      },
-    ]
+    ],
   };
   useEffect(() => {
     async function loadDocBlocks() {
       try {
         // const response = await api.get(`/doc/${id}`)
         
-        const docs = flattenCodeDoc(testCodeDoc) || []
+        const docs = flattenCodeDoc(testCodeDoc.content) || []
         setDocBlocks(docs)
       } catch (error) {
         const err = error as AxiosError
@@ -69,14 +74,16 @@ function Review() {
     loadDocBlocks()
   }, [setDocBlocks])
 
-  const { control, handleSubmit } = useForm();
+  const { control, reset, handleSubmit } = useForm();
 
   const onSubmit = data => {
-      console.log(data);
+      // console.log(docBlocks);
+      console.log(reshapeCodeDoc(docBlocks));
   };
 
   const addDocBlock = () => {
     setDocBlocks([...docBlocks, {type: "h1", text: ""}]);
+    reset();
   };
 
   const removeDocBlock = (index) => {
@@ -84,6 +91,7 @@ function Review() {
     if (index > -1) {
       setDocBlocks(prevItems => prevItems.filter((_, i) => i !== index)); 
     }
+    reset();
   }
 
   return (

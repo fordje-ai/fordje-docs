@@ -6,13 +6,18 @@ export enum CodeDocBlockType {
   p = "p"
 };
 
+export type CodeDoc = {
+  id: string;
+  content: CodeDocBlock[];
+}
+
 export type CodeDocBlock = {
   type: string;
   text: string;
   children?: CodeDocBlock[];
 }
 
-export const flattenCodeDoc = (codeDoc:CodeDocBlock) => {
+export const flattenCodeDoc = (codeDoc:CodeDocBlock[]) => {
   let result: CodeDocBlock[] = [];
 
   // Helper function to traverse the object
@@ -25,7 +30,43 @@ export const flattenCodeDoc = (codeDoc:CodeDocBlock) => {
   }
 
   // Start the recursion
-  traverse(codeDoc);
+  codeDoc.forEach((doc) => {
+    traverse(doc);
+  })
 
   return result;
+}
+
+export const reshapeCodeDoc = (flattenedCodeDoc: CodeDocBlock[]) => {
+  let result: CodeDocBlock[] = [], prevResult;
+
+  flattenedCodeDoc.forEach((docBlock) =>{
+    if(!prevResult) {
+      result.push({type: docBlock.type, text: docBlock.text, children: []});
+    } else {
+      if (headerRank(prevResult.type) < headerRank(docBlock.type)) {
+        result[(result.length-1)].children?.push(docBlock)
+      } else {
+        result.push(docBlock);
+      }
+    }
+    if (docBlock.type !== 'p') {
+      prevResult = docBlock;
+    }
+  })
+}
+
+const headerRank = (header) => {
+  switch (header) {
+    case 'h1':
+      return 1;
+    case 'h2':
+      return 2;
+    case 'h3':
+      return 3;
+    case 'h4':
+      return 4;
+    default:
+      return 5;
+  }
 }
