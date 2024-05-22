@@ -12,8 +12,10 @@ export type CodeDoc = {
 }
 
 export type CodeDocBlock = {
+  id: string;
   type: string;
   text: string;
+  path?: string;
   children?: CodeDocBlock[];
 }
 
@@ -22,7 +24,7 @@ export const flattenCodeDoc = (codeDoc:CodeDocBlock[]) => {
 
   // Helper function to traverse the object
   function traverse(currentObj: CodeDocBlock) {
-      result.push({ type: CodeDocBlockType[currentObj.type], text: currentObj.text });
+      result.push({ id: currentObj.id, type: CodeDocBlockType[currentObj.type], text: currentObj.text, path: currentObj.path });
       
       if ('children' in currentObj && Array.isArray(currentObj.children)) {
           currentObj.children.forEach(child => traverse(child));
@@ -38,35 +40,26 @@ export const flattenCodeDoc = (codeDoc:CodeDocBlock[]) => {
 }
 
 export const reshapeCodeDoc = (flattenedCodeDoc: CodeDocBlock[]) => {
-  let result: CodeDocBlock[] = [], prevResult;
+  const resultObj = flattenedCodeDoc.reduce((acc, val) => {
+    const key = val.path || 'prime';
+    acc[key] = {...acc[key], [val.id]: val};
+    return acc;
+  }, {})
 
-  flattenedCodeDoc.forEach((docBlock) =>{
-    if(!prevResult) {
-      result.push({type: docBlock.type, text: docBlock.text, children: []});
+  Object.keys(resultObj).forEach((val) => {
+    const keySplit = val.split('.');
+    const lastKey = keySplit.pop();
+    if(keySplit.length > 0) {
+      if(lastKey) {
+        resultObj[keySplit.join('.')][lastKey].children = Object.keys(resultObj[val]).map(subVal => resultObj[val][subVal]);
+      } 
     } else {
-      if (headerRank(prevResult.type) < headerRank(docBlock.type)) {
-        result[(result.length-1)].children?.push(docBlock)
-      } else {
-        result.push(docBlock);
+      if (lastKey !== 'prime') {
+        resultObj['prime'][lastKey].children = Object.keys(resultObj[val]).map(subVal => resultObj[val][subVal]);
       }
     }
-    if (docBlock.type !== 'p') {
-      prevResult = docBlock;
-    }
-  })
-}
+  });
 
-const headerRank = (header) => {
-  switch (header) {
-    case 'h1':
-      return 1;
-    case 'h2':
-      return 2;
-    case 'h3':
-      return 3;
-    case 'h4':
-      return 4;
-    default:
-      return 5;
-  }
+  const result = Object.keys(resultObj['prime']).map(key => resultObj['prime'][key]);
+  return result;
 }
