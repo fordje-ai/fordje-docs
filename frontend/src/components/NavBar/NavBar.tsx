@@ -15,7 +15,7 @@ import MenuItem from '@mui/material/MenuItem';
 import HardwareIcon from '@mui/icons-material/Hardware';
 
 const pages = [
-  {'name': 'Docs List', 'url': '/docs'},
+  {'name': 'Results', 'url': '/results'},
   {'name': 'Users', 'url': '/users'},
   {'name': 'Review', 'url': '/review'}
 ];
@@ -47,7 +47,7 @@ function NavBar() {
   };
 
   return (
-    <AppBar position="static" sx={{ maxHeight:"65px", marginBottom: "15px", backgroundColor: (theme) => theme.palette.primary.light}}>
+    <AppBar position="static" sx={{ maxHeight:"65px", zIndex: 999, backgroundColor: (theme) => theme.palette.primary.light}}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Box sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}>

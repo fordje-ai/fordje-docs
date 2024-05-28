@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import { useRoutePaths } from '@/hooks'
-import { Home, Login, Search, Register, Users, Review } from '@/pages'
+import { Home, Login, Search, Register, Users, Review, Results } from '@/pages'
 import { PrivateRoute } from '../PrivateRoute'
 import { PublicRoute } from '../PublicRoute'
 
@@ -10,6 +10,7 @@ function Router() {
     SEARCH_PATH,
     REGISTER_PATH,
     REVIEW_PATH,
+    RESULTS_PATH,
     ROOT_PATH,
     USERS_PATH,
     USER_PATH
@@ -37,6 +38,7 @@ function Router() {
 
       <Route path={REGISTER_PATH} element={<Register />} />
       <Route path={REVIEW_PATH} element={<Review />} />
+      <Route path={RESULTS_PATH} element={<Results />} />
 
       <Route
         path={SEARCH_PATH}
