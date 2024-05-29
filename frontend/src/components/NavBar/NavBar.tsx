@@ -15,6 +15,7 @@ import MenuItem from '@mui/material/MenuItem';
 import HardwareIcon from '@mui/icons-material/Hardware';
 
 const pages = [
+  {'name': 'Codes List', 'url': '/codesList'},
   {'name': 'Results', 'url': '/results'},
   {'name': 'Users', 'url': '/users'},
   {'name': 'Review', 'url': '/review'}
@@ -26,7 +27,7 @@ import { CanAccess } from '../CanAccess'
 
 function NavBar() {
   const { isAuthenticated, user, signOut } = useSession()
-  const { LOGIN_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } = useRoutePaths();
+  const { LOGIN_PATH, CODESLIST_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } = useRoutePaths();
 
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
   const [anchorElUser, setAnchorElUser] = React.useState<null | HTMLElement>(null);

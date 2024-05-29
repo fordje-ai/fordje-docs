@@ -1,0 +1,3223 @@
+OFFICIAL_CODE_STATE,STATE_CODE,STATE_NAME,COUNTY_NAME,NAME_WITH_DESC
+1,AL,Alabama,Baldwin,Baldwin County
+1,AL,Alabama,Hale,Hale County
+1,AL,Alabama,Sumter,Sumter County
+1,AL,Alabama,Talladega,Talladega County
+1,AL,Alabama,Mobile,Mobile County
+1,AL,Alabama,Winston,Winston County
+1,AL,Alabama,Covington,Covington County
+1,AL,Alabama,Dallas,Dallas County
+1,AL,Alabama,Perry,Perry County
+1,AL,Alabama,Clarke,Clarke County
+1,AL,Alabama,Coffee,Coffee County
+1,AL,Alabama,Geneva,Geneva County
+1,AL,Alabama,Lamar,Lamar County
+1,AL,Alabama,Jackson,Jackson County
+1,AL,Alabama,Cherokee,Cherokee County
+1,AL,Alabama,Marshall,Marshall County
+1,AL,Alabama,Wilcox,Wilcox County
+1,AL,Alabama,Clay,Clay County
+1,AL,Alabama,Escambia,Escambia County
+1,AL,Alabama,Franklin,Franklin County
+1,AL,Alabama,Lauderdale,Lauderdale County
+1,AL,Alabama,Monroe,Monroe County
+1,AL,Alabama,Conecuh,Conecuh County
+1,AL,Alabama,Crenshaw,Crenshaw County
+1,AL,Alabama,Houston,Houston County
+1,AL,Alabama,Autauga,Autauga County
+1,AL,Alabama,Butler,Butler County
+1,AL,Alabama,Greene,Greene County
+1,AL,Alabama,Tuscaloosa,Tuscaloosa County
+1,AL,Alabama,Pike,Pike County
+1,AL,Alabama,St. Clair,St. Clair County
+1,AL,Alabama,Henry,Henry County
+1,AL,Alabama,Bullock,Bullock County
+1,AL,Alabama,Calhoun,Calhoun County
+1,AL,Alabama,Limestone,Limestone County
+1,AL,Alabama,Cleburne,Cleburne County
+1,AL,Alabama,Colbert,Colbert County
+1,AL,Alabama,Dale,Dale County
+1,AL,Alabama,Randolph,Randolph County
+1,AL,Alabama,Blount,Blount County
+1,AL,Alabama,Tallapoosa,Tallapoosa County
+1,AL,Alabama,Walker,Walker County
+1,AL,Alabama,Jefferson,Jefferson County
+1,AL,Alabama,Madison,Madison County
+1,AL,Alabama,Barbour,Barbour County
+1,AL,Alabama,Coosa,Coosa County
+1,AL,Alabama,Cullman,Cullman County
+1,AL,Alabama,Lee,Lee County
+1,AL,Alabama,DeKalb,DeKalb County
+1,AL,Alabama,Pickens,Pickens County
+1,AL,Alabama,Choctaw,Choctaw County
+1,AL,Alabama,Russell,Russell County
+1,AL,Alabama,Bibb,Bibb County
+1,AL,Alabama,Chambers,Chambers County
+1,AL,Alabama,Montgomery,Montgomery County
+1,AL,Alabama,Shelby,Shelby County
+1,AL,Alabama,Washington,Washington County
+1,AL,Alabama,Macon,Macon County
+1,AL,Alabama,Marion,Marion County
+1,AL,Alabama,Chilton,Chilton County
+1,AL,Alabama,Elmore,Elmore County
+1,AL,Alabama,Etowah,Etowah County
+1,AL,Alabama,Morgan,Morgan County
+1,AL,Alabama,Fayette,Fayette County
+1,AL,Alabama,Lawrence,Lawrence County
+1,AL,Alabama,Lowndes,Lowndes County
+1,AL,Alabama,Marengo,Marengo County
+2,AK,Alaska,Skagway,Skagway Municipality
+2,AK,Alaska,Southeast Fairbanks,Southeast Fairbanks Census Area
+2,AK,Alaska,Aleutians West,Aleutians West Census Area
+2,AK,Alaska,Fairbanks North Star,Fairbanks North Star Borough
+2,AK,Alaska,Bethel,Bethel Census Area
+2,AK,Alaska,Chugach,Chugach Census Area
+2,AK,Alaska,Hoonah-Angoon,Hoonah-Angoon Census Area
+2,AK,Alaska,Haines,Haines Borough
+2,AK,Alaska,Kodiak Island,Kodiak Island Borough
+2,AK,Alaska,Northwest Arctic,Northwest Arctic Borough
+2,AK,Alaska,Kusilvak,Kusilvak Census Area
+2,AK,Alaska,Wrangell,Wrangell City and Borough
+2,AK,Alaska,Sitka,Sitka City and Borough
+2,AK,Alaska,Ketchikan Gateway,Ketchikan Gateway Borough
+2,AK,Alaska,Petersburg,Petersburg Borough
+2,AK,Alaska,Prince of Wales-Hyder,Prince of Wales-Hyder Census Area
+2,AK,Alaska,Bristol Bay,Bristol Bay Borough
+2,AK,Alaska,Dillingham,Dillingham Census Area
+2,AK,Alaska,Aleutians East,Aleutians East Borough
+2,AK,Alaska,Yakutat,Yakutat City and Borough
+2,AK,Alaska,Matanuska-Susitna,Matanuska-Susitna Borough
+2,AK,Alaska,Denali,Denali Borough
+2,AK,Alaska,Nome,Nome Census Area
+2,AK,Alaska,Anchorage,Anchorage Municipality
+2,AK,Alaska,Juneau,Juneau City and Borough
+2,AK,Alaska,North Slope,North Slope Borough
+2,AK,Alaska,Copper River,Copper River Census Area
+2,AK,Alaska,Yukon-Koyukuk,Yukon-Koyukuk Census Area
+2,AK,Alaska,Kenai Peninsula,Kenai Peninsula Borough
+2,AK,Alaska,Lake and Peninsula,Lake and Peninsula Borough
+4,AZ,Arizona,Navajo,Navajo County
+4,AZ,Arizona,Yavapai,Yavapai County
+4,AZ,Arizona,Coconino,Coconino County
+4,AZ,Arizona,Apache,Apache County
+4,AZ,Arizona,Graham,Graham County
+4,AZ,Arizona,Mohave,Mohave County
+4,AZ,Arizona,Pinal,Pinal County
+4,AZ,Arizona,La Paz,La Paz County
+4,AZ,Arizona,Yuma,Yuma County
+4,AZ,Arizona,Gila,Gila County
+4,AZ,Arizona,Greenlee,Greenlee County
+4,AZ,Arizona,Cochise,Cochise County
+4,AZ,Arizona,Maricopa,Maricopa County
+4,AZ,Arizona,Pima,Pima County
+4,AZ,Arizona,Santa Cruz,Santa Cruz County
+5,AR,Arkansas,Lawrence,Lawrence County
+5,AR,Arkansas,Yell,Yell County
+5,AR,Arkansas,Boone,Boone County
+5,AR,Arkansas,Calhoun,Calhoun County
+5,AR,Arkansas,Clark,Clark County
+5,AR,Arkansas,Ouachita,Ouachita County
+5,AR,Arkansas,Sevier,Sevier County
+5,AR,Arkansas,Drew,Drew County
+5,AR,Arkansas,Baxter,Baxter County
+5,AR,Arkansas,Columbia,Columbia County
+5,AR,Arkansas,Greene,Greene County
+5,AR,Arkansas,Marion,Marion County
+5,AR,Arkansas,Washington,Washington County
+5,AR,Arkansas,Cleveland,Cleveland County
+5,AR,Arkansas,Perry,Perry County
+5,AR,Arkansas,Arkansas,Arkansas County
+5,AR,Arkansas,White,White County
+5,AR,Arkansas,Woodruff,Woodruff County
+5,AR,Arkansas,Crawford,Crawford County
+5,AR,Arkansas,Faulkner,Faulkner County
+5,AR,Arkansas,Mississippi,Mississippi County
+5,AR,Arkansas,Ashley,Ashley County
+5,AR,Arkansas,Bradley,Bradley County
+5,AR,Arkansas,Sebastian,Sebastian County
+5,AR,Arkansas,Carroll,Carroll County
+5,AR,Arkansas,Jefferson,Jefferson County
+5,AR,Arkansas,Phillips,Phillips County
+5,AR,Arkansas,Desha,Desha County
+5,AR,Arkansas,Garland,Garland County
+5,AR,Arkansas,Lincoln,Lincoln County
+5,AR,Arkansas,Hempstead,Hempstead County
+5,AR,Arkansas,Izard,Izard County
+5,AR,Arkansas,Lonoke,Lonoke County
+5,AR,Arkansas,Lafayette,Lafayette County
+5,AR,Arkansas,Miller,Miller County
+5,AR,Arkansas,Pike,Pike County
+5,AR,Arkansas,Union,Union County
+5,AR,Arkansas,Conway,Conway County
+5,AR,Arkansas,Howard,Howard County
+5,AR,Arkansas,Newton,Newton County
+5,AR,Arkansas,Pulaski,Pulaski County
+5,AR,Arkansas,Stone,Stone County
+5,AR,Arkansas,Nevada,Nevada County
+5,AR,Arkansas,Pope,Pope County
+5,AR,Arkansas,Fulton,Fulton County
+5,AR,Arkansas,Madison,Madison County
+5,AR,Arkansas,Poinsett,Poinsett County
+5,AR,Arkansas,Scott,Scott County
+5,AR,Arkansas,Clay,Clay County
+5,AR,Arkansas,Dallas,Dallas County
+5,AR,Arkansas,Independence,Independence County
+5,AR,Arkansas,Monroe,Monroe County
+5,AR,Arkansas,Chicot,Chicot County
+5,AR,Arkansas,Polk,Polk County
+5,AR,Arkansas,Jackson,Jackson County
+5,AR,Arkansas,Johnson,Johnson County
+5,AR,Arkansas,Searcy,Searcy County
+5,AR,Arkansas,Cleburne,Cleburne County
+5,AR,Arkansas,Crittenden,Crittenden County
+5,AR,Arkansas,Grant,Grant County
+5,AR,Arkansas,Prairie,Prairie County
+5,AR,Arkansas,Randolph,Randolph County
+5,AR,Arkansas,St. Francis,St. Francis County
+5,AR,Arkansas,Van Buren,Van Buren County
+5,AR,Arkansas,Hot Spring,Hot Spring County
+5,AR,Arkansas,Logan,Logan County
+5,AR,Arkansas,Montgomery,Montgomery County
+5,AR,Arkansas,Cross,Cross County
+5,AR,Arkansas,Lee,Lee County
+5,AR,Arkansas,Little River,Little River County
+5,AR,Arkansas,Benton,Benton County
+5,AR,Arkansas,Craighead,Craighead County
+5,AR,Arkansas,Franklin,Franklin County
+5,AR,Arkansas,Saline,Saline County
+5,AR,Arkansas,Sharp,Sharp County
+6,CA,California,Napa,Napa County
+6,CA,California,San Francisco,San Francisco County
+6,CA,California,Calaveras,Calaveras County
+6,CA,California,Colusa,Colusa County
+6,CA,California,Inyo,Inyo County
+6,CA,California,Kern,Kern County
+6,CA,California,Modoc,Modoc County
+6,CA,California,Alpine,Alpine County
+6,CA,California,Lake,Lake County
+6,CA,California,El Dorado,El Dorado County
+6,CA,California,Sacramento,Sacramento County
+6,CA,California,Solano,Solano County
+6,CA,California,Humboldt,Humboldt County
+6,CA,California,Lassen,Lassen County
+6,CA,California,Madera,Madera County
+6,CA,California,Orange,Orange County
+6,CA,California,Placer,Placer County
+6,CA,California,Mariposa,Mariposa County
+6,CA,California,Alameda,Alameda County
+6,CA,California,Del Norte,Del Norte County
+6,CA,California,Riverside,Riverside County
+6,CA,California,Mendocino,Mendocino County
+6,CA,California,San Bernardino,San Bernardino County
+6,CA,California,Tulare,Tulare County
+6,CA,California,Mono,Mono County
+6,CA,California,Monterey,Monterey County
+6,CA,California,San Diego,San Diego County
+6,CA,California,San Joaquin,San Joaquin County
+6,CA,California,Santa Clara,Santa Clara County
+6,CA,California,Shasta,Shasta County
+6,CA,California,Sonoma,Sonoma County
+6,CA,California,San Luis Obispo,San Luis Obispo County
+6,CA,California,Santa Barbara,Santa Barbara County
+6,CA,California,Yuba,Yuba County
+6,CA,California,Glenn,Glenn County
+6,CA,California,Los Angeles,Los Angeles County
+6,CA,California,Nevada,Nevada County
+6,CA,California,Sierra,Sierra County
+6,CA,California,Sutter,Sutter County
+6,CA,California,Tuolumne,Tuolumne County
+6,CA,California,Santa Cruz,Santa Cruz County
+6,CA,California,Imperial,Imperial County
+6,CA,California,Merced,Merced County
+6,CA,California,Yolo,Yolo County
+6,CA,California,Fresno,Fresno County
+6,CA,California,Kings,Kings County
+6,CA,California,Marin,Marin County
+6,CA,California,San Mateo,San Mateo County
+6,CA,California,Plumas,Plumas County
+6,CA,California,Siskiyou,Siskiyou County
+6,CA,California,Amador,Amador County
+6,CA,California,Contra Costa,Contra Costa County
+6,CA,California,Tehama,Tehama County
+6,CA,California,Trinity,Trinity County
+6,CA,California,Stanislaus,Stanislaus County
+6,CA,California,Butte,Butte County
+6,CA,California,San Benito,San Benito County
+6,CA,California,Ventura,Ventura County
+8,CO,Colorado,San Miguel,San Miguel County
+8,CO,Colorado,Denver,Denver County
+8,CO,Colorado,Clear Creek,Clear Creek County
+8,CO,Colorado,Arapahoe,Arapahoe County
+8,CO,Colorado,Grand,Grand County
+8,CO,Colorado,Las Animas,Las Animas County
+8,CO,Colorado,Phillips,Phillips County
+8,CO,Colorado,Summit,Summit County
+8,CO,Colorado,Washington,Washington County
+8,CO,Colorado,Douglas,Douglas County
+8,CO,Colorado,Kit Carson,Kit Carson County
+8,CO,Colorado,Mesa,Mesa County
+8,CO,Colorado,Crowley,Crowley County
+8,CO,Colorado,Fremont,Fremont County
+8,CO,Colorado,Rio Blanco,Rio Blanco County
+8,CO,Colorado,Conejos,Conejos County
+8,CO,Colorado,Gunnison,Gunnison County
+8,CO,Colorado,Huerfano,Huerfano County
+8,CO,Colorado,Jefferson,Jefferson County
+8,CO,Colorado,Pueblo,Pueblo County
+8,CO,Colorado,Routt,Routt County
+8,CO,Colorado,Custer,Custer County
+8,CO,Colorado,Eagle,Eagle County
+8,CO,Colorado,Saguache,Saguache County
+8,CO,Colorado,Mineral,Mineral County
+8,CO,Colorado,Adams,Adams County
+8,CO,Colorado,Alamosa,Alamosa County
+8,CO,Colorado,Sedgwick,Sedgwick County
+8,CO,Colorado,Teller,Teller County
+8,CO,Colorado,Chaffee,Chaffee County
+8,CO,Colorado,Bent,Bent County
+8,CO,Colorado,Logan,Logan County
+8,CO,Colorado,Garfield,Garfield County
+8,CO,Colorado,Lake,Lake County
+8,CO,Colorado,Montezuma,Montezuma County
+8,CO,Colorado,Morgan,Morgan County
+8,CO,Colorado,Park,Park County
+8,CO,Colorado,Delta,Delta County
+8,CO,Colorado,Kiowa,Kiowa County
+8,CO,Colorado,Boulder,Boulder County
+8,CO,Colorado,La Plata,La Plata County
+8,CO,Colorado,Archuleta,Archuleta County
+8,CO,Colorado,Larimer,Larimer County
+8,CO,Colorado,Elbert,Elbert County
+8,CO,Colorado,Ouray,Ouray County
+8,CO,Colorado,Pitkin,Pitkin County
+8,CO,Colorado,Prowers,Prowers County
+8,CO,Colorado,Baca,Baca County
+8,CO,Colorado,Jackson,Jackson County
+8,CO,Colorado,Otero,Otero County
+8,CO,Colorado,Weld,Weld County
+8,CO,Colorado,Rio Grande,Rio Grande County
+8,CO,Colorado,San Juan,San Juan County
+8,CO,Colorado,Yuma,Yuma County
+8,CO,Colorado,Broomfield,Broomfield County
+8,CO,Colorado,Cheyenne,Cheyenne County
+8,CO,Colorado,Hinsdale,Hinsdale County
+8,CO,Colorado,Gilpin,Gilpin County
+8,CO,Colorado,Montrose,Montrose County
+8,CO,Colorado,Costilla,Costilla County
+8,CO,Colorado,Dolores,Dolores County
+8,CO,Colorado,El Paso,El Paso County
+8,CO,Colorado,Lincoln,Lincoln County
+8,CO,Colorado,Moffat,Moffat County
+9,CT,Connecticut,Northwest Hills,Northwest Hills Planning Region
+9,CT,Connecticut,Capitol,Capitol Planning Region
+9,CT,Connecticut,Southeastern Connecticut,Southeastern Connecticut Planning Region
+9,CT,Connecticut,Northeastern Connecticut,Northeastern Connecticut Planning Region
+9,CT,Connecticut,Greater Bridgeport,Greater Bridgeport Planning Region
+9,CT,Connecticut,South Central Connecticut,South Central Connecticut Planning Region
+9,CT,Connecticut,Western Connecticut,Western Connecticut Planning Region
+9,CT,Connecticut,Lower Connecticut River Valley,Lower Connecticut River Valley Planning Region
+9,CT,Connecticut,Naugatuck Valley,Naugatuck Valley Planning Region
+10,DE,Delaware,New Castle,New Castle County
+10,DE,Delaware,Sussex,Sussex County
+10,DE,Delaware,Kent,Kent County
+11,DC,District of Columbia,District of Columbia,District of Columbia
+12,FL,Florida,Clay,Clay County
+12,FL,Florida,Escambia,Escambia County
+12,FL,Florida,Jackson,Jackson County
+12,FL,Florida,Lee,Lee County
+12,FL,Florida,Washington,Washington County
+12,FL,Florida,Broward,Broward County
+12,FL,Florida,Leon,Leon County
+12,FL,Florida,Polk,Polk County
+12,FL,Florida,Volusia,Volusia County
+12,FL,Florida,Hamilton,Hamilton County
+12,FL,Florida,Lake,Lake County
+12,FL,Florida,Liberty,Liberty County
+12,FL,Florida,Pasco,Pasco County
+12,FL,Florida,Hardee,Hardee County
+12,FL,Florida,Hernando,Hernando County
+12,FL,Florida,Baker,Baker County
+12,FL,Florida,Duval,Duval County
+12,FL,Florida,Gadsden,Gadsden County
+12,FL,Florida,Orange,Orange County
+12,FL,Florida,Bradford,Bradford County
+12,FL,Florida,Marion,Marion County
+12,FL,Florida,Monroe,Monroe County
+12,FL,Florida,Union,Union County
+12,FL,Florida,Wakulla,Wakulla County
+12,FL,Florida,Lafayette,Lafayette County
+12,FL,Florida,Gilchrist,Gilchrist County
+12,FL,Florida,Sumter,Sumter County
+12,FL,Florida,Brevard,Brevard County
+12,FL,Florida,Collier,Collier County
+12,FL,Florida,Citrus,Citrus County
+12,FL,Florida,Indian River,Indian River County
+12,FL,Florida,Calhoun,Calhoun County
+12,FL,Florida,DeSoto,DeSoto County
+12,FL,Florida,Manatee,Manatee County
+12,FL,Florida,Seminole,Seminole County
+12,FL,Florida,Bay,Bay County
+12,FL,Florida,Dixie,Dixie County
+12,FL,Florida,Franklin,Franklin County
+12,FL,Florida,Hendry,Hendry County
+12,FL,Florida,Glades,Glades County
+12,FL,Florida,Madison,Madison County
+12,FL,Florida,Okaloosa,Okaloosa County
+12,FL,Florida,Palm Beach,Palm Beach County
+12,FL,Florida,Taylor,Taylor County
+12,FL,Florida,Martin,Martin County
+12,FL,Florida,Suwannee,Suwannee County
+12,FL,Florida,Highlands,Highlands County
+12,FL,Florida,Osceola,Osceola County
+12,FL,Florida,Miami-Dade,Miami-Dade County
+12,FL,Florida,Putnam,Putnam County
+12,FL,Florida,Alachua,Alachua County
+12,FL,Florida,Flagler,Flagler County
+12,FL,Florida,Charlotte,Charlotte County
+12,FL,Florida,St. Lucie,St. Lucie County
+12,FL,Florida,Columbia,Columbia County
+12,FL,Florida,Levy,Levy County
+12,FL,Florida,Okeechobee,Okeechobee County
+12,FL,Florida,St. Johns,St. Johns County
+12,FL,Florida,Hillsborough,Hillsborough County
+12,FL,Florida,Jefferson,Jefferson County
+12,FL,Florida,Santa Rosa,Santa Rosa County
+12,FL,Florida,Gulf,Gulf County
+12,FL,Florida,Holmes,Holmes County
+12,FL,Florida,Nassau,Nassau County
+12,FL,Florida,Pinellas,Pinellas County
+12,FL,Florida,Walton,Walton County
+12,FL,Florida,Sarasota,Sarasota County
+13,GA,Georgia,Wilkes,Wilkes County
+13,GA,Georgia,Bartow,Bartow County
+13,GA,Georgia,Cobb,Cobb County
+13,GA,Georgia,Dooly,Dooly County
+13,GA,Georgia,Liberty,Liberty County
+13,GA,Georgia,Oglethorpe,Oglethorpe County
+13,GA,Georgia,Mitchell,Mitchell County
+13,GA,Georgia,Upson,Upson County
+13,GA,Georgia,Walker,Walker County
+13,GA,Georgia,Quitman,Quitman County
+13,GA,Georgia,Stewart,Stewart County
+13,GA,Georgia,Towns,Towns County
+13,GA,Georgia,Twiggs,Twiggs County
+13,GA,Georgia,Cook,Cook County
+13,GA,Georgia,Evans,Evans County
+13,GA,Georgia,Elbert,Elbert County
+13,GA,Georgia,Spalding,Spalding County
+13,GA,Georgia,Fannin,Fannin County
+13,GA,Georgia,Jasper,Jasper County
+13,GA,Georgia,Jefferson,Jefferson County
+13,GA,Georgia,Peach,Peach County
+13,GA,Georgia,Pulaski,Pulaski County
+13,GA,Georgia,Troup,Troup County
+13,GA,Georgia,Wheeler,Wheeler County
+13,GA,Georgia,Catoosa,Catoosa County
+13,GA,Georgia,Jackson,Jackson County
+13,GA,Georgia,Bibb,Bibb County
+13,GA,Georgia,Fulton,Fulton County
+13,GA,Georgia,Lanier,Lanier County
+13,GA,Georgia,Hall,Hall County
+13,GA,Georgia,Camden,Camden County
+13,GA,Georgia,Irwin,Irwin County
+13,GA,Georgia,Jeff Davis,Jeff Davis County
+13,GA,Georgia,Morgan,Morgan County
+13,GA,Georgia,Union,Union County
+13,GA,Georgia,Worth,Worth County
+13,GA,Georgia,Atkinson,Atkinson County
+13,GA,Georgia,Clarke,Clarke County
+13,GA,Georgia,Clay,Clay County
+13,GA,Georgia,Franklin,Franklin County
+13,GA,Georgia,Gordon,Gordon County
+13,GA,Georgia,Henry,Henry County
+13,GA,Georgia,Murray,Murray County
+13,GA,Georgia,Calhoun,Calhoun County
+13,GA,Georgia,Echols,Echols County
+13,GA,Georgia,Greene,Greene County
+13,GA,Georgia,Madison,Madison County
+13,GA,Georgia,Newton,Newton County
+13,GA,Georgia,Richmond,Richmond County
+13,GA,Georgia,Tattnall,Tattnall County
+13,GA,Georgia,Pierce,Pierce County
+13,GA,Georgia,Walton,Walton County
+13,GA,Georgia,Clinch,Clinch County
+13,GA,Georgia,Crawford,Crawford County
+13,GA,Georgia,Glascock,Glascock County
+13,GA,Georgia,Jones,Jones County
+13,GA,Georgia,Talbot,Talbot County
+13,GA,Georgia,Taliaferro,Taliaferro County
+13,GA,Georgia,Crisp,Crisp County
+13,GA,Georgia,Laurens,Laurens County
+13,GA,Georgia,McIntosh,McIntosh County
+13,GA,Georgia,Oconee,Oconee County
+13,GA,Georgia,Paulding,Paulding County
+13,GA,Georgia,Barrow,Barrow County
+13,GA,Georgia,Bleckley,Bleckley County
+13,GA,Georgia,Chattahoochee,Chattahoochee County
+13,GA,Georgia,Chattooga,Chattooga County
+13,GA,Georgia,Bryan,Bryan County
+13,GA,Georgia,Columbia,Columbia County
+13,GA,Georgia,Early,Early County
+13,GA,Georgia,Fayette,Fayette County
+13,GA,Georgia,Heard,Heard County
+13,GA,Georgia,Long,Long County
+13,GA,Georgia,Marion,Marion County
+13,GA,Georgia,Carroll,Carroll County
+13,GA,Georgia,Cherokee,Cherokee County
+13,GA,Georgia,Floyd,Floyd County
+13,GA,Georgia,Hart,Hart County
+13,GA,Georgia,Macon,Macon County
+13,GA,Georgia,Polk,Polk County
+13,GA,Georgia,Washington,Washington County
+13,GA,Georgia,Rabun,Rabun County
+13,GA,Georgia,Screven,Screven County
+13,GA,Georgia,Taylor,Taylor County
+13,GA,Georgia,Toombs,Toombs County
+13,GA,Georgia,Pike,Pike County
+13,GA,Georgia,Dodge,Dodge County
+13,GA,Georgia,Gilmer,Gilmer County
+13,GA,Georgia,Harris,Harris County
+13,GA,Georgia,Jenkins,Jenkins County
+13,GA,Georgia,Thomas,Thomas County
+13,GA,Georgia,Brooks,Brooks County
+13,GA,Georgia,Dawson,Dawson County
+13,GA,Georgia,Houston,Houston County
+13,GA,Georgia,Lincoln,Lincoln County
+13,GA,Georgia,Montgomery,Montgomery County
+13,GA,Georgia,Gwinnett,Gwinnett County
+13,GA,Georgia,Randolph,Randolph County
+13,GA,Georgia,Ware,Ware County
+13,GA,Georgia,Emanuel,Emanuel County
+13,GA,Georgia,Forsyth,Forsyth County
+13,GA,Georgia,Haralson,Haralson County
+13,GA,Georgia,Putnam,Putnam County
+13,GA,Georgia,Rockdale,Rockdale County
+13,GA,Georgia,Tift,Tift County
+13,GA,Georgia,Wayne,Wayne County
+13,GA,Georgia,Ben Hill,Ben Hill County
+13,GA,Georgia,Colquitt,Colquitt County
+13,GA,Georgia,Effingham,Effingham County
+13,GA,Georgia,Habersham,Habersham County
+13,GA,Georgia,Seminole,Seminole County
+13,GA,Georgia,Treutlen,Treutlen County
+13,GA,Georgia,Sumter,Sumter County
+13,GA,Georgia,Wilkinson,Wilkinson County
+13,GA,Georgia,Banks,Banks County
+13,GA,Georgia,Lamar,Lamar County
+13,GA,Georgia,Lowndes,Lowndes County
+13,GA,Georgia,Lumpkin,Lumpkin County
+13,GA,Georgia,Stephens,Stephens County
+13,GA,Georgia,Turner,Turner County
+13,GA,Georgia,Warren,Warren County
+13,GA,Georgia,Baker,Baker County
+13,GA,Georgia,Brantley,Brantley County
+13,GA,Georgia,Coweta,Coweta County
+13,GA,Georgia,DeKalb,DeKalb County
+13,GA,Georgia,McDuffie,McDuffie County
+13,GA,Georgia,Baldwin,Baldwin County
+13,GA,Georgia,Charlton,Charlton County
+13,GA,Georgia,Coffee,Coffee County
+13,GA,Georgia,Dougherty,Dougherty County
+13,GA,Georgia,Grady,Grady County
+13,GA,Georgia,Telfair,Telfair County
+13,GA,Georgia,Dade,Dade County
+13,GA,Georgia,Glynn,Glynn County
+13,GA,Georgia,Hancock,Hancock County
+13,GA,Georgia,Terrell,Terrell County
+13,GA,Georgia,Whitfield,Whitfield County
+13,GA,Georgia,Wilcox,Wilcox County
+13,GA,Georgia,Bulloch,Bulloch County
+13,GA,Georgia,Chatham,Chatham County
+13,GA,Georgia,Decatur,Decatur County
+13,GA,Georgia,Douglas,Douglas County
+13,GA,Georgia,Johnson,Johnson County
+13,GA,Georgia,Lee,Lee County
+13,GA,Georgia,Monroe,Monroe County
+13,GA,Georgia,Burke,Burke County
+13,GA,Georgia,Appling,Appling County
+13,GA,Georgia,Bacon,Bacon County
+13,GA,Georgia,Berrien,Berrien County
+13,GA,Georgia,Candler,Candler County
+13,GA,Georgia,Clayton,Clayton County
+13,GA,Georgia,Muscogee,Muscogee County
+13,GA,Georgia,Pickens,Pickens County
+13,GA,Georgia,Schley,Schley County
+13,GA,Georgia,Webster,Webster County
+13,GA,Georgia,White,White County
+13,GA,Georgia,Meriwether,Meriwether County
+13,GA,Georgia,Miller,Miller County
+13,GA,Georgia,Butts,Butts County
+15,HI,Hawaii,Kalawao,Kalawao County
+15,HI,Hawaii,Maui,Maui County
+15,HI,Hawaii,Honolulu,Honolulu County
+15,HI,Hawaii,Hawaii,Hawaii County
+15,HI,Hawaii,Kauai,Kauai County
+16,ID,Idaho,Idaho,Idaho County
+16,ID,Idaho,Power,Power County
+16,ID,Idaho,Boise,Boise County
+16,ID,Idaho,Oneida,Oneida County
+16,ID,Idaho,Adams,Adams County
+16,ID,Idaho,Bingham,Bingham County
+16,ID,Idaho,Madison,Madison County
+16,ID,Idaho,Camas,Camas County
+16,ID,Idaho,Elmore,Elmore County
+16,ID,Idaho,Minidoka,Minidoka County
+16,ID,Idaho,Cassia,Cassia County
+16,ID,Idaho,Jefferson,Jefferson County
+16,ID,Idaho,Lemhi,Lemhi County
+16,ID,Idaho,Twin Falls,Twin Falls County
+16,ID,Idaho,Lewis,Lewis County
+16,ID,Idaho,Teton,Teton County
+16,ID,Idaho,Boundary,Boundary County
+16,ID,Idaho,Canyon,Canyon County
+16,ID,Idaho,Bonner,Bonner County
+16,ID,Idaho,Jerome,Jerome County
+16,ID,Idaho,Nez Perce,Nez Perce County
+16,ID,Idaho,Bonneville,Bonneville County
+16,ID,Idaho,Bear Lake,Bear Lake County
+16,ID,Idaho,Benewah,Benewah County
+16,ID,Idaho,Latah,Latah County
+16,ID,Idaho,Custer,Custer County
+16,ID,Idaho,Franklin,Franklin County
+16,ID,Idaho,Fremont,Fremont County
+16,ID,Idaho,Kootenai,Kootenai County
+16,ID,Idaho,Owyhee,Owyhee County
+16,ID,Idaho,Payette,Payette County
+16,ID,Idaho,Washington,Washington County
+16,ID,Idaho,Blaine,Blaine County
+16,ID,Idaho,Caribou,Caribou County
+16,ID,Idaho,Clark,Clark County
+16,ID,Idaho,Ada,Ada County
+16,ID,Idaho,Clearwater,Clearwater County
+16,ID,Idaho,Gem,Gem County
+16,ID,Idaho,Lincoln,Lincoln County
+16,ID,Idaho,Valley,Valley County
+16,ID,Idaho,Butte,Butte County
+16,ID,Idaho,Bannock,Bannock County
+16,ID,Idaho,Shoshone,Shoshone County
+16,ID,Idaho,Gooding,Gooding County
+17,IL,Illinois,Clay,Clay County
+17,IL,Illinois,Hamilton,Hamilton County
+17,IL,Illinois,Jackson,Jackson County
+17,IL,Illinois,Madison,Madison County
+17,IL,Illinois,Jasper,Jasper County
+17,IL,Illinois,McLean,McLean County
+17,IL,Illinois,Scott,Scott County
+17,IL,Illinois,Jersey,Jersey County
+17,IL,Illinois,Jo Daviess,Jo Daviess County
+17,IL,Illinois,Montgomery,Montgomery County
+17,IL,Illinois,Morgan,Morgan County
+17,IL,Illinois,Moultrie,Moultrie County
+17,IL,Illinois,Sangamon,Sangamon County
+17,IL,Illinois,Adams,Adams County
+17,IL,Illinois,Hancock,Hancock County
+17,IL,Illinois,Hardin,Hardin County
+17,IL,Illinois,Ogle,Ogle County
+17,IL,Illinois,Rock Island,Rock Island County
+17,IL,Illinois,Wayne,Wayne County
+17,IL,Illinois,Calhoun,Calhoun County
+17,IL,Illinois,Clinton,Clinton County
+17,IL,Illinois,Iroquois,Iroquois County
+17,IL,Illinois,Pike,Pike County
+17,IL,Illinois,Alexander,Alexander County
+17,IL,Illinois,Kane,Kane County
+17,IL,Illinois,Monroe,Monroe County
+17,IL,Illinois,Pope,Pope County
+17,IL,Illinois,Logan,Logan County
+17,IL,Illinois,Mercer,Mercer County
+17,IL,Illinois,Livingston,Livingston County
+17,IL,Illinois,Greene,Greene County
+17,IL,Illinois,Marion,Marion County
+17,IL,Illinois,St. Clair,St. Clair County
+17,IL,Illinois,Tazewell,Tazewell County
+17,IL,Illinois,Douglas,Douglas County
+17,IL,Illinois,Edwards,Edwards County
+17,IL,Illinois,Jefferson,Jefferson County
+17,IL,Illinois,Brown,Brown County
+17,IL,Illinois,Lee,Lee County
+17,IL,Illinois,Stephenson,Stephenson County
+17,IL,Illinois,Cass,Cass County
+17,IL,Illinois,Fayette,Fayette County
+17,IL,Illinois,LaSalle,LaSalle County
+17,IL,Illinois,Marshall,Marshall County
+17,IL,Illinois,Cumberland,Cumberland County
+17,IL,Illinois,Henderson,Henderson County
+17,IL,Illinois,McHenry,McHenry County
+17,IL,Illinois,Peoria,Peoria County
+17,IL,Illinois,Christian,Christian County
+17,IL,Illinois,Crawford,Crawford County
+17,IL,Illinois,DuPage,DuPage County
+17,IL,Illinois,Effingham,Effingham County
+17,IL,Illinois,Franklin,Franklin County
+17,IL,Illinois,Macoupin,Macoupin County
+17,IL,Illinois,Union,Union County
+17,IL,Illinois,Warren,Warren County
+17,IL,Illinois,Williamson,Williamson County
+17,IL,Illinois,Lake,Lake County
+17,IL,Illinois,Lawrence,Lawrence County
+17,IL,Illinois,Mason,Mason County
+17,IL,Illinois,Pulaski,Pulaski County
+17,IL,Illinois,Randolph,Randolph County
+17,IL,Illinois,Perry,Perry County
+17,IL,Illinois,Shelby,Shelby County
+17,IL,Illinois,Boone,Boone County
+17,IL,Illinois,Cook,Cook County
+17,IL,Illinois,Kankakee,Kankakee County
+17,IL,Illinois,Knox,Knox County
+17,IL,Illinois,Stark,Stark County
+17,IL,Illinois,Washington,Washington County
+17,IL,Illinois,White,White County
+17,IL,Illinois,Woodford,Woodford County
+17,IL,Illinois,Bureau,Bureau County
+17,IL,Illinois,Carroll,Carroll County
+17,IL,Illinois,Coles,Coles County
+17,IL,Illinois,De Witt,De Witt County
+17,IL,Illinois,Vermilion,Vermilion County
+17,IL,Illinois,Wabash,Wabash County
+17,IL,Illinois,Clark,Clark County
+17,IL,Illinois,McDonough,McDonough County
+17,IL,Illinois,Massac,Massac County
+17,IL,Illinois,Piatt,Piatt County
+17,IL,Illinois,Champaign,Champaign County
+17,IL,Illinois,Edgar,Edgar County
+17,IL,Illinois,Johnson,Johnson County
+17,IL,Illinois,Macon,Macon County
+17,IL,Illinois,Menard,Menard County
+17,IL,Illinois,Putnam,Putnam County
+17,IL,Illinois,Ford,Ford County
+17,IL,Illinois,Gallatin,Gallatin County
+17,IL,Illinois,Henry,Henry County
+17,IL,Illinois,Will,Will County
+17,IL,Illinois,Winnebago,Winnebago County
+17,IL,Illinois,Bond,Bond County
+17,IL,Illinois,Fulton,Fulton County
+17,IL,Illinois,Grundy,Grundy County
+17,IL,Illinois,Kendall,Kendall County
+17,IL,Illinois,Saline,Saline County
+17,IL,Illinois,Richland,Richland County
+17,IL,Illinois,Whiteside,Whiteside County
+17,IL,Illinois,DeKalb,DeKalb County
+17,IL,Illinois,Schuyler,Schuyler County
+18,IN,Indiana,Boone,Boone County
+18,IN,Indiana,Fountain,Fountain County
+18,IN,Indiana,Jennings,Jennings County
+18,IN,Indiana,Newton,Newton County
+18,IN,Indiana,Wells,Wells County
+18,IN,Indiana,Cass,Cass County
+18,IN,Indiana,Clark,Clark County
+18,IN,Indiana,Elkhart,Elkhart County
+18,IN,Indiana,Hamilton,Hamilton County
+18,IN,Indiana,Lake,Lake County
+18,IN,Indiana,Ripley,Ripley County
+18,IN,Indiana,Crawford,Crawford County
+18,IN,Indiana,Martin,Martin County
+18,IN,Indiana,Parke,Parke County
+18,IN,Indiana,Tipton,Tipton County
+18,IN,Indiana,Wabash,Wabash County
+18,IN,Indiana,White,White County
+18,IN,Indiana,Adams,Adams County
+18,IN,Indiana,Greene,Greene County
+18,IN,Indiana,Kosciusko,Kosciusko County
+18,IN,Indiana,Morgan,Morgan County
+18,IN,Indiana,Harrison,Harrison County
+18,IN,Indiana,Henry,Henry County
+18,IN,Indiana,Lawrence,Lawrence County
+18,IN,Indiana,Brown,Brown County
+18,IN,Indiana,Floyd,Floyd County
+18,IN,Indiana,Owen,Owen County
+18,IN,Indiana,Putnam,Putnam County
+18,IN,Indiana,Shelby,Shelby County
+18,IN,Indiana,Vanderburgh,Vanderburgh County
+18,IN,Indiana,Fayette,Fayette County
+18,IN,Indiana,Grant,Grant County
+18,IN,Indiana,St. Joseph,St. Joseph County
+18,IN,Indiana,Steuben,Steuben County
+18,IN,Indiana,Howard,Howard County
+18,IN,Indiana,Jefferson,Jefferson County
+18,IN,Indiana,Miami,Miami County
+18,IN,Indiana,Blackford,Blackford County
+18,IN,Indiana,Daviess,Daviess County
+18,IN,Indiana,Franklin,Franklin County
+18,IN,Indiana,Huntington,Huntington County
+18,IN,Indiana,LaPorte,LaPorte County
+18,IN,Indiana,Warrick,Warrick County
+18,IN,Indiana,Perry,Perry County
+18,IN,Indiana,Switzerland,Switzerland County
+18,IN,Indiana,Union,Union County
+18,IN,Indiana,Warren,Warren County
+18,IN,Indiana,Clay,Clay County
+18,IN,Indiana,Randolph,Randolph County
+18,IN,Indiana,Washington,Washington County
+18,IN,Indiana,Delaware,Delaware County
+18,IN,Indiana,Posey,Posey County
+18,IN,Indiana,Vigo,Vigo County
+18,IN,Indiana,Dubois,Dubois County
+18,IN,Indiana,Fulton,Fulton County
+18,IN,Indiana,Decatur,Decatur County
+18,IN,Indiana,Orange,Orange County
+18,IN,Indiana,Pike,Pike County
+18,IN,Indiana,Jasper,Jasper County
+18,IN,Indiana,Carroll,Carroll County
+18,IN,Indiana,Knox,Knox County
+18,IN,Indiana,Madison,Madison County
+18,IN,Indiana,Pulaski,Pulaski County
+18,IN,Indiana,Tippecanoe,Tippecanoe County
+18,IN,Indiana,Vermillion,Vermillion County
+18,IN,Indiana,Whitley,Whitley County
+18,IN,Indiana,Gibson,Gibson County
+18,IN,Indiana,Hancock,Hancock County
+18,IN,Indiana,Marshall,Marshall County
+18,IN,Indiana,Ohio,Ohio County
+18,IN,Indiana,Porter,Porter County
+18,IN,Indiana,Spencer,Spencer County
+18,IN,Indiana,Benton,Benton County
+18,IN,Indiana,DeKalb,DeKalb County
+18,IN,Indiana,Johnson,Johnson County
+18,IN,Indiana,Montgomery,Montgomery County
+18,IN,Indiana,Noble,Noble County
+18,IN,Indiana,LaGrange,LaGrange County
+18,IN,Indiana,Sullivan,Sullivan County
+18,IN,Indiana,Rush,Rush County
+18,IN,Indiana,Allen,Allen County
+18,IN,Indiana,Jay,Jay County
+18,IN,Indiana,Monroe,Monroe County
+18,IN,Indiana,Wayne,Wayne County
+18,IN,Indiana,Clinton,Clinton County
+18,IN,Indiana,Dearborn,Dearborn County
+18,IN,Indiana,Hendricks,Hendricks County
+18,IN,Indiana,Jackson,Jackson County
+18,IN,Indiana,Scott,Scott County
+18,IN,Indiana,Starke,Starke County
+18,IN,Indiana,Bartholomew,Bartholomew County
+18,IN,Indiana,Marion,Marion County
+19,IA,Iowa,Crawford,Crawford County
+19,IA,Iowa,Jasper,Jasper County
+19,IA,Iowa,Jones,Jones County
+19,IA,Iowa,Webster,Webster County
+19,IA,Iowa,Winneshiek,Winneshiek County
+19,IA,Iowa,Adams,Adams County
+19,IA,Iowa,Delaware,Delaware County
+19,IA,Iowa,Mitchell,Mitchell County
+19,IA,Iowa,Plymouth,Plymouth County
+19,IA,Iowa,Taylor,Taylor County
+19,IA,Iowa,Dallas,Dallas County
+19,IA,Iowa,Black Hawk,Black Hawk County
+19,IA,Iowa,Clinton,Clinton County
+19,IA,Iowa,Emmet,Emmet County
+19,IA,Iowa,Fremont,Fremont County
+19,IA,Iowa,Grundy,Grundy County
+19,IA,Iowa,Guthrie,Guthrie County
+19,IA,Iowa,Story,Story County
+19,IA,Iowa,Humboldt,Humboldt County
+19,IA,Iowa,Cedar,Cedar County
+19,IA,Iowa,Madison,Madison County
+19,IA,Iowa,Winnebago,Winnebago County
+19,IA,Iowa,Adair,Adair County
+19,IA,Iowa,Bremer,Bremer County
+19,IA,Iowa,Dickinson,Dickinson County
+19,IA,Iowa,Hamilton,Hamilton County
+19,IA,Iowa,Howard,Howard County
+19,IA,Iowa,Allamakee,Allamakee County
+19,IA,Iowa,Lyon,Lyon County
+19,IA,Iowa,Monroe,Monroe County
+19,IA,Iowa,Pocahontas,Pocahontas County
+19,IA,Iowa,Appanoose,Appanoose County
+19,IA,Iowa,Page,Page County
+19,IA,Iowa,Fayette,Fayette County
+19,IA,Iowa,Kossuth,Kossuth County
+19,IA,Iowa,Lee,Lee County
+19,IA,Iowa,Sac,Sac County
+19,IA,Iowa,Iowa,Iowa County
+19,IA,Iowa,Woodbury,Woodbury County
+19,IA,Iowa,Clay,Clay County
+19,IA,Iowa,Harrison,Harrison County
+19,IA,Iowa,Henry,Henry County
+19,IA,Iowa,Sioux,Sioux County
+19,IA,Iowa,Davis,Davis County
+19,IA,Iowa,Pottawattamie,Pottawattamie County
+19,IA,Iowa,Clayton,Clayton County
+19,IA,Iowa,Van Buren,Van Buren County
+19,IA,Iowa,Butler,Butler County
+19,IA,Iowa,Marion,Marion County
+19,IA,Iowa,Decatur,Decatur County
+19,IA,Iowa,Greene,Greene County
+19,IA,Iowa,Muscatine,Muscatine County
+19,IA,Iowa,Chickasaw,Chickasaw County
+19,IA,Iowa,Floyd,Floyd County
+19,IA,Iowa,Mills,Mills County
+19,IA,Iowa,Boone,Boone County
+19,IA,Iowa,Johnson,Johnson County
+19,IA,Iowa,Polk,Polk County
+19,IA,Iowa,Ida,Ida County
+19,IA,Iowa,Louisa,Louisa County
+19,IA,Iowa,Montgomery,Montgomery County
+19,IA,Iowa,Cass,Cass County
+19,IA,Iowa,Monona,Monona County
+19,IA,Iowa,Scott,Scott County
+19,IA,Iowa,Mahaska,Mahaska County
+19,IA,Iowa,Wapello,Wapello County
+19,IA,Iowa,Worth,Worth County
+19,IA,Iowa,Calhoun,Calhoun County
+19,IA,Iowa,Hardin,Hardin County
+19,IA,Iowa,Poweshiek,Poweshiek County
+19,IA,Iowa,Union,Union County
+19,IA,Iowa,Warren,Warren County
+19,IA,Iowa,Wayne,Wayne County
+19,IA,Iowa,Audubon,Audubon County
+19,IA,Iowa,Buena Vista,Buena Vista County
+19,IA,Iowa,Des Moines,Des Moines County
+19,IA,Iowa,Jefferson,Jefferson County
+19,IA,Iowa,O'Brien,O'Brien County
+19,IA,Iowa,Keokuk,Keokuk County
+19,IA,Iowa,Tama,Tama County
+19,IA,Iowa,Benton,Benton County
+19,IA,Iowa,Hancock,Hancock County
+19,IA,Iowa,Linn,Linn County
+19,IA,Iowa,Lucas,Lucas County
+19,IA,Iowa,Palo Alto,Palo Alto County
+19,IA,Iowa,Wright,Wright County
+19,IA,Iowa,Cerro Gordo,Cerro Gordo County
+19,IA,Iowa,Cherokee,Cherokee County
+19,IA,Iowa,Jackson,Jackson County
+19,IA,Iowa,Marshall,Marshall County
+19,IA,Iowa,Buchanan,Buchanan County
+19,IA,Iowa,Dubuque,Dubuque County
+19,IA,Iowa,Osceola,Osceola County
+19,IA,Iowa,Shelby,Shelby County
+19,IA,Iowa,Washington,Washington County
+19,IA,Iowa,Carroll,Carroll County
+19,IA,Iowa,Clarke,Clarke County
+19,IA,Iowa,Franklin,Franklin County
+19,IA,Iowa,Ringgold,Ringgold County
+20,KS,Kansas,Wilson,Wilson County
+20,KS,Kansas,Cherokee,Cherokee County
+20,KS,Kansas,Lincoln,Lincoln County
+20,KS,Kansas,Edwards,Edwards County
+20,KS,Kansas,Ford,Ford County
+20,KS,Kansas,Hamilton,Hamilton County
+20,KS,Kansas,Johnson,Johnson County
+20,KS,Kansas,Meade,Meade County
+20,KS,Kansas,Norton,Norton County
+20,KS,Kansas,Pratt,Pratt County
+20,KS,Kansas,Reno,Reno County
+20,KS,Kansas,Seward,Seward County
+20,KS,Kansas,Stafford,Stafford County
+20,KS,Kansas,Woodson,Woodson County
+20,KS,Kansas,Atchison,Atchison County
+20,KS,Kansas,Elk,Elk County
+20,KS,Kansas,Jackson,Jackson County
+20,KS,Kansas,Leavenworth,Leavenworth County
+20,KS,Kansas,Shawnee,Shawnee County
+20,KS,Kansas,Dickinson,Dickinson County
+20,KS,Kansas,Greeley,Greeley County
+20,KS,Kansas,Pawnee,Pawnee County
+20,KS,Kansas,Rooks,Rooks County
+20,KS,Kansas,Stanton,Stanton County
+20,KS,Kansas,Anderson,Anderson County
+20,KS,Kansas,Clark,Clark County
+20,KS,Kansas,Harvey,Harvey County
+20,KS,Kansas,Kearny,Kearny County
+20,KS,Kansas,Comanche,Comanche County
+20,KS,Kansas,Gray,Gray County
+20,KS,Kansas,Lane,Lane County
+20,KS,Kansas,Marion,Marion County
+20,KS,Kansas,Republic,Republic County
+20,KS,Kansas,Riley,Riley County
+20,KS,Kansas,Sheridan,Sheridan County
+20,KS,Kansas,Doniphan,Doniphan County
+20,KS,Kansas,Morton,Morton County
+20,KS,Kansas,Saline,Saline County
+20,KS,Kansas,Smith,Smith County
+20,KS,Kansas,Stevens,Stevens County
+20,KS,Kansas,Gove,Gove County
+20,KS,Kansas,Harper,Harper County
+20,KS,Kansas,Morris,Morris County
+20,KS,Kansas,Neosho,Neosho County
+20,KS,Kansas,Chautauqua,Chautauqua County
+20,KS,Kansas,Butler,Butler County
+20,KS,Kansas,Kiowa,Kiowa County
+20,KS,Kansas,Thomas,Thomas County
+20,KS,Kansas,Wyandotte,Wyandotte County
+20,KS,Kansas,Clay,Clay County
+20,KS,Kansas,Douglas,Douglas County
+20,KS,Kansas,Logan,Logan County
+20,KS,Kansas,Mitchell,Mitchell County
+20,KS,Kansas,Osborne,Osborne County
+20,KS,Kansas,Sedgwick,Sedgwick County
+20,KS,Kansas,Bourbon,Bourbon County
+20,KS,Kansas,Haskell,Haskell County
+20,KS,Kansas,Scott,Scott County
+20,KS,Kansas,Allen,Allen County
+20,KS,Kansas,Rawlins,Rawlins County
+20,KS,Kansas,Crawford,Crawford County
+20,KS,Kansas,Pottawatomie,Pottawatomie County
+20,KS,Kansas,Brown,Brown County
+20,KS,Kansas,Cloud,Cloud County
+20,KS,Kansas,Coffey,Coffey County
+20,KS,Kansas,Nemaha,Nemaha County
+20,KS,Kansas,Labette,Labette County
+20,KS,Kansas,Linn,Linn County
+20,KS,Kansas,Ness,Ness County
+20,KS,Kansas,Wabaunsee,Wabaunsee County
+20,KS,Kansas,Decatur,Decatur County
+20,KS,Kansas,Hodgeman,Hodgeman County
+20,KS,Kansas,Ottawa,Ottawa County
+20,KS,Kansas,Rice,Rice County
+20,KS,Kansas,Sherman,Sherman County
+20,KS,Kansas,Washington,Washington County
+20,KS,Kansas,Chase,Chase County
+20,KS,Kansas,Franklin,Franklin County
+20,KS,Kansas,Graham,Graham County
+20,KS,Kansas,Osage,Osage County
+20,KS,Kansas,Sumner,Sumner County
+20,KS,Kansas,Wichita,Wichita County
+20,KS,Kansas,Barber,Barber County
+20,KS,Kansas,Cowley,Cowley County
+20,KS,Kansas,Geary,Geary County
+20,KS,Kansas,Rush,Rush County
+20,KS,Kansas,Ellis,Ellis County
+20,KS,Kansas,Ellsworth,Ellsworth County
+20,KS,Kansas,Trego,Trego County
+20,KS,Kansas,Barton,Barton County
+20,KS,Kansas,Cheyenne,Cheyenne County
+20,KS,Kansas,Grant,Grant County
+20,KS,Kansas,Greenwood,Greenwood County
+20,KS,Kansas,Marshall,Marshall County
+20,KS,Kansas,Russell,Russell County
+20,KS,Kansas,Kingman,Kingman County
+20,KS,Kansas,Montgomery,Montgomery County
+20,KS,Kansas,Jewell,Jewell County
+20,KS,Kansas,Miami,Miami County
+20,KS,Kansas,Phillips,Phillips County
+20,KS,Kansas,Finney,Finney County
+20,KS,Kansas,Jefferson,Jefferson County
+20,KS,Kansas,Lyon,Lyon County
+20,KS,Kansas,McPherson,McPherson County
+20,KS,Kansas,Wallace,Wallace County
+21,KY,Kentucky,Henderson,Henderson County
+21,KY,Kentucky,Henry,Henry County
+21,KY,Kentucky,Jessamine,Jessamine County
+21,KY,Kentucky,Laurel,Laurel County
+21,KY,Kentucky,Marion,Marion County
+21,KY,Kentucky,Menifee,Menifee County
+21,KY,Kentucky,Warren,Warren County
+21,KY,Kentucky,Wayne,Wayne County
+21,KY,Kentucky,Hart,Hart County
+21,KY,Kentucky,Muhlenberg,Muhlenberg County
+21,KY,Kentucky,Shelby,Shelby County
+21,KY,Kentucky,Bracken,Bracken County
+21,KY,Kentucky,Breathitt,Breathitt County
+21,KY,Kentucky,Harlan,Harlan County
+21,KY,Kentucky,McLean,McLean County
+21,KY,Kentucky,Marshall,Marshall County
+21,KY,Kentucky,Martin,Martin County
+21,KY,Kentucky,Metcalfe,Metcalfe County
+21,KY,Kentucky,Todd,Todd County
+21,KY,Kentucky,Boyd,Boyd County
+21,KY,Kentucky,Bullitt,Bullitt County
+21,KY,Kentucky,Carroll,Carroll County
+21,KY,Kentucky,Greenup,Greenup County
+21,KY,Kentucky,Jackson,Jackson County
+21,KY,Kentucky,Pendleton,Pendleton County
+21,KY,Kentucky,Webster,Webster County
+21,KY,Kentucky,Clark,Clark County
+21,KY,Kentucky,Clinton,Clinton County
+21,KY,Kentucky,Fayette,Fayette County
+21,KY,Kentucky,Green,Green County
+21,KY,Kentucky,Kenton,Kenton County
+21,KY,Kentucky,Lyon,Lyon County
+21,KY,Kentucky,Adair,Adair County
+21,KY,Kentucky,Allen,Allen County
+21,KY,Kentucky,Estill,Estill County
+21,KY,Kentucky,Garrard,Garrard County
+21,KY,Kentucky,Grant,Grant County
+21,KY,Kentucky,Nelson,Nelson County
+21,KY,Kentucky,Robertson,Robertson County
+21,KY,Kentucky,Ballard,Ballard County
+21,KY,Kentucky,Gallatin,Gallatin County
+21,KY,Kentucky,Powell,Powell County
+21,KY,Kentucky,Johnson,Johnson County
+21,KY,Kentucky,Morgan,Morgan County
+21,KY,Kentucky,Scott,Scott County
+21,KY,Kentucky,Jefferson,Jefferson County
+21,KY,Kentucky,Larue,Larue County
+21,KY,Kentucky,Lewis,Lewis County
+21,KY,Kentucky,Nicholas,Nicholas County
+21,KY,Kentucky,Anderson,Anderson County
+21,KY,Kentucky,Boyle,Boyle County
+21,KY,Kentucky,Barren,Barren County
+21,KY,Kentucky,Carlisle,Carlisle County
+21,KY,Kentucky,Elliott,Elliott County
+21,KY,Kentucky,Mason,Mason County
+21,KY,Kentucky,Owsley,Owsley County
+21,KY,Kentucky,Cumberland,Cumberland County
+21,KY,Kentucky,Daviess,Daviess County
+21,KY,Kentucky,Hardin,Hardin County
+21,KY,Kentucky,Calloway,Calloway County
+21,KY,Kentucky,Crittenden,Crittenden County
+21,KY,Kentucky,Edmonson,Edmonson County
+21,KY,Kentucky,Graves,Graves County
+21,KY,Kentucky,Hancock,Hancock County
+21,KY,Kentucky,Meade,Meade County
+21,KY,Kentucky,Breckinridge,Breckinridge County
+21,KY,Kentucky,Butler,Butler County
+21,KY,Kentucky,Mercer,Mercer County
+21,KY,Kentucky,Montgomery,Montgomery County
+21,KY,Kentucky,Bath,Bath County
+21,KY,Kentucky,Boone,Boone County
+21,KY,Kentucky,Ohio,Ohio County
+21,KY,Kentucky,Rowan,Rowan County
+21,KY,Kentucky,Casey,Casey County
+21,KY,Kentucky,McCreary,McCreary County
+21,KY,Kentucky,Oldham,Oldham County
+21,KY,Kentucky,Owen,Owen County
+21,KY,Kentucky,Magoffin,Magoffin County
+21,KY,Kentucky,Pike,Pike County
+21,KY,Kentucky,McCracken,McCracken County
+21,KY,Kentucky,Washington,Washington County
+21,KY,Kentucky,Floyd,Floyd County
+21,KY,Kentucky,Harrison,Harrison County
+21,KY,Kentucky,Knott,Knott County
+21,KY,Kentucky,Perry,Perry County
+21,KY,Kentucky,Letcher,Letcher County
+21,KY,Kentucky,Monroe,Monroe County
+21,KY,Kentucky,Russell,Russell County
+21,KY,Kentucky,Union,Union County
+21,KY,Kentucky,Whitley,Whitley County
+21,KY,Kentucky,Woodford,Woodford County
+21,KY,Kentucky,Bell,Bell County
+21,KY,Kentucky,Franklin,Franklin County
+21,KY,Kentucky,Fulton,Fulton County
+21,KY,Kentucky,Grayson,Grayson County
+21,KY,Kentucky,Hopkins,Hopkins County
+21,KY,Kentucky,Knox,Knox County
+21,KY,Kentucky,Lincoln,Lincoln County
+21,KY,Kentucky,Trimble,Trimble County
+21,KY,Kentucky,Madison,Madison County
+21,KY,Kentucky,Pulaski,Pulaski County
+21,KY,Kentucky,Taylor,Taylor County
+21,KY,Kentucky,Christian,Christian County
+21,KY,Kentucky,Lawrence,Lawrence County
+21,KY,Kentucky,Livingston,Livingston County
+21,KY,Kentucky,Rockcastle,Rockcastle County
+21,KY,Kentucky,Wolfe,Wolfe County
+21,KY,Kentucky,Carter,Carter County
+21,KY,Kentucky,Clay,Clay County
+21,KY,Kentucky,Fleming,Fleming County
+21,KY,Kentucky,Leslie,Leslie County
+21,KY,Kentucky,Logan,Logan County
+21,KY,Kentucky,Spencer,Spencer County
+21,KY,Kentucky,Caldwell,Caldwell County
+21,KY,Kentucky,Lee,Lee County
+21,KY,Kentucky,Bourbon,Bourbon County
+21,KY,Kentucky,Campbell,Campbell County
+21,KY,Kentucky,Hickman,Hickman County
+21,KY,Kentucky,Simpson,Simpson County
+21,KY,Kentucky,Trigg,Trigg County
+22,LA,Louisiana,Terrebonne,Terrebonne Parish
+22,LA,Louisiana,Concordia,Concordia Parish
+22,LA,Louisiana,Franklin,Franklin Parish
+22,LA,Louisiana,Grant,Grant Parish
+22,LA,Louisiana,Morehouse,Morehouse Parish
+22,LA,Louisiana,Iberia,Iberia Parish
+22,LA,Louisiana,Madison,Madison Parish
+22,LA,Louisiana,Pointe Coupee,Pointe Coupee Parish
+22,LA,Louisiana,St. Martin,St. Martin Parish
+22,LA,Louisiana,Cameron,Cameron Parish
+22,LA,Louisiana,Red River,Red River Parish
+22,LA,Louisiana,Lafourche,Lafourche Parish
+22,LA,Louisiana,Ouachita,Ouachita Parish
+22,LA,Louisiana,St. Helena,St. Helena Parish
+22,LA,Louisiana,Tensas,Tensas Parish
+22,LA,Louisiana,East Feliciana,East Feliciana Parish
+22,LA,Louisiana,Lincoln,Lincoln Parish
+22,LA,Louisiana,Plaquemines,Plaquemines Parish
+22,LA,Louisiana,West Carroll,West Carroll Parish
+22,LA,Louisiana,Calcasieu,Calcasieu Parish
+22,LA,Louisiana,Washington,Washington Parish
+22,LA,Louisiana,Ascension,Ascension Parish
+22,LA,Louisiana,Claiborne,Claiborne Parish
+22,LA,Louisiana,Tangipahoa,Tangipahoa Parish
+22,LA,Louisiana,Beauregard,Beauregard Parish
+22,LA,Louisiana,Caddo,Caddo Parish
+22,LA,Louisiana,Caldwell,Caldwell Parish
+22,LA,Louisiana,Iberville,Iberville Parish
+22,LA,Louisiana,Livingston,Livingston Parish
+22,LA,Louisiana,Assumption,Assumption Parish
+22,LA,Louisiana,Avoyelles,Avoyelles Parish
+22,LA,Louisiana,LaSalle,LaSalle Parish
+22,LA,Louisiana,St. Mary,St. Mary Parish
+22,LA,Louisiana,Allen,Allen Parish
+22,LA,Louisiana,Bossier,Bossier Parish
+22,LA,Louisiana,De Soto,De Soto Parish
+22,LA,Louisiana,Vernon,Vernon Parish
+22,LA,Louisiana,Webster,Webster Parish
+22,LA,Louisiana,East Carroll,East Carroll Parish
+22,LA,Louisiana,Acadia,Acadia Parish
+22,LA,Louisiana,Richland,Richland Parish
+22,LA,Louisiana,St. Charles,St. Charles Parish
+22,LA,Louisiana,St. John the Baptist,St. John the Baptist Parish
+22,LA,Louisiana,Natchitoches,Natchitoches Parish
+22,LA,Louisiana,St. Bernard,St. Bernard Parish
+22,LA,Louisiana,St. James,St. James Parish
+22,LA,Louisiana,Union,Union Parish
+22,LA,Louisiana,Lafayette,Lafayette Parish
+22,LA,Louisiana,Orleans,Orleans Parish
+22,LA,Louisiana,Jackson,Jackson Parish
+22,LA,Louisiana,St. Landry,St. Landry Parish
+22,LA,Louisiana,Jefferson,Jefferson Parish
+22,LA,Louisiana,Vermilion,Vermilion Parish
+22,LA,Louisiana,Winn,Winn Parish
+22,LA,Louisiana,Catahoula,Catahoula Parish
+22,LA,Louisiana,Rapides,Rapides Parish
+22,LA,Louisiana,West Baton Rouge,West Baton Rouge Parish
+22,LA,Louisiana,West Feliciana,West Feliciana Parish
+22,LA,Louisiana,Sabine,Sabine Parish
+22,LA,Louisiana,Evangeline,Evangeline Parish
+22,LA,Louisiana,St. Tammany,St. Tammany Parish
+22,LA,Louisiana,Bienville,Bienville Parish
+22,LA,Louisiana,East Baton Rouge,East Baton Rouge Parish
+22,LA,Louisiana,Jefferson Davis,Jefferson Davis Parish
+23,ME,Maine,Oxford,Oxford County
+23,ME,Maine,Knox,Knox County
+23,ME,Maine,Hancock,Hancock County
+23,ME,Maine,Franklin,Franklin County
+23,ME,Maine,Lincoln,Lincoln County
+23,ME,Maine,Somerset,Somerset County
+23,ME,Maine,Sagadahoc,Sagadahoc County
+23,ME,Maine,Waldo,Waldo County
+23,ME,Maine,Androscoggin,Androscoggin County
+23,ME,Maine,Washington,Washington County
+23,ME,Maine,Penobscot,Penobscot County
+23,ME,Maine,Kennebec,Kennebec County
+23,ME,Maine,Piscataquis,Piscataquis County
+23,ME,Maine,Aroostook,Aroostook County
+23,ME,Maine,Cumberland,Cumberland County
+23,ME,Maine,York,York County
+24,MD,Maryland,Garrett,Garrett County
+24,MD,Maryland,Caroline,Caroline County
+24,MD,Maryland,Dorchester,Dorchester County
+24,MD,Maryland,Wicomico,Wicomico County
+24,MD,Maryland,Washington,Washington County
+24,MD,Maryland,Calvert,Calvert County
+24,MD,Maryland,Frederick,Frederick County
+24,MD,Maryland,Kent,Kent County
+24,MD,Maryland,Baltimore,Baltimore city
+24,MD,Maryland,Allegany,Allegany County
+24,MD,Maryland,Prince George's,Prince George's County
+24,MD,Maryland,Cecil,Cecil County
+24,MD,Maryland,St. Mary's,St. Mary's County
+24,MD,Maryland,Somerset,Somerset County
+24,MD,Maryland,Anne Arundel,Anne Arundel County
+24,MD,Maryland,Baltimore,Baltimore County
+24,MD,Maryland,Montgomery,Montgomery County
+24,MD,Maryland,Queen Anne's,Queen Anne's County
+24,MD,Maryland,Talbot,Talbot County
+24,MD,Maryland,Harford,Harford County
+24,MD,Maryland,Charles,Charles County
+24,MD,Maryland,Carroll,Carroll County
+24,MD,Maryland,Worcester,Worcester County
+24,MD,Maryland,Howard,Howard County
+25,MA,Massachusetts,Franklin,Franklin County
+25,MA,Massachusetts,Bristol,Bristol County
+25,MA,Massachusetts,Hampshire,Hampshire County
+25,MA,Massachusetts,Essex,Essex County
+25,MA,Massachusetts,Berkshire,Berkshire County
+25,MA,Massachusetts,Plymouth,Plymouth County
+25,MA,Massachusetts,Norfolk,Norfolk County
+25,MA,Massachusetts,Suffolk,Suffolk County
+25,MA,Massachusetts,Nantucket,Nantucket County
+25,MA,Massachusetts,Worcester,Worcester County
+25,MA,Massachusetts,Barnstable,Barnstable County
+25,MA,Massachusetts,Middlesex,Middlesex County
+25,MA,Massachusetts,Dukes,Dukes County
+25,MA,Massachusetts,Hampden,Hampden County
+26,MI,Michigan,Allegan,Allegan County
+26,MI,Michigan,Clare,Clare County
+26,MI,Michigan,Delta,Delta County
+26,MI,Michigan,Jackson,Jackson County
+26,MI,Michigan,Huron,Huron County
+26,MI,Michigan,Sanilac,Sanilac County
+26,MI,Michigan,Shiawassee,Shiawassee County
+26,MI,Michigan,Otsego,Otsego County
+26,MI,Michigan,Barry,Barry County
+26,MI,Michigan,Grand Traverse,Grand Traverse County
+26,MI,Michigan,Lenawee,Lenawee County
+26,MI,Michigan,Missaukee,Missaukee County
+26,MI,Michigan,Muskegon,Muskegon County
+26,MI,Michigan,Ogemaw,Ogemaw County
+26,MI,Michigan,St. Clair,St. Clair County
+26,MI,Michigan,Gratiot,Gratiot County
+26,MI,Michigan,Mackinac,Mackinac County
+26,MI,Michigan,Montmorency,Montmorency County
+26,MI,Michigan,Schoolcraft,Schoolcraft County
+26,MI,Michigan,Berrien,Berrien County
+26,MI,Michigan,Crawford,Crawford County
+26,MI,Michigan,Dickinson,Dickinson County
+26,MI,Michigan,Luce,Luce County
+26,MI,Michigan,Saginaw,Saginaw County
+26,MI,Michigan,Iosco,Iosco County
+26,MI,Michigan,Isabella,Isabella County
+26,MI,Michigan,Roscommon,Roscommon County
+26,MI,Michigan,St. Joseph,St. Joseph County
+26,MI,Michigan,Charlevoix,Charlevoix County
+26,MI,Michigan,Chippewa,Chippewa County
+26,MI,Michigan,Keweenaw,Keweenaw County
+26,MI,Michigan,Macomb,Macomb County
+26,MI,Michigan,Mason,Mason County
+26,MI,Michigan,Montcalm,Montcalm County
+26,MI,Michigan,Presque Isle,Presque Isle County
+26,MI,Michigan,Livingston,Livingston County
+26,MI,Michigan,Alcona,Alcona County
+26,MI,Michigan,Antrim,Antrim County
+26,MI,Michigan,Bay,Bay County
+26,MI,Michigan,Calhoun,Calhoun County
+26,MI,Michigan,Hillsdale,Hillsdale County
+26,MI,Michigan,Mecosta,Mecosta County
+26,MI,Michigan,Ontonagon,Ontonagon County
+26,MI,Michigan,Kent,Kent County
+26,MI,Michigan,Lake,Lake County
+26,MI,Michigan,Monroe,Monroe County
+26,MI,Michigan,Alpena,Alpena County
+26,MI,Michigan,Baraga,Baraga County
+26,MI,Michigan,Benzie,Benzie County
+26,MI,Michigan,Gladwin,Gladwin County
+26,MI,Michigan,Menominee,Menominee County
+26,MI,Michigan,Ionia,Ionia County
+26,MI,Michigan,Lapeer,Lapeer County
+26,MI,Michigan,Manistee,Manistee County
+26,MI,Michigan,Oakland,Oakland County
+26,MI,Michigan,Wayne,Wayne County
+26,MI,Michigan,Ingham,Ingham County
+26,MI,Michigan,Branch,Branch County
+26,MI,Michigan,Clinton,Clinton County
+26,MI,Michigan,Cass,Cass County
+26,MI,Michigan,Emmet,Emmet County
+26,MI,Michigan,Leelanau,Leelanau County
+26,MI,Michigan,Washtenaw,Washtenaw County
+26,MI,Michigan,Marquette,Marquette County
+26,MI,Michigan,Midland,Midland County
+26,MI,Michigan,Van Buren,Van Buren County
+26,MI,Michigan,Wexford,Wexford County
+26,MI,Michigan,Newaygo,Newaygo County
+26,MI,Michigan,Tuscola,Tuscola County
+26,MI,Michigan,Alger,Alger County
+26,MI,Michigan,Cheboygan,Cheboygan County
+26,MI,Michigan,Gogebic,Gogebic County
+26,MI,Michigan,Oscoda,Oscoda County
+26,MI,Michigan,Genesee,Genesee County
+26,MI,Michigan,Iron,Iron County
+26,MI,Michigan,Oceana,Oceana County
+26,MI,Michigan,Osceola,Osceola County
+26,MI,Michigan,Houghton,Houghton County
+26,MI,Michigan,Kalamazoo,Kalamazoo County
+26,MI,Michigan,Kalkaska,Kalkaska County
+26,MI,Michigan,Ottawa,Ottawa County
+26,MI,Michigan,Arenac,Arenac County
+26,MI,Michigan,Eaton,Eaton County
+27,MN,Minnesota,Kittson,Kittson County
+27,MN,Minnesota,Red Lake,Red Lake County
+27,MN,Minnesota,Swift,Swift County
+27,MN,Minnesota,Beltrami,Beltrami County
+27,MN,Minnesota,Isanti,Isanti County
+27,MN,Minnesota,Itasca,Itasca County
+27,MN,Minnesota,Olmsted,Olmsted County
+27,MN,Minnesota,Otter Tail,Otter Tail County
+27,MN,Minnesota,Pennington,Pennington County
+27,MN,Minnesota,Ramsey,Ramsey County
+27,MN,Minnesota,Lac qui Parle,Lac qui Parle County
+27,MN,Minnesota,Mille Lacs,Mille Lacs County
+27,MN,Minnesota,Wilkin,Wilkin County
+27,MN,Minnesota,Lake,Lake County
+27,MN,Minnesota,Stearns,Stearns County
+27,MN,Minnesota,Lyon,Lyon County
+27,MN,Minnesota,Traverse,Traverse County
+27,MN,Minnesota,Yellow Medicine,Yellow Medicine County
+27,MN,Minnesota,Fillmore,Fillmore County
+27,MN,Minnesota,Wadena,Wadena County
+27,MN,Minnesota,Nicollet,Nicollet County
+27,MN,Minnesota,Pipestone,Pipestone County
+27,MN,Minnesota,Becker,Becker County
+27,MN,Minnesota,Hubbard,Hubbard County
+27,MN,Minnesota,McLeod,McLeod County
+27,MN,Minnesota,Polk,Polk County
+27,MN,Minnesota,Pope,Pope County
+27,MN,Minnesota,Anoka,Anoka County
+27,MN,Minnesota,Carlton,Carlton County
+27,MN,Minnesota,Grant,Grant County
+27,MN,Minnesota,Scott,Scott County
+27,MN,Minnesota,Wabasha,Wabasha County
+27,MN,Minnesota,Benton,Benton County
+27,MN,Minnesota,Martin,Martin County
+27,MN,Minnesota,Mahnomen,Mahnomen County
+27,MN,Minnesota,Washington,Washington County
+27,MN,Minnesota,Watonwan,Watonwan County
+27,MN,Minnesota,Freeborn,Freeborn County
+27,MN,Minnesota,Sibley,Sibley County
+27,MN,Minnesota,Clearwater,Clearwater County
+27,MN,Minnesota,Dodge,Dodge County
+27,MN,Minnesota,Carver,Carver County
+27,MN,Minnesota,Lincoln,Lincoln County
+27,MN,Minnesota,Murray,Murray County
+27,MN,Minnesota,Morrison,Morrison County
+27,MN,Minnesota,Redwood,Redwood County
+27,MN,Minnesota,Koochiching,Koochiching County
+27,MN,Minnesota,Norman,Norman County
+27,MN,Minnesota,Big Stone,Big Stone County
+27,MN,Minnesota,Lake of the Woods,Lake of the Woods County
+27,MN,Minnesota,Le Sueur,Le Sueur County
+27,MN,Minnesota,Meeker,Meeker County
+27,MN,Minnesota,St. Louis,St. Louis County
+27,MN,Minnesota,Kandiyohi,Kandiyohi County
+27,MN,Minnesota,Waseca,Waseca County
+27,MN,Minnesota,Winona,Winona County
+27,MN,Minnesota,Douglas,Douglas County
+27,MN,Minnesota,Rice,Rice County
+27,MN,Minnesota,Todd,Todd County
+27,MN,Minnesota,Cook,Cook County
+27,MN,Minnesota,Hennepin,Hennepin County
+27,MN,Minnesota,Blue Earth,Blue Earth County
+27,MN,Minnesota,Brown,Brown County
+27,MN,Minnesota,Clay,Clay County
+27,MN,Minnesota,Houston,Houston County
+27,MN,Minnesota,Sherburne,Sherburne County
+27,MN,Minnesota,Wright,Wright County
+27,MN,Minnesota,Kanabec,Kanabec County
+27,MN,Minnesota,Mower,Mower County
+27,MN,Minnesota,Pine,Pine County
+27,MN,Minnesota,Dakota,Dakota County
+27,MN,Minnesota,Goodhue,Goodhue County
+27,MN,Minnesota,Marshall,Marshall County
+27,MN,Minnesota,Stevens,Stevens County
+27,MN,Minnesota,Cass,Cass County
+27,MN,Minnesota,Chippewa,Chippewa County
+27,MN,Minnesota,Chisago,Chisago County
+27,MN,Minnesota,Cottonwood,Cottonwood County
+27,MN,Minnesota,Renville,Renville County
+27,MN,Minnesota,Rock,Rock County
+27,MN,Minnesota,Nobles,Nobles County
+27,MN,Minnesota,Roseau,Roseau County
+27,MN,Minnesota,Steele,Steele County
+27,MN,Minnesota,Aitkin,Aitkin County
+27,MN,Minnesota,Crow Wing,Crow Wing County
+27,MN,Minnesota,Faribault,Faribault County
+27,MN,Minnesota,Jackson,Jackson County
+28,MS,Mississippi,Jefferson,Jefferson County
+28,MS,Mississippi,Chickasaw,Chickasaw County
+28,MS,Mississippi,Lafayette,Lafayette County
+28,MS,Mississippi,Wilkinson,Wilkinson County
+28,MS,Mississippi,Leflore,Leflore County
+28,MS,Mississippi,Neshoba,Neshoba County
+28,MS,Mississippi,Noxubee,Noxubee County
+28,MS,Mississippi,Tallahatchie,Tallahatchie County
+28,MS,Mississippi,Union,Union County
+28,MS,Mississippi,Grenada,Grenada County
+28,MS,Mississippi,Kemper,Kemper County
+28,MS,Mississippi,Monroe,Monroe County
+28,MS,Mississippi,Clarke,Clarke County
+28,MS,Mississippi,Covington,Covington County
+28,MS,Mississippi,Humphreys,Humphreys County
+28,MS,Mississippi,Leake,Leake County
+28,MS,Mississippi,Marshall,Marshall County
+28,MS,Mississippi,Choctaw,Choctaw County
+28,MS,Mississippi,Greene,Greene County
+28,MS,Mississippi,Holmes,Holmes County
+28,MS,Mississippi,Pearl River,Pearl River County
+28,MS,Mississippi,Adams,Adams County
+28,MS,Mississippi,Clay,Clay County
+28,MS,Mississippi,Lamar,Lamar County
+28,MS,Mississippi,Tunica,Tunica County
+28,MS,Mississippi,Lawrence,Lawrence County
+28,MS,Mississippi,Prentiss,Prentiss County
+28,MS,Mississippi,Tate,Tate County
+28,MS,Mississippi,Claiborne,Claiborne County
+28,MS,Mississippi,Lowndes,Lowndes County
+28,MS,Mississippi,Stone,Stone County
+28,MS,Mississippi,Amite,Amite County
+28,MS,Mississippi,Jasper,Jasper County
+28,MS,Mississippi,Jefferson Davis,Jefferson Davis County
+28,MS,Mississippi,Perry,Perry County
+28,MS,Mississippi,Smith,Smith County
+28,MS,Mississippi,Hancock,Hancock County
+28,MS,Mississippi,Hinds,Hinds County
+28,MS,Mississippi,Jackson,Jackson County
+28,MS,Mississippi,Lauderdale,Lauderdale County
+28,MS,Mississippi,Carroll,Carroll County
+28,MS,Mississippi,Marion,Marion County
+28,MS,Mississippi,Copiah,Copiah County
+28,MS,Mississippi,Warren,Warren County
+28,MS,Mississippi,Yazoo,Yazoo County
+28,MS,Mississippi,Lee,Lee County
+28,MS,Mississippi,Madison,Madison County
+28,MS,Mississippi,Oktibbeha,Oktibbeha County
+28,MS,Mississippi,Washington,Washington County
+28,MS,Mississippi,Newton,Newton County
+28,MS,Mississippi,Pontotoc,Pontotoc County
+28,MS,Mississippi,Webster,Webster County
+28,MS,Mississippi,Itawamba,Itawamba County
+28,MS,Mississippi,Lincoln,Lincoln County
+28,MS,Mississippi,Attala,Attala County
+28,MS,Mississippi,Tishomingo,Tishomingo County
+28,MS,Mississippi,Wayne,Wayne County
+28,MS,Mississippi,Calhoun,Calhoun County
+28,MS,Mississippi,Harrison,Harrison County
+28,MS,Mississippi,Issaquena,Issaquena County
+28,MS,Mississippi,Quitman,Quitman County
+28,MS,Mississippi,Bolivar,Bolivar County
+28,MS,Mississippi,Sharkey,Sharkey County
+28,MS,Mississippi,Simpson,Simpson County
+28,MS,Mississippi,Yalobusha,Yalobusha County
+28,MS,Mississippi,Pike,Pike County
+28,MS,Mississippi,Scott,Scott County
+28,MS,Mississippi,Sunflower,Sunflower County
+28,MS,Mississippi,DeSoto,DeSoto County
+28,MS,Mississippi,Franklin,Franklin County
+28,MS,Mississippi,Rankin,Rankin County
+28,MS,Mississippi,Forrest,Forrest County
+28,MS,Mississippi,Montgomery,Montgomery County
+28,MS,Mississippi,Walthall,Walthall County
+28,MS,Mississippi,Panola,Panola County
+28,MS,Mississippi,Tippah,Tippah County
+28,MS,Mississippi,Coahoma,Coahoma County
+28,MS,Mississippi,Winston,Winston County
+28,MS,Mississippi,Alcorn,Alcorn County
+28,MS,Mississippi,Benton,Benton County
+28,MS,Mississippi,George,George County
+28,MS,Mississippi,Jones,Jones County
+29,MO,Missouri,Harrison,Harrison County
+29,MO,Missouri,Jefferson,Jefferson County
+29,MO,Missouri,Newton,Newton County
+29,MO,Missouri,Wayne,Wayne County
+29,MO,Missouri,Cape Girardeau,Cape Girardeau County
+29,MO,Missouri,Clay,Clay County
+29,MO,Missouri,Platte,Platte County
+29,MO,Missouri,Ste. Genevieve,Ste. Genevieve County
+29,MO,Missouri,Taney,Taney County
+29,MO,Missouri,Caldwell,Caldwell County
+29,MO,Missouri,Clark,Clark County
+29,MO,Missouri,Gentry,Gentry County
+29,MO,Missouri,New Madrid,New Madrid County
+29,MO,Missouri,Warren,Warren County
+29,MO,Missouri,Dunklin,Dunklin County
+29,MO,Missouri,Crawford,Crawford County
+29,MO,Missouri,Lincoln,Lincoln County
+29,MO,Missouri,Maries,Maries County
+29,MO,Missouri,Ray,Ray County
+29,MO,Missouri,Lewis,Lewis County
+29,MO,Missouri,Shannon,Shannon County
+29,MO,Missouri,Dade,Dade County
+29,MO,Missouri,Madison,Madison County
+29,MO,Missouri,Morgan,Morgan County
+29,MO,Missouri,Polk,Polk County
+29,MO,Missouri,Schuyler,Schuyler County
+29,MO,Missouri,Douglas,Douglas County
+29,MO,Missouri,Jackson,Jackson County
+29,MO,Missouri,Knox,Knox County
+29,MO,Missouri,Pemiscot,Pemiscot County
+29,MO,Missouri,Greene,Greene County
+29,MO,Missouri,Iron,Iron County
+29,MO,Missouri,Ozark,Ozark County
+29,MO,Missouri,Wright,Wright County
+29,MO,Missouri,Adair,Adair County
+29,MO,Missouri,Cass,Cass County
+29,MO,Missouri,Christian,Christian County
+29,MO,Missouri,Lawrence,Lawrence County
+29,MO,Missouri,St. Louis,St. Louis County
+29,MO,Missouri,Andrew,Andrew County
+29,MO,Missouri,Barton,Barton County
+29,MO,Missouri,Clinton,Clinton County
+29,MO,Missouri,Mississippi,Mississippi County
+29,MO,Missouri,St. Francois,St. Francois County
+29,MO,Missouri,Saline,Saline County
+29,MO,Missouri,Scotland,Scotland County
+29,MO,Missouri,Sullivan,Sullivan County
+29,MO,Missouri,Bollinger,Bollinger County
+29,MO,Missouri,Oregon,Oregon County
+29,MO,Missouri,St. Clair,St. Clair County
+29,MO,Missouri,Webster,Webster County
+29,MO,Missouri,Benton,Benton County
+29,MO,Missouri,Carroll,Carroll County
+29,MO,Missouri,Carter,Carter County
+29,MO,Missouri,Pettis,Pettis County
+29,MO,Missouri,Randolph,Randolph County
+29,MO,Missouri,Scott,Scott County
+29,MO,Missouri,Montgomery,Montgomery County
+29,MO,Missouri,Nodaway,Nodaway County
+29,MO,Missouri,Perry,Perry County
+29,MO,Missouri,Pike,Pike County
+29,MO,Missouri,Reynolds,Reynolds County
+29,MO,Missouri,Marion,Marion County
+29,MO,Missouri,Stoddard,Stoddard County
+29,MO,Missouri,Bates,Bates County
+29,MO,Missouri,Buchanan,Buchanan County
+29,MO,Missouri,Cooper,Cooper County
+29,MO,Missouri,Lafayette,Lafayette County
+29,MO,Missouri,Livingston,Livingston County
+29,MO,Missouri,Putnam,Putnam County
+29,MO,Missouri,Ralls,Ralls County
+29,MO,Missouri,Vernon,Vernon County
+29,MO,Missouri,Worth,Worth County
+29,MO,Missouri,Callaway,Callaway County
+29,MO,Missouri,Henry,Henry County
+29,MO,Missouri,McDonald,McDonald County
+29,MO,Missouri,Osage,Osage County
+29,MO,Missouri,Cedar,Cedar County
+29,MO,Missouri,Chariton,Chariton County
+29,MO,Missouri,Ripley,Ripley County
+29,MO,Missouri,Laclede,Laclede County
+29,MO,Missouri,Phelps,Phelps County
+29,MO,Missouri,Shelby,Shelby County
+29,MO,Missouri,Camden,Camden County
+29,MO,Missouri,Moniteau,Moniteau County
+29,MO,Missouri,St. Charles,St. Charles County
+29,MO,Missouri,Texas,Texas County
+29,MO,Missouri,Washington,Washington County
+29,MO,Missouri,Dent,Dent County
+29,MO,Missouri,Franklin,Franklin County
+29,MO,Missouri,Howell,Howell County
+29,MO,Missouri,DeKalb,DeKalb County
+29,MO,Missouri,Johnson,Johnson County
+29,MO,Missouri,Linn,Linn County
+29,MO,Missouri,Macon,Macon County
+29,MO,Missouri,St. Louis,St. Louis city
+29,MO,Missouri,Grundy,Grundy County
+29,MO,Missouri,Monroe,Monroe County
+29,MO,Missouri,Daviess,Daviess County
+29,MO,Missouri,Mercer,Mercer County
+29,MO,Missouri,Butler,Butler County
+29,MO,Missouri,Barry,Barry County
+29,MO,Missouri,Cole,Cole County
+29,MO,Missouri,Gasconade,Gasconade County
+29,MO,Missouri,Hickory,Hickory County
+29,MO,Missouri,Stone,Stone County
+29,MO,Missouri,Audrain,Audrain County
+29,MO,Missouri,Boone,Boone County
+29,MO,Missouri,Atchison,Atchison County
+29,MO,Missouri,Dallas,Dallas County
+29,MO,Missouri,Holt,Holt County
+29,MO,Missouri,Howard,Howard County
+29,MO,Missouri,Miller,Miller County
+29,MO,Missouri,Jasper,Jasper County
+29,MO,Missouri,Pulaski,Pulaski County
+30,MT,Montana,Lincoln,Lincoln County
+30,MT,Montana,Musselshell,Musselshell County
+30,MT,Montana,Roosevelt,Roosevelt County
+30,MT,Montana,Beaverhead,Beaverhead County
+30,MT,Montana,Daniels,Daniels County
+30,MT,Montana,Lewis and Clark,Lewis and Clark County
+30,MT,Montana,Garfield,Garfield County
+30,MT,Montana,Sweet Grass,Sweet Grass County
+30,MT,Montana,Ravalli,Ravalli County
+30,MT,Montana,Rosebud,Rosebud County
+30,MT,Montana,Treasure,Treasure County
+30,MT,Montana,Blaine,Blaine County
+30,MT,Montana,Broadwater,Broadwater County
+30,MT,Montana,Valley,Valley County
+30,MT,Montana,Cascade,Cascade County
+30,MT,Montana,Gallatin,Gallatin County
+30,MT,Montana,Park,Park County
+30,MT,Montana,Sanders,Sanders County
+30,MT,Montana,Wheatland,Wheatland County
+30,MT,Montana,Sheridan,Sheridan County
+30,MT,Montana,Glacier,Glacier County
+30,MT,Montana,Fallon,Fallon County
+30,MT,Montana,Custer,Custer County
+30,MT,Montana,Phillips,Phillips County
+30,MT,Montana,Deer Lodge,Deer Lodge County
+30,MT,Montana,Powder River,Powder River County
+30,MT,Montana,Silver Bow,Silver Bow County
+30,MT,Montana,Chouteau,Chouteau County
+30,MT,Montana,Richland,Richland County
+30,MT,Montana,Jefferson,Jefferson County
+30,MT,Montana,Judith Basin,Judith Basin County
+30,MT,Montana,Madison,Madison County
+30,MT,Montana,Missoula,Missoula County
+30,MT,Montana,Hill,Hill County
+30,MT,Montana,Powell,Powell County
+30,MT,Montana,Toole,Toole County
+30,MT,Montana,Big Horn,Big Horn County
+30,MT,Montana,Wibaux,Wibaux County
+30,MT,Montana,Dawson,Dawson County
+30,MT,Montana,Teton,Teton County
+30,MT,Montana,Fergus,Fergus County
+30,MT,Montana,Petroleum,Petroleum County
+30,MT,Montana,Stillwater,Stillwater County
+30,MT,Montana,Golden Valley,Golden Valley County
+30,MT,Montana,Lake,Lake County
+30,MT,Montana,Prairie,Prairie County
+30,MT,Montana,Meagher,Meagher County
+30,MT,Montana,Pondera,Pondera County
+30,MT,Montana,Carbon,Carbon County
+30,MT,Montana,Liberty,Liberty County
+30,MT,Montana,Mineral,Mineral County
+30,MT,Montana,Granite,Granite County
+30,MT,Montana,McCone,McCone County
+30,MT,Montana,Carter,Carter County
+30,MT,Montana,Flathead,Flathead County
+30,MT,Montana,Yellowstone,Yellowstone County
+31,NE,Nebraska,Greeley,Greeley County
+31,NE,Nebraska,Clay,Clay County
+31,NE,Nebraska,Gage,Gage County
+31,NE,Nebraska,Cuming,Cuming County
+31,NE,Nebraska,Custer,Custer County
+31,NE,Nebraska,Hooker,Hooker County
+31,NE,Nebraska,Valley,Valley County
+31,NE,Nebraska,Washington,Washington County
+31,NE,Nebraska,Dawson,Dawson County
+31,NE,Nebraska,Lancaster,Lancaster County
+31,NE,Nebraska,Thayer,Thayer County
+31,NE,Nebraska,Deuel,Deuel County
+31,NE,Nebraska,Antelope,Antelope County
+31,NE,Nebraska,Arthur,Arthur County
+31,NE,Nebraska,Cass,Cass County
+31,NE,Nebraska,Holt,Holt County
+31,NE,Nebraska,Scotts Bluff,Scotts Bluff County
+31,NE,Nebraska,Sherman,Sherman County
+31,NE,Nebraska,Webster,Webster County
+31,NE,Nebraska,Sarpy,Sarpy County
+31,NE,Nebraska,Fillmore,Fillmore County
+31,NE,Nebraska,McPherson,McPherson County
+31,NE,Nebraska,Thomas,Thomas County
+31,NE,Nebraska,Garfield,Garfield County
+31,NE,Nebraska,Howard,Howard County
+31,NE,Nebraska,Pawnee,Pawnee County
+31,NE,Nebraska,Polk,Polk County
+31,NE,Nebraska,Dakota,Dakota County
+31,NE,Nebraska,Franklin,Franklin County
+31,NE,Nebraska,Lincoln,Lincoln County
+31,NE,Nebraska,Saunders,Saunders County
+31,NE,Nebraska,Thurston,Thurston County
+31,NE,Nebraska,Burt,Burt County
+31,NE,Nebraska,Dawes,Dawes County
+31,NE,Nebraska,Butler,Butler County
+31,NE,Nebraska,Dundy,Dundy County
+31,NE,Nebraska,Keith,Keith County
+31,NE,Nebraska,Nemaha,Nemaha County
+31,NE,Nebraska,Phelps,Phelps County
+31,NE,Nebraska,Sioux,Sioux County
+31,NE,Nebraska,Banner,Banner County
+31,NE,Nebraska,Box Butte,Box Butte County
+31,NE,Nebraska,Dixon,Dixon County
+31,NE,Nebraska,Keya Paha,Keya Paha County
+31,NE,Nebraska,Logan,Logan County
+31,NE,Nebraska,Perkins,Perkins County
+31,NE,Nebraska,Garden,Garden County
+31,NE,Nebraska,Red Willow,Red Willow County
+31,NE,Nebraska,Knox,Knox County
+31,NE,Nebraska,Wayne,Wayne County
+31,NE,Nebraska,Dodge,Dodge County
+31,NE,Nebraska,Hamilton,Hamilton County
+31,NE,Nebraska,Stanton,Stanton County
+31,NE,Nebraska,Buffalo,Buffalo County
+31,NE,Nebraska,Cherry,Cherry County
+31,NE,Nebraska,Gosper,Gosper County
+31,NE,Nebraska,Johnson,Johnson County
+31,NE,Nebraska,Richardson,Richardson County
+31,NE,Nebraska,Boone,Boone County
+31,NE,Nebraska,Jefferson,Jefferson County
+31,NE,Nebraska,Seward,Seward County
+31,NE,Nebraska,York,York County
+31,NE,Nebraska,Cedar,Cedar County
+31,NE,Nebraska,Furnas,Furnas County
+31,NE,Nebraska,Harlan,Harlan County
+31,NE,Nebraska,Kearney,Kearney County
+31,NE,Nebraska,Loup,Loup County
+31,NE,Nebraska,Saline,Saline County
+31,NE,Nebraska,Adams,Adams County
+31,NE,Nebraska,Brown,Brown County
+31,NE,Nebraska,Chase,Chase County
+31,NE,Nebraska,Hall,Hall County
+31,NE,Nebraska,Hitchcock,Hitchcock County
+31,NE,Nebraska,Pierce,Pierce County
+31,NE,Nebraska,Rock,Rock County
+31,NE,Nebraska,Wheeler,Wheeler County
+31,NE,Nebraska,Colfax,Colfax County
+31,NE,Nebraska,Madison,Madison County
+31,NE,Nebraska,Morrill,Morrill County
+31,NE,Nebraska,Otoe,Otoe County
+31,NE,Nebraska,Blaine,Blaine County
+31,NE,Nebraska,Boyd,Boyd County
+31,NE,Nebraska,Grant,Grant County
+31,NE,Nebraska,Hayes,Hayes County
+31,NE,Nebraska,Kimball,Kimball County
+31,NE,Nebraska,Douglas,Douglas County
+31,NE,Nebraska,Frontier,Frontier County
+31,NE,Nebraska,Nance,Nance County
+31,NE,Nebraska,Sheridan,Sheridan County
+31,NE,Nebraska,Nuckolls,Nuckolls County
+31,NE,Nebraska,Cheyenne,Cheyenne County
+31,NE,Nebraska,Merrick,Merrick County
+31,NE,Nebraska,Platte,Platte County
+32,NV,Nevada,Pershing,Pershing County
+32,NV,Nevada,Elko,Elko County
+32,NV,Nevada,Carson City,Carson City
+32,NV,Nevada,Lincoln,Lincoln County
+32,NV,Nevada,Lyon,Lyon County
+32,NV,Nevada,Nye,Nye County
+32,NV,Nevada,Esmeralda,Esmeralda County
+32,NV,Nevada,Humboldt,Humboldt County
+32,NV,Nevada,Churchill,Churchill County
+32,NV,Nevada,Douglas,Douglas County
+32,NV,Nevada,Storey,Storey County
+32,NV,Nevada,Eureka,Eureka County
+32,NV,Nevada,Lander,Lander County
+32,NV,Nevada,Washoe,Washoe County
+32,NV,Nevada,Clark,Clark County
+32,NV,Nevada,White Pine,White Pine County
+32,NV,Nevada,Mineral,Mineral County
+33,NH,New Hampshire,Rockingham,Rockingham County
+33,NH,New Hampshire,Sullivan,Sullivan County
+33,NH,New Hampshire,Merrimack,Merrimack County
+33,NH,New Hampshire,Grafton,Grafton County
+33,NH,New Hampshire,Belknap,Belknap County
+33,NH,New Hampshire,Coos,Coos County
+33,NH,New Hampshire,Cheshire,Cheshire County
+33,NH,New Hampshire,Carroll,Carroll County
+33,NH,New Hampshire,Strafford,Strafford County
+33,NH,New Hampshire,Hillsborough,Hillsborough County
+34,NJ,New Jersey,Monmouth,Monmouth County
+34,NJ,New Jersey,Essex,Essex County
+34,NJ,New Jersey,Ocean,Ocean County
+34,NJ,New Jersey,Hudson,Hudson County
+34,NJ,New Jersey,Morris,Morris County
+34,NJ,New Jersey,Union,Union County
+34,NJ,New Jersey,Mercer,Mercer County
+34,NJ,New Jersey,Cumberland,Cumberland County
+34,NJ,New Jersey,Salem,Salem County
+34,NJ,New Jersey,Somerset,Somerset County
+34,NJ,New Jersey,Atlantic,Atlantic County
+34,NJ,New Jersey,Bergen,Bergen County
+34,NJ,New Jersey,Passaic,Passaic County
+34,NJ,New Jersey,Cape May,Cape May County
+34,NJ,New Jersey,Camden,Camden County
+34,NJ,New Jersey,Gloucester,Gloucester County
+34,NJ,New Jersey,Warren,Warren County
+34,NJ,New Jersey,Middlesex,Middlesex County
+34,NJ,New Jersey,Hunterdon,Hunterdon County
+34,NJ,New Jersey,Sussex,Sussex County
+34,NJ,New Jersey,Burlington,Burlington County
+35,NM,New Mexico,Cibola,Cibola County
+35,NM,New Mexico,Lea,Lea County
+35,NM,New Mexico,Taos,Taos County
+35,NM,New Mexico,Socorro,Socorro County
+35,NM,New Mexico,San Miguel,San Miguel County
+35,NM,New Mexico,Harding,Harding County
+35,NM,New Mexico,Union,Union County
+35,NM,New Mexico,Colfax,Colfax County
+35,NM,New Mexico,De Baca,De Baca County
+35,NM,New Mexico,San Juan,San Juan County
+35,NM,New Mexico,Guadalupe,Guadalupe County
+35,NM,New Mexico,Hidalgo,Hidalgo County
+35,NM,New Mexico,Luna,Luna County
+35,NM,New Mexico,Rio Arriba,Rio Arriba County
+35,NM,New Mexico,Bernalillo,Bernalillo County
+35,NM,New Mexico,Curry,Curry County
+35,NM,New Mexico,Catron,Catron County
+35,NM,New Mexico,Grant,Grant County
+35,NM,New Mexico,Mora,Mora County
+35,NM,New Mexico,Quay,Quay County
+35,NM,New Mexico,Sierra,Sierra County
+35,NM,New Mexico,Roosevelt,Roosevelt County
+35,NM,New Mexico,Sandoval,Sandoval County
+35,NM,New Mexico,Santa Fe,Santa Fe County
+35,NM,New Mexico,Torrance,Torrance County
+35,NM,New Mexico,Valencia,Valencia County
+35,NM,New Mexico,Doña Ana,Doña Ana County
+35,NM,New Mexico,Eddy,Eddy County
+35,NM,New Mexico,Lincoln,Lincoln County
+35,NM,New Mexico,Los Alamos,Los Alamos County
+35,NM,New Mexico,Chaves,Chaves County
+35,NM,New Mexico,McKinley,McKinley County
+35,NM,New Mexico,Otero,Otero County
+36,NY,New York,Dutchess,Dutchess County
+36,NY,New York,Herkimer,Herkimer County
+36,NY,New York,Jefferson,Jefferson County
+36,NY,New York,Broome,Broome County
+36,NY,New York,Nassau,Nassau County
+36,NY,New York,Tompkins,Tompkins County
+36,NY,New York,Albany,Albany County
+36,NY,New York,Onondaga,Onondaga County
+36,NY,New York,Sullivan,Sullivan County
+36,NY,New York,Bronx,Bronx County
+36,NY,New York,Columbia,Columbia County
+36,NY,New York,Delaware,Delaware County
+36,NY,New York,Rensselaer,Rensselaer County
+36,NY,New York,Washington,Washington County
+36,NY,New York,Cattaraugus,Cattaraugus County
+36,NY,New York,Putnam,Putnam County
+36,NY,New York,Saratoga,Saratoga County
+36,NY,New York,Yates,Yates County
+36,NY,New York,Schuyler,Schuyler County
+36,NY,New York,Wyoming,Wyoming County
+36,NY,New York,Madison,Madison County
+36,NY,New York,Schoharie,Schoharie County
+36,NY,New York,Clinton,Clinton County
+36,NY,New York,Hamilton,Hamilton County
+36,NY,New York,Livingston,Livingston County
+36,NY,New York,Chemung,Chemung County
+36,NY,New York,New York,New York County
+36,NY,New York,Niagara,Niagara County
+36,NY,New York,Ontario,Ontario County
+36,NY,New York,Steuben,Steuben County
+36,NY,New York,Warren,Warren County
+36,NY,New York,Montgomery,Montgomery County
+36,NY,New York,Orange,Orange County
+36,NY,New York,Oneida,Oneida County
+36,NY,New York,Richmond,Richmond County
+36,NY,New York,Rockland,Rockland County
+36,NY,New York,Monroe,Monroe County
+36,NY,New York,Allegany,Allegany County
+36,NY,New York,Cayuga,Cayuga County
+36,NY,New York,Lewis,Lewis County
+36,NY,New York,Oswego,Oswego County
+36,NY,New York,Queens,Queens County
+36,NY,New York,Westchester,Westchester County
+36,NY,New York,Chenango,Chenango County
+36,NY,New York,Kings,Kings County
+36,NY,New York,Essex,Essex County
+36,NY,New York,Fulton,Fulton County
+36,NY,New York,Genesee,Genesee County
+36,NY,New York,St. Lawrence,St. Lawrence County
+36,NY,New York,Wayne,Wayne County
+36,NY,New York,Erie,Erie County
+36,NY,New York,Franklin,Franklin County
+36,NY,New York,Otsego,Otsego County
+36,NY,New York,Ulster,Ulster County
+36,NY,New York,Cortland,Cortland County
+36,NY,New York,Greene,Greene County
+36,NY,New York,Orleans,Orleans County
+36,NY,New York,Seneca,Seneca County
+36,NY,New York,Suffolk,Suffolk County
+36,NY,New York,Chautauqua,Chautauqua County
+36,NY,New York,Schenectady,Schenectady County
+36,NY,New York,Tioga,Tioga County
+37,NC,North Carolina,Bladen,Bladen County
+37,NC,North Carolina,Cabarrus,Cabarrus County
+37,NC,North Carolina,Gates,Gates County
+37,NC,North Carolina,Greene,Greene County
+37,NC,North Carolina,Rowan,Rowan County
+37,NC,North Carolina,Sampson,Sampson County
+37,NC,North Carolina,Hertford,Hertford County
+37,NC,North Carolina,Polk,Polk County
+37,NC,North Carolina,Union,Union County
+37,NC,North Carolina,Cleveland,Cleveland County
+37,NC,North Carolina,Nash,Nash County
+37,NC,North Carolina,Anson,Anson County
+37,NC,North Carolina,Lincoln,Lincoln County
+37,NC,North Carolina,Pender,Pender County
+37,NC,North Carolina,Warren,Warren County
+37,NC,North Carolina,Yancey,Yancey County
+37,NC,North Carolina,Northampton,Northampton County
+37,NC,North Carolina,Burke,Burke County
+37,NC,North Carolina,Chatham,Chatham County
+37,NC,North Carolina,Craven,Craven County
+37,NC,North Carolina,Granville,Granville County
+37,NC,North Carolina,Montgomery,Montgomery County
+37,NC,North Carolina,Jones,Jones County
+37,NC,North Carolina,Alexander,Alexander County
+37,NC,North Carolina,Ashe,Ashe County
+37,NC,North Carolina,Johnston,Johnston County
+37,NC,North Carolina,Stanly,Stanly County
+37,NC,North Carolina,Clay,Clay County
+37,NC,North Carolina,Randolph,Randolph County
+37,NC,North Carolina,Haywood,Haywood County
+37,NC,North Carolina,Onslow,Onslow County
+37,NC,North Carolina,Currituck,Currituck County
+37,NC,North Carolina,Davie,Davie County
+37,NC,North Carolina,Rockingham,Rockingham County
+37,NC,North Carolina,Camden,Camden County
+37,NC,North Carolina,Duplin,Duplin County
+37,NC,North Carolina,Edgecombe,Edgecombe County
+37,NC,North Carolina,Mitchell,Mitchell County
+37,NC,North Carolina,Washington,Washington County
+37,NC,North Carolina,Columbus,Columbus County
+37,NC,North Carolina,Durham,Durham County
+37,NC,North Carolina,Graham,Graham County
+37,NC,North Carolina,Stokes,Stokes County
+37,NC,North Carolina,Alleghany,Alleghany County
+37,NC,North Carolina,Gaston,Gaston County
+37,NC,North Carolina,Lenoir,Lenoir County
+37,NC,North Carolina,Iredell,Iredell County
+37,NC,North Carolina,Macon,Macon County
+37,NC,North Carolina,Dare,Dare County
+37,NC,North Carolina,Alamance,Alamance County
+37,NC,North Carolina,Avery,Avery County
+37,NC,North Carolina,Harnett,Harnett County
+37,NC,North Carolina,Pamlico,Pamlico County
+37,NC,North Carolina,Caldwell,Caldwell County
+37,NC,North Carolina,Hyde,Hyde County
+37,NC,North Carolina,Jackson,Jackson County
+37,NC,North Carolina,Robeson,Robeson County
+37,NC,North Carolina,Tyrrell,Tyrrell County
+37,NC,North Carolina,Mecklenburg,Mecklenburg County
+37,NC,North Carolina,Person,Person County
+37,NC,North Carolina,Richmond,Richmond County
+37,NC,North Carolina,Rutherford,Rutherford County
+37,NC,North Carolina,Wayne,Wayne County
+37,NC,North Carolina,Wilkes,Wilkes County
+37,NC,North Carolina,Caswell,Caswell County
+37,NC,North Carolina,Forsyth,Forsyth County
+37,NC,North Carolina,Madison,Madison County
+37,NC,North Carolina,Swain,Swain County
+37,NC,North Carolina,Transylvania,Transylvania County
+37,NC,North Carolina,Wake,Wake County
+37,NC,North Carolina,Buncombe,Buncombe County
+37,NC,North Carolina,Martin,Martin County
+37,NC,North Carolina,Perquimans,Perquimans County
+37,NC,North Carolina,Scotland,Scotland County
+37,NC,North Carolina,Vance,Vance County
+37,NC,North Carolina,Beaufort,Beaufort County
+37,NC,North Carolina,Brunswick,Brunswick County
+37,NC,North Carolina,Davidson,Davidson County
+37,NC,North Carolina,Guilford,Guilford County
+37,NC,North Carolina,McDowell,McDowell County
+37,NC,North Carolina,Wilson,Wilson County
+37,NC,North Carolina,Carteret,Carteret County
+37,NC,North Carolina,Catawba,Catawba County
+37,NC,North Carolina,Franklin,Franklin County
+37,NC,North Carolina,Hoke,Hoke County
+37,NC,North Carolina,Pasquotank,Pasquotank County
+37,NC,North Carolina,Cherokee,Cherokee County
+37,NC,North Carolina,Henderson,Henderson County
+37,NC,North Carolina,Moore,Moore County
+37,NC,North Carolina,New Hanover,New Hanover County
+37,NC,North Carolina,Surry,Surry County
+37,NC,North Carolina,Yadkin,Yadkin County
+37,NC,North Carolina,Chowan,Chowan County
+37,NC,North Carolina,Bertie,Bertie County
+37,NC,North Carolina,Cumberland,Cumberland County
+37,NC,North Carolina,Halifax,Halifax County
+37,NC,North Carolina,Lee,Lee County
+37,NC,North Carolina,Orange,Orange County
+37,NC,North Carolina,Pitt,Pitt County
+37,NC,North Carolina,Watauga,Watauga County
+38,ND,North Dakota,Billings,Billings County
+38,ND,North Dakota,Rolette,Rolette County
+38,ND,North Dakota,Foster,Foster County
+38,ND,North Dakota,Kidder,Kidder County
+38,ND,North Dakota,Slope,Slope County
+38,ND,North Dakota,Renville,Renville County
+38,ND,North Dakota,Hettinger,Hettinger County
+38,ND,North Dakota,McKenzie,McKenzie County
+38,ND,North Dakota,Ward,Ward County
+38,ND,North Dakota,Adams,Adams County
+38,ND,North Dakota,Barnes,Barnes County
+38,ND,North Dakota,Sioux,Sioux County
+38,ND,North Dakota,Divide,Divide County
+38,ND,North Dakota,Grant,Grant County
+38,ND,North Dakota,Cavalier,Cavalier County
+38,ND,North Dakota,Stark,Stark County
+38,ND,North Dakota,McIntosh,McIntosh County
+38,ND,North Dakota,Oliver,Oliver County
+38,ND,North Dakota,Ramsey,Ramsey County
+38,ND,North Dakota,McHenry,McHenry County
+38,ND,North Dakota,Nelson,Nelson County
+38,ND,North Dakota,Walsh,Walsh County
+38,ND,North Dakota,Sargent,Sargent County
+38,ND,North Dakota,Benson,Benson County
+38,ND,North Dakota,Burke,Burke County
+38,ND,North Dakota,Burleigh,Burleigh County
+38,ND,North Dakota,Emmons,Emmons County
+38,ND,North Dakota,McLean,McLean County
+38,ND,North Dakota,Morton,Morton County
+38,ND,North Dakota,Richland,Richland County
+38,ND,North Dakota,Grand Forks,Grand Forks County
+38,ND,North Dakota,Dickey,Dickey County
+38,ND,North Dakota,Dunn,Dunn County
+38,ND,North Dakota,Williams,Williams County
+38,ND,North Dakota,Golden Valley,Golden Valley County
+38,ND,North Dakota,Traill,Traill County
+38,ND,North Dakota,Cass,Cass County
+38,ND,North Dakota,Logan,Logan County
+38,ND,North Dakota,Steele,Steele County
+38,ND,North Dakota,Stutsman,Stutsman County
+38,ND,North Dakota,Bottineau,Bottineau County
+38,ND,North Dakota,Bowman,Bowman County
+38,ND,North Dakota,Wells,Wells County
+38,ND,North Dakota,Pierce,Pierce County
+38,ND,North Dakota,Mercer,Mercer County
+38,ND,North Dakota,Ransom,Ransom County
+38,ND,North Dakota,Pembina,Pembina County
+38,ND,North Dakota,Sheridan,Sheridan County
+38,ND,North Dakota,Eddy,Eddy County
+38,ND,North Dakota,Griggs,Griggs County
+38,ND,North Dakota,Towner,Towner County
+38,ND,North Dakota,LaMoure,LaMoure County
+38,ND,North Dakota,Mountrail,Mountrail County
+39,OH,Ohio,Marion,Marion County
+39,OH,Ohio,Montgomery,Montgomery County
+39,OH,Ohio,Ross,Ross County
+39,OH,Ohio,Licking,Licking County
+39,OH,Ohio,Portage,Portage County
+39,OH,Ohio,Putnam,Putnam County
+39,OH,Ohio,Williams,Williams County
+39,OH,Ohio,Seneca,Seneca County
+39,OH,Ohio,Adams,Adams County
+39,OH,Ohio,Belmont,Belmont County
+39,OH,Ohio,Lucas,Lucas County
+39,OH,Ohio,Cuyahoga,Cuyahoga County
+39,OH,Ohio,Darke,Darke County
+39,OH,Ohio,Trumbull,Trumbull County
+39,OH,Ohio,Fayette,Fayette County
+39,OH,Ohio,Butler,Butler County
+39,OH,Ohio,Crawford,Crawford County
+39,OH,Ohio,Geauga,Geauga County
+39,OH,Ohio,Ashland,Ashland County
+39,OH,Ohio,Pickaway,Pickaway County
+39,OH,Ohio,Pike,Pike County
+39,OH,Ohio,Preble,Preble County
+39,OH,Ohio,Stark,Stark County
+39,OH,Ohio,Wood,Wood County
+39,OH,Ohio,Jackson,Jackson County
+39,OH,Ohio,Clinton,Clinton County
+39,OH,Ohio,Warren,Warren County
+39,OH,Ohio,Summit,Summit County
+39,OH,Ohio,Lorain,Lorain County
+39,OH,Ohio,Muskingum,Muskingum County
+39,OH,Ohio,Vinton,Vinton County
+39,OH,Ohio,Ashtabula,Ashtabula County
+39,OH,Ohio,Holmes,Holmes County
+39,OH,Ohio,Meigs,Meigs County
+39,OH,Ohio,Union,Union County
+39,OH,Ohio,Delaware,Delaware County
+39,OH,Ohio,Knox,Knox County
+39,OH,Ohio,Van Wert,Van Wert County
+39,OH,Ohio,Highland,Highland County
+39,OH,Ohio,Madison,Madison County
+39,OH,Ohio,Washington,Washington County
+39,OH,Ohio,Auglaize,Auglaize County
+39,OH,Ohio,Jefferson,Jefferson County
+39,OH,Ohio,Morrow,Morrow County
+39,OH,Ohio,Richland,Richland County
+39,OH,Ohio,Champaign,Champaign County
+39,OH,Ohio,Clark,Clark County
+39,OH,Ohio,Hamilton,Hamilton County
+39,OH,Ohio,Hardin,Hardin County
+39,OH,Ohio,Noble,Noble County
+39,OH,Ohio,Wyandot,Wyandot County
+39,OH,Ohio,Coshocton,Coshocton County
+39,OH,Ohio,Franklin,Franklin County
+39,OH,Ohio,Logan,Logan County
+39,OH,Ohio,Tuscarawas,Tuscarawas County
+39,OH,Ohio,Erie,Erie County
+39,OH,Ohio,Guernsey,Guernsey County
+39,OH,Ohio,Hancock,Hancock County
+39,OH,Ohio,Perry,Perry County
+39,OH,Ohio,Gallia,Gallia County
+39,OH,Ohio,Mahoning,Mahoning County
+39,OH,Ohio,Monroe,Monroe County
+39,OH,Ohio,Athens,Athens County
+39,OH,Ohio,Brown,Brown County
+39,OH,Ohio,Defiance,Defiance County
+39,OH,Ohio,Medina,Medina County
+39,OH,Ohio,Paulding,Paulding County
+39,OH,Ohio,Hocking,Hocking County
+39,OH,Ohio,Lawrence,Lawrence County
+39,OH,Ohio,Morgan,Morgan County
+39,OH,Ohio,Fairfield,Fairfield County
+39,OH,Ohio,Lake,Lake County
+39,OH,Ohio,Ottawa,Ottawa County
+39,OH,Ohio,Shelby,Shelby County
+39,OH,Ohio,Scioto,Scioto County
+39,OH,Ohio,Allen,Allen County
+39,OH,Ohio,Greene,Greene County
+39,OH,Ohio,Huron,Huron County
+39,OH,Ohio,Wayne,Wayne County
+39,OH,Ohio,Harrison,Harrison County
+39,OH,Ohio,Miami,Miami County
+39,OH,Ohio,Sandusky,Sandusky County
+39,OH,Ohio,Carroll,Carroll County
+39,OH,Ohio,Henry,Henry County
+39,OH,Ohio,Clermont,Clermont County
+39,OH,Ohio,Columbiana,Columbiana County
+39,OH,Ohio,Fulton,Fulton County
+39,OH,Ohio,Mercer,Mercer County
+40,OK,Oklahoma,Choctaw,Choctaw County
+40,OK,Oklahoma,Cimarron,Cimarron County
+40,OK,Oklahoma,Lincoln,Lincoln County
+40,OK,Oklahoma,Beaver,Beaver County
+40,OK,Oklahoma,Blaine,Blaine County
+40,OK,Oklahoma,McClain,McClain County
+40,OK,Oklahoma,Roger Mills,Roger Mills County
+40,OK,Oklahoma,Logan,Logan County
+40,OK,Oklahoma,Love,Love County
+40,OK,Oklahoma,Mayes,Mayes County
+40,OK,Oklahoma,Pittsburg,Pittsburg County
+40,OK,Oklahoma,Cherokee,Cherokee County
+40,OK,Oklahoma,Kingfisher,Kingfisher County
+40,OK,Oklahoma,Stephens,Stephens County
+40,OK,Oklahoma,Carter,Carter County
+40,OK,Oklahoma,Haskell,Haskell County
+40,OK,Oklahoma,Pawnee,Pawnee County
+40,OK,Oklahoma,Rogers,Rogers County
+40,OK,Oklahoma,Washington,Washington County
+40,OK,Oklahoma,Adair,Adair County
+40,OK,Oklahoma,Payne,Payne County
+40,OK,Oklahoma,Tillman,Tillman County
+40,OK,Oklahoma,Nowata,Nowata County
+40,OK,Oklahoma,Beckham,Beckham County
+40,OK,Oklahoma,Harper,Harper County
+40,OK,Oklahoma,Johnston,Johnston County
+40,OK,Oklahoma,Noble,Noble County
+40,OK,Oklahoma,Okfuskee,Okfuskee County
+40,OK,Oklahoma,Cotton,Cotton County
+40,OK,Oklahoma,Murray,Murray County
+40,OK,Oklahoma,Garvin,Garvin County
+40,OK,Oklahoma,Le Flore,Le Flore County
+40,OK,Oklahoma,Pushmataha,Pushmataha County
+40,OK,Oklahoma,Hughes,Hughes County
+40,OK,Oklahoma,Kiowa,Kiowa County
+40,OK,Oklahoma,Muskogee,Muskogee County
+40,OK,Oklahoma,Ellis,Ellis County
+40,OK,Oklahoma,Okmulgee,Okmulgee County
+40,OK,Oklahoma,Texas,Texas County
+40,OK,Oklahoma,Dewey,Dewey County
+40,OK,Oklahoma,Grant,Grant County
+40,OK,Oklahoma,Woods,Woods County
+40,OK,Oklahoma,Comanche,Comanche County
+40,OK,Oklahoma,Jackson,Jackson County
+40,OK,Oklahoma,Jefferson,Jefferson County
+40,OK,Oklahoma,Garfield,Garfield County
+40,OK,Oklahoma,McCurtain,McCurtain County
+40,OK,Oklahoma,Woodward,Woodward County
+40,OK,Oklahoma,Wagoner,Wagoner County
+40,OK,Oklahoma,Caddo,Caddo County
+40,OK,Oklahoma,Kay,Kay County
+40,OK,Oklahoma,Tulsa,Tulsa County
+40,OK,Oklahoma,Atoka,Atoka County
+40,OK,Oklahoma,Latimer,Latimer County
+40,OK,Oklahoma,Major,Major County
+40,OK,Oklahoma,Marshall,Marshall County
+40,OK,Oklahoma,Alfalfa,Alfalfa County
+40,OK,Oklahoma,Cleveland,Cleveland County
+40,OK,Oklahoma,Osage,Osage County
+40,OK,Oklahoma,Craig,Craig County
+40,OK,Oklahoma,Creek,Creek County
+40,OK,Oklahoma,Greer,Greer County
+40,OK,Oklahoma,Coal,Coal County
+40,OK,Oklahoma,Grady,Grady County
+40,OK,Oklahoma,Harmon,Harmon County
+40,OK,Oklahoma,Oklahoma,Oklahoma County
+40,OK,Oklahoma,Pontotoc,Pontotoc County
+40,OK,Oklahoma,Sequoyah,Sequoyah County
+40,OK,Oklahoma,Washita,Washita County
+40,OK,Oklahoma,Bryan,Bryan County
+40,OK,Oklahoma,Delaware,Delaware County
+40,OK,Oklahoma,McIntosh,McIntosh County
+40,OK,Oklahoma,Ottawa,Ottawa County
+40,OK,Oklahoma,Seminole,Seminole County
+40,OK,Oklahoma,Canadian,Canadian County
+40,OK,Oklahoma,Custer,Custer County
+40,OK,Oklahoma,Pottawatomie,Pottawatomie County
+41,OR,Oregon,Marion,Marion County
+41,OR,Oregon,Morrow,Morrow County
+41,OR,Oregon,Coos,Coos County
+41,OR,Oregon,Multnomah,Multnomah County
+41,OR,Oregon,Wasco,Wasco County
+41,OR,Oregon,Wheeler,Wheeler County
+41,OR,Oregon,Deschutes,Deschutes County
+41,OR,Oregon,Jackson,Jackson County
+41,OR,Oregon,Malheur,Malheur County
+41,OR,Oregon,Douglas,Douglas County
+41,OR,Oregon,Hood River,Hood River County
+41,OR,Oregon,Columbia,Columbia County
+41,OR,Oregon,Lincoln,Lincoln County
+41,OR,Oregon,Harney,Harney County
+41,OR,Oregon,Lake,Lake County
+41,OR,Oregon,Union,Union County
+41,OR,Oregon,Gilliam,Gilliam County
+41,OR,Oregon,Yamhill,Yamhill County
+41,OR,Oregon,Linn,Linn County
+41,OR,Oregon,Curry,Curry County
+41,OR,Oregon,Klamath,Klamath County
+41,OR,Oregon,Jefferson,Jefferson County
+41,OR,Oregon,Lane,Lane County
+41,OR,Oregon,Wallowa,Wallowa County
+41,OR,Oregon,Washington,Washington County
+41,OR,Oregon,Umatilla,Umatilla County
+41,OR,Oregon,Benton,Benton County
+41,OR,Oregon,Clackamas,Clackamas County
+41,OR,Oregon,Josephine,Josephine County
+41,OR,Oregon,Crook,Crook County
+41,OR,Oregon,Polk,Polk County
+41,OR,Oregon,Tillamook,Tillamook County
+41,OR,Oregon,Sherman,Sherman County
+41,OR,Oregon,Baker,Baker County
+41,OR,Oregon,Grant,Grant County
+41,OR,Oregon,Clatsop,Clatsop County
+42,PA,Pennsylvania,Erie,Erie County
+42,PA,Pennsylvania,Monroe,Monroe County
+42,PA,Pennsylvania,Philadelphia,Philadelphia County
+42,PA,Pennsylvania,Bucks,Bucks County
+42,PA,Pennsylvania,Cumberland,Cumberland County
+42,PA,Pennsylvania,Somerset,Somerset County
+42,PA,Pennsylvania,Butler,Butler County
+42,PA,Pennsylvania,Jefferson,Jefferson County
+42,PA,Pennsylvania,Cameron,Cameron County
+42,PA,Pennsylvania,Chester,Chester County
+42,PA,Pennsylvania,Columbia,Columbia County
+42,PA,Pennsylvania,Juniata,Juniata County
+42,PA,Pennsylvania,Mercer,Mercer County
+42,PA,Pennsylvania,Northumberland,Northumberland County
+42,PA,Pennsylvania,Schuylkill,Schuylkill County
+42,PA,Pennsylvania,York,York County
+42,PA,Pennsylvania,Wyoming,Wyoming County
+42,PA,Pennsylvania,Bedford,Bedford County
+42,PA,Pennsylvania,Bradford,Bradford County
+42,PA,Pennsylvania,Elk,Elk County
+42,PA,Pennsylvania,Carbon,Carbon County
+42,PA,Pennsylvania,Lehigh,Lehigh County
+42,PA,Pennsylvania,Centre,Centre County
+42,PA,Pennsylvania,Clarion,Clarion County
+42,PA,Pennsylvania,Delaware,Delaware County
+42,PA,Pennsylvania,Lebanon,Lebanon County
+42,PA,Pennsylvania,Beaver,Beaver County
+42,PA,Pennsylvania,Clinton,Clinton County
+42,PA,Pennsylvania,Montgomery,Montgomery County
+42,PA,Pennsylvania,Warren,Warren County
+42,PA,Pennsylvania,Cambria,Cambria County
+42,PA,Pennsylvania,Luzerne,Luzerne County
+42,PA,Pennsylvania,Lycoming,Lycoming County
+42,PA,Pennsylvania,Crawford,Crawford County
+42,PA,Pennsylvania,Wayne,Wayne County
+42,PA,Pennsylvania,Allegheny,Allegheny County
+42,PA,Pennsylvania,Forest,Forest County
+42,PA,Pennsylvania,Snyder,Snyder County
+42,PA,Pennsylvania,Armstrong,Armstrong County
+42,PA,Pennsylvania,Westmoreland,Westmoreland County
+42,PA,Pennsylvania,Dauphin,Dauphin County
+42,PA,Pennsylvania,Northampton,Northampton County
+42,PA,Pennsylvania,Washington,Washington County
+42,PA,Pennsylvania,Blair,Blair County
+42,PA,Pennsylvania,Indiana,Indiana County
+42,PA,Pennsylvania,Mifflin,Mifflin County
+42,PA,Pennsylvania,Potter,Potter County
+42,PA,Pennsylvania,Venango,Venango County
+42,PA,Pennsylvania,Tioga,Tioga County
+42,PA,Pennsylvania,Huntingdon,Huntingdon County
+42,PA,Pennsylvania,Fayette,Fayette County
+42,PA,Pennsylvania,Franklin,Franklin County
+42,PA,Pennsylvania,Lancaster,Lancaster County
+42,PA,Pennsylvania,McKean,McKean County
+42,PA,Pennsylvania,Greene,Greene County
+42,PA,Pennsylvania,Pike,Pike County
+42,PA,Pennsylvania,Sullivan,Sullivan County
+42,PA,Pennsylvania,Adams,Adams County
+42,PA,Pennsylvania,Berks,Berks County
+42,PA,Pennsylvania,Clearfield,Clearfield County
+42,PA,Pennsylvania,Susquehanna,Susquehanna County
+42,PA,Pennsylvania,Lawrence,Lawrence County
+42,PA,Pennsylvania,Montour,Montour County
+42,PA,Pennsylvania,Perry,Perry County
+42,PA,Pennsylvania,Union,Union County
+42,PA,Pennsylvania,Fulton,Fulton County
+42,PA,Pennsylvania,Lackawanna,Lackawanna County
+44,RI,Rhode Island,Kent,Kent County
+44,RI,Rhode Island,Providence,Providence County
+44,RI,Rhode Island,Washington,Washington County
+44,RI,Rhode Island,Newport,Newport County
+44,RI,Rhode Island,Bristol,Bristol County
+45,SC,South Carolina,Greenwood,Greenwood County
+45,SC,South Carolina,Oconee,Oconee County
+45,SC,South Carolina,Chester,Chester County
+45,SC,South Carolina,Chesterfield,Chesterfield County
+45,SC,South Carolina,Colleton,Colleton County
+45,SC,South Carolina,Hampton,Hampton County
+45,SC,South Carolina,Orangeburg,Orangeburg County
+45,SC,South Carolina,Richland,Richland County
+45,SC,South Carolina,Dillon,Dillon County
+45,SC,South Carolina,McCormick,McCormick County
+45,SC,South Carolina,York,York County
+45,SC,South Carolina,Beaufort,Beaufort County
+45,SC,South Carolina,Spartanburg,Spartanburg County
+45,SC,South Carolina,Bamberg,Bamberg County
+45,SC,South Carolina,Calhoun,Calhoun County
+45,SC,South Carolina,Williamsburg,Williamsburg County
+45,SC,South Carolina,Berkeley,Berkeley County
+45,SC,South Carolina,Cherokee,Cherokee County
+45,SC,South Carolina,Georgetown,Georgetown County
+45,SC,South Carolina,Laurens,Laurens County
+45,SC,South Carolina,Edgefield,Edgefield County
+45,SC,South Carolina,Lexington,Lexington County
+45,SC,South Carolina,Anderson,Anderson County
+45,SC,South Carolina,Sumter,Sumter County
+45,SC,South Carolina,Allendale,Allendale County
+45,SC,South Carolina,Lee,Lee County
+45,SC,South Carolina,Marlboro,Marlboro County
+45,SC,South Carolina,Dorchester,Dorchester County
+45,SC,South Carolina,Florence,Florence County
+45,SC,South Carolina,Horry,Horry County
+45,SC,South Carolina,Kershaw,Kershaw County
+45,SC,South Carolina,Lancaster,Lancaster County
+45,SC,South Carolina,Newberry,Newberry County
+45,SC,South Carolina,Jasper,Jasper County
+45,SC,South Carolina,Union,Union County
+45,SC,South Carolina,Barnwell,Barnwell County
+45,SC,South Carolina,Darlington,Darlington County
+45,SC,South Carolina,Pickens,Pickens County
+45,SC,South Carolina,Aiken,Aiken County
+45,SC,South Carolina,Fairfield,Fairfield County
+45,SC,South Carolina,Marion,Marion County
+45,SC,South Carolina,Saluda,Saluda County
+45,SC,South Carolina,Clarendon,Clarendon County
+45,SC,South Carolina,Charleston,Charleston County
+45,SC,South Carolina,Abbeville,Abbeville County
+45,SC,South Carolina,Greenville,Greenville County
+46,SD,South Dakota,Lake,Lake County
+46,SD,South Dakota,Corson,Corson County
+46,SD,South Dakota,Miner,Miner County
+46,SD,South Dakota,Bon Homme,Bon Homme County
+46,SD,South Dakota,Clay,Clay County
+46,SD,South Dakota,Haakon,Haakon County
+46,SD,South Dakota,Hutchinson,Hutchinson County
+46,SD,South Dakota,Douglas,Douglas County
+46,SD,South Dakota,Bennett,Bennett County
+46,SD,South Dakota,Butte,Butte County
+46,SD,South Dakota,Marshall,Marshall County
+46,SD,South Dakota,Roberts,Roberts County
+46,SD,South Dakota,Deuel,Deuel County
+46,SD,South Dakota,Jackson,Jackson County
+46,SD,South Dakota,Pennington,Pennington County
+46,SD,South Dakota,Turner,Turner County
+46,SD,South Dakota,Campbell,Campbell County
+46,SD,South Dakota,Hughes,Hughes County
+46,SD,South Dakota,Aurora,Aurora County
+46,SD,South Dakota,Edmunds,Edmunds County
+46,SD,South Dakota,McCook,McCook County
+46,SD,South Dakota,Oglala Lakota,Oglala Lakota County
+46,SD,South Dakota,Brown,Brown County
+46,SD,South Dakota,Buffalo,Buffalo County
+46,SD,South Dakota,Harding,Harding County
+46,SD,South Dakota,Tripp,Tripp County
+46,SD,South Dakota,Dewey,Dewey County
+46,SD,South Dakota,Yankton,Yankton County
+46,SD,South Dakota,Fall River,Fall River County
+46,SD,South Dakota,Kingsbury,Kingsbury County
+46,SD,South Dakota,Brule,Brule County
+46,SD,South Dakota,Davison,Davison County
+46,SD,South Dakota,McPherson,McPherson County
+46,SD,South Dakota,Sanborn,Sanborn County
+46,SD,South Dakota,Todd,Todd County
+46,SD,South Dakota,Beadle,Beadle County
+46,SD,South Dakota,Hanson,Hanson County
+46,SD,South Dakota,Minnehaha,Minnehaha County
+46,SD,South Dakota,Codington,Codington County
+46,SD,South Dakota,Day,Day County
+46,SD,South Dakota,Grant,Grant County
+46,SD,South Dakota,Union,Union County
+46,SD,South Dakota,Ziebach,Ziebach County
+46,SD,South Dakota,Jerauld,Jerauld County
+46,SD,South Dakota,Moody,Moody County
+46,SD,South Dakota,Faulk,Faulk County
+46,SD,South Dakota,Sully,Sully County
+46,SD,South Dakota,Lincoln,Lincoln County
+46,SD,South Dakota,Hamlin,Hamlin County
+46,SD,South Dakota,Brookings,Brookings County
+46,SD,South Dakota,Mellette,Mellette County
+46,SD,South Dakota,Stanley,Stanley County
+46,SD,South Dakota,Walworth,Walworth County
+46,SD,South Dakota,Perkins,Perkins County
+46,SD,South Dakota,Custer,Custer County
+46,SD,South Dakota,Gregory,Gregory County
+46,SD,South Dakota,Lawrence,Lawrence County
+46,SD,South Dakota,Hand,Hand County
+46,SD,South Dakota,Jones,Jones County
+46,SD,South Dakota,Charles Mix,Charles Mix County
+46,SD,South Dakota,Spink,Spink County
+46,SD,South Dakota,Clark,Clark County
+46,SD,South Dakota,Lyman,Lyman County
+46,SD,South Dakota,Hyde,Hyde County
+46,SD,South Dakota,Meade,Meade County
+46,SD,South Dakota,Potter,Potter County
+47,TN,Tennessee,Bedford,Bedford County
+47,TN,Tennessee,Sevier,Sevier County
+47,TN,Tennessee,Sumner,Sumner County
+47,TN,Tennessee,Hamblen,Hamblen County
+47,TN,Tennessee,Hancock,Hancock County
+47,TN,Tennessee,Greene,Greene County
+47,TN,Tennessee,Grundy,Grundy County
+47,TN,Tennessee,Clay,Clay County
+47,TN,Tennessee,Robertson,Robertson County
+47,TN,Tennessee,Sullivan,Sullivan County
+47,TN,Tennessee,Giles,Giles County
+47,TN,Tennessee,Hardin,Hardin County
+47,TN,Tennessee,Tipton,Tipton County
+47,TN,Tennessee,Jefferson,Jefferson County
+47,TN,Tennessee,McNairy,McNairy County
+47,TN,Tennessee,Haywood,Haywood County
+47,TN,Tennessee,Perry,Perry County
+47,TN,Tennessee,Polk,Polk County
+47,TN,Tennessee,Van Buren,Van Buren County
+47,TN,Tennessee,Bledsoe,Bledsoe County
+47,TN,Tennessee,Bradley,Bradley County
+47,TN,Tennessee,Madison,Madison County
+47,TN,Tennessee,Pickett,Pickett County
+47,TN,Tennessee,Rutherford,Rutherford County
+47,TN,Tennessee,Knox,Knox County
+47,TN,Tennessee,Lake,Lake County
+47,TN,Tennessee,Macon,Macon County
+47,TN,Tennessee,Wayne,Wayne County
+47,TN,Tennessee,Dickson,Dickson County
+47,TN,Tennessee,Gibson,Gibson County
+47,TN,Tennessee,Shelby,Shelby County
+47,TN,Tennessee,Williamson,Williamson County
+47,TN,Tennessee,Anderson,Anderson County
+47,TN,Tennessee,Hamilton,Hamilton County
+47,TN,Tennessee,Lauderdale,Lauderdale County
+47,TN,Tennessee,White,White County
+47,TN,Tennessee,Cheatham,Cheatham County
+47,TN,Tennessee,Cumberland,Cumberland County
+47,TN,Tennessee,Fayette,Fayette County
+47,TN,Tennessee,Hawkins,Hawkins County
+47,TN,Tennessee,Henry,Henry County
+47,TN,Tennessee,Fentress,Fentress County
+47,TN,Tennessee,Humphreys,Humphreys County
+47,TN,Tennessee,Marion,Marion County
+47,TN,Tennessee,Franklin,Franklin County
+47,TN,Tennessee,McMinn,McMinn County
+47,TN,Tennessee,Smith,Smith County
+47,TN,Tennessee,Washington,Washington County
+47,TN,Tennessee,Dyer,Dyer County
+47,TN,Tennessee,Grainger,Grainger County
+47,TN,Tennessee,Sequatchie,Sequatchie County
+47,TN,Tennessee,Carroll,Carroll County
+47,TN,Tennessee,Morgan,Morgan County
+47,TN,Tennessee,Coffee,Coffee County
+47,TN,Tennessee,Henderson,Henderson County
+47,TN,Tennessee,Monroe,Monroe County
+47,TN,Tennessee,Roane,Roane County
+47,TN,Tennessee,Union,Union County
+47,TN,Tennessee,Wilson,Wilson County
+47,TN,Tennessee,Hardeman,Hardeman County
+47,TN,Tennessee,Chester,Chester County
+47,TN,Tennessee,Davidson,Davidson County
+47,TN,Tennessee,Lawrence,Lawrence County
+47,TN,Tennessee,Overton,Overton County
+47,TN,Tennessee,Campbell,Campbell County
+47,TN,Tennessee,Carter,Carter County
+47,TN,Tennessee,Johnson,Johnson County
+47,TN,Tennessee,Meigs,Meigs County
+47,TN,Tennessee,Hickman,Hickman County
+47,TN,Tennessee,Scott,Scott County
+47,TN,Tennessee,Decatur,Decatur County
+47,TN,Tennessee,Maury,Maury County
+47,TN,Tennessee,Putnam,Putnam County
+47,TN,Tennessee,Unicoi,Unicoi County
+47,TN,Tennessee,Blount,Blount County
+47,TN,Tennessee,Claiborne,Claiborne County
+47,TN,Tennessee,Montgomery,Montgomery County
+47,TN,Tennessee,Benton,Benton County
+47,TN,Tennessee,Cannon,Cannon County
+47,TN,Tennessee,Obion,Obion County
+47,TN,Tennessee,Stewart,Stewart County
+47,TN,Tennessee,Cocke,Cocke County
+47,TN,Tennessee,DeKalb,DeKalb County
+47,TN,Tennessee,Lewis,Lewis County
+47,TN,Tennessee,Lincoln,Lincoln County
+47,TN,Tennessee,Rhea,Rhea County
+47,TN,Tennessee,Warren,Warren County
+47,TN,Tennessee,Houston,Houston County
+47,TN,Tennessee,Marshall,Marshall County
+47,TN,Tennessee,Crockett,Crockett County
+47,TN,Tennessee,Jackson,Jackson County
+47,TN,Tennessee,Loudon,Loudon County
+47,TN,Tennessee,Moore,Moore County
+47,TN,Tennessee,Trousdale,Trousdale County
+47,TN,Tennessee,Weakley,Weakley County
+48,TX,Texas,Comanche,Comanche County
+48,TX,Texas,Crosby,Crosby County
+48,TX,Texas,Houston,Houston County
+48,TX,Texas,Val Verde,Val Verde County
+48,TX,Texas,Burnet,Burnet County
+48,TX,Texas,Callahan,Callahan County
+48,TX,Texas,Guadalupe,Guadalupe County
+48,TX,Texas,Maverick,Maverick County
+48,TX,Texas,Nolan,Nolan County
+48,TX,Texas,Orange,Orange County
+48,TX,Texas,Terry,Terry County
+48,TX,Texas,Zavala,Zavala County
+48,TX,Texas,Irion,Irion County
+48,TX,Texas,Lavaca,Lavaca County
+48,TX,Texas,Parker,Parker County
+48,TX,Texas,Pecos,Pecos County
+48,TX,Texas,Real,Real County
+48,TX,Texas,Wilson,Wilson County
+48,TX,Texas,Zapata,Zapata County
+48,TX,Texas,Anderson,Anderson County
+48,TX,Texas,Bandera,Bandera County
+48,TX,Texas,Cameron,Cameron County
+48,TX,Texas,Foard,Foard County
+48,TX,Texas,Jim Wells,Jim Wells County
+48,TX,Texas,Randall,Randall County
+48,TX,Texas,Reeves,Reeves County
+48,TX,Texas,Brooks,Brooks County
+48,TX,Texas,Calhoun,Calhoun County
+48,TX,Texas,Fannin,Fannin County
+48,TX,Texas,Gaines,Gaines County
+48,TX,Texas,Howard,Howard County
+48,TX,Texas,Kerr,Kerr County
+48,TX,Texas,Morris,Morris County
+48,TX,Texas,Parmer,Parmer County
+48,TX,Texas,Runnels,Runnels County
+48,TX,Texas,Trinity,Trinity County
+48,TX,Texas,McLennan,McLennan County
+48,TX,Texas,Brazoria,Brazoria County
+48,TX,Texas,Brazos,Brazos County
+48,TX,Texas,Cass,Cass County
+48,TX,Texas,Chambers,Chambers County
+48,TX,Texas,Dawson,Dawson County
+48,TX,Texas,Floyd,Floyd County
+48,TX,Texas,Gonzales,Gonzales County
+48,TX,Texas,Lampasas,Lampasas County
+48,TX,Texas,Liberty,Liberty County
+48,TX,Texas,Rockwall,Rockwall County
+48,TX,Texas,Smith,Smith County
+48,TX,Texas,Waller,Waller County
+48,TX,Texas,Aransas,Aransas County
+48,TX,Texas,Fort Bend,Fort Bend County
+48,TX,Texas,Frio,Frio County
+48,TX,Texas,Gregg,Gregg County
+48,TX,Texas,Hamilton,Hamilton County
+48,TX,Texas,Hockley,Hockley County
+48,TX,Texas,Jeff Davis,Jeff Davis County
+48,TX,Texas,Montague,Montague County
+48,TX,Texas,Moore,Moore County
+48,TX,Texas,Bailey,Bailey County
+48,TX,Texas,Collin,Collin County
+48,TX,Texas,Eastland,Eastland County
+48,TX,Texas,Gillespie,Gillespie County
+48,TX,Texas,Hunt,Hunt County
+48,TX,Texas,Jim Hogg,Jim Hogg County
+48,TX,Texas,Kimble,Kimble County
+48,TX,Texas,Tom Green,Tom Green County
+48,TX,Texas,Walker,Walker County
+48,TX,Texas,Atascosa,Atascosa County
+48,TX,Texas,Garza,Garza County
+48,TX,Texas,Haskell,Haskell County
+48,TX,Texas,Limestone,Limestone County
+48,TX,Texas,Llano,Llano County
+48,TX,Texas,Loving,Loving County
+48,TX,Texas,Potter,Potter County
+48,TX,Texas,Shelby,Shelby County
+48,TX,Texas,Tarrant,Tarrant County
+48,TX,Texas,Taylor,Taylor County
+48,TX,Texas,Bee,Bee County
+48,TX,Texas,Brown,Brown County
+48,TX,Texas,Cherokee,Cherokee County
+48,TX,Texas,Crockett,Crockett County
+48,TX,Texas,Edwards,Edwards County
+48,TX,Texas,Hidalgo,Hidalgo County
+48,TX,Texas,Reagan,Reagan County
+48,TX,Texas,Victoria,Victoria County
+48,TX,Texas,Comal,Comal County
+48,TX,Texas,Crane,Crane County
+48,TX,Texas,Dimmit,Dimmit County
+48,TX,Texas,Hopkins,Hopkins County
+48,TX,Texas,Mitchell,Mitchell County
+48,TX,Texas,Schleicher,Schleicher County
+48,TX,Texas,Somervell,Somervell County
+48,TX,Texas,Stephens,Stephens County
+48,TX,Texas,Uvalde,Uvalde County
+48,TX,Texas,Washington,Washington County
+48,TX,Texas,Wharton,Wharton County
+48,TX,Texas,Bell,Bell County
+48,TX,Texas,Cooke,Cooke County
+48,TX,Texas,Culberson,Culberson County
+48,TX,Texas,Hansford,Hansford County
+48,TX,Texas,Hays,Hays County
+48,TX,Texas,Lubbock,Lubbock County
+48,TX,Texas,Newton,Newton County
+48,TX,Texas,Red River,Red River County
+48,TX,Texas,Carson,Carson County
+48,TX,Texas,Freestone,Freestone County
+48,TX,Texas,Galveston,Galveston County
+48,TX,Texas,Johnson,Johnson County
+48,TX,Texas,King,King County
+48,TX,Texas,La Salle,La Salle County
+48,TX,Texas,Matagorda,Matagorda County
+48,TX,Texas,Midland,Midland County
+48,TX,Texas,Refugio,Refugio County
+48,TX,Texas,Shackelford,Shackelford County
+48,TX,Texas,Ward,Ward County
+48,TX,Texas,Wichita,Wichita County
+48,TX,Texas,Wise,Wise County
+48,TX,Texas,Harris,Harris County
+48,TX,Texas,Jones,Jones County
+48,TX,Texas,Kendall,Kendall County
+48,TX,Texas,Roberts,Roberts County
+48,TX,Texas,Swisher,Swisher County
+48,TX,Texas,Andrews,Andrews County
+48,TX,Texas,El Paso,El Paso County
+48,TX,Texas,Fisher,Fisher County
+48,TX,Texas,Glasscock,Glasscock County
+48,TX,Texas,Hale,Hale County
+48,TX,Texas,Hardeman,Hardeman County
+48,TX,Texas,Presidio,Presidio County
+48,TX,Texas,Rusk,Rusk County
+48,TX,Texas,Throckmorton,Throckmorton County
+48,TX,Texas,Blanco,Blanco County
+48,TX,Texas,Bosque,Bosque County
+48,TX,Texas,Bowie,Bowie County
+48,TX,Texas,Ector,Ector County
+48,TX,Texas,Goliad,Goliad County
+48,TX,Texas,Grimes,Grimes County
+48,TX,Texas,Lamar,Lamar County
+48,TX,Texas,Live Oak,Live Oak County
+48,TX,Texas,Menard,Menard County
+48,TX,Texas,Nacogdoches,Nacogdoches County
+48,TX,Texas,Oldham,Oldham County
+48,TX,Texas,Rains,Rains County
+48,TX,Texas,San Patricio,San Patricio County
+48,TX,Texas,Upton,Upton County
+48,TX,Texas,Cochran,Cochran County
+48,TX,Texas,Hood,Hood County
+48,TX,Texas,Kaufman,Kaufman County
+48,TX,Texas,Kent,Kent County
+48,TX,Texas,Scurry,Scurry County
+48,TX,Texas,Stonewall,Stonewall County
+48,TX,Texas,Yoakum,Yoakum County
+48,TX,Texas,Armstrong,Armstrong County
+48,TX,Texas,Borden,Borden County
+48,TX,Texas,Coryell,Coryell County
+48,TX,Texas,DeWitt,DeWitt County
+48,TX,Texas,Donley,Donley County
+48,TX,Texas,Franklin,Franklin County
+48,TX,Texas,Karnes,Karnes County
+48,TX,Texas,Mills,Mills County
+48,TX,Texas,Montgomery,Montgomery County
+48,TX,Texas,Palo Pinto,Palo Pinto County
+48,TX,Texas,San Augustine,San Augustine County
+48,TX,Texas,Terrell,Terrell County
+48,TX,Texas,Wilbarger,Wilbarger County
+48,TX,Texas,Archer,Archer County
+48,TX,Texas,Concho,Concho County
+48,TX,Texas,Dallas,Dallas County
+48,TX,Texas,Duval,Duval County
+48,TX,Texas,Harrison,Harrison County
+48,TX,Texas,Jefferson,Jefferson County
+48,TX,Texas,Lynn,Lynn County
+48,TX,Texas,Medina,Medina County
+48,TX,Texas,Nueces,Nueces County
+48,TX,Texas,Polk,Polk County
+48,TX,Texas,San Saba,San Saba County
+48,TX,Texas,Sterling,Sterling County
+48,TX,Texas,Webb,Webb County
+48,TX,Texas,Coleman,Coleman County
+48,TX,Texas,Denton,Denton County
+48,TX,Texas,Ellis,Ellis County
+48,TX,Texas,Gray,Gray County
+48,TX,Texas,Lipscomb,Lipscomb County
+48,TX,Texas,Martin,Martin County
+48,TX,Texas,Milam,Milam County
+48,TX,Texas,Sutton,Sutton County
+48,TX,Texas,Winkler,Winkler County
+48,TX,Texas,Young,Young County
+48,TX,Texas,Angelina,Angelina County
+48,TX,Texas,Bastrop,Bastrop County
+48,TX,Texas,Childress,Childress County
+48,TX,Texas,Clay,Clay County
+48,TX,Texas,Coke,Coke County
+48,TX,Texas,Hardin,Hardin County
+48,TX,Texas,Hill,Hill County
+48,TX,Texas,Jackson,Jackson County
+48,TX,Texas,Jasper,Jasper County
+48,TX,Texas,Kinney,Kinney County
+48,TX,Texas,Lee,Lee County
+48,TX,Texas,Leon,Leon County
+48,TX,Texas,Camp,Camp County
+48,TX,Texas,Castro,Castro County
+48,TX,Texas,Collingsworth,Collingsworth County
+48,TX,Texas,McCulloch,McCulloch County
+48,TX,Texas,Ochiltree,Ochiltree County
+48,TX,Texas,San Jacinto,San Jacinto County
+48,TX,Texas,Titus,Titus County
+48,TX,Texas,Williamson,Williamson County
+48,TX,Texas,Caldwell,Caldwell County
+48,TX,Texas,Dallam,Dallam County
+48,TX,Texas,Deaf Smith,Deaf Smith County
+48,TX,Texas,Grayson,Grayson County
+48,TX,Texas,Hartley,Hartley County
+48,TX,Texas,Henderson,Henderson County
+48,TX,Texas,Jack,Jack County
+48,TX,Texas,Knox,Knox County
+48,TX,Texas,Lamb,Lamb County
+48,TX,Texas,Panola,Panola County
+48,TX,Texas,Sabine,Sabine County
+48,TX,Texas,Tyler,Tyler County
+48,TX,Texas,Burleson,Burleson County
+48,TX,Texas,Cottle,Cottle County
+48,TX,Texas,Dickens,Dickens County
+48,TX,Texas,Falls,Falls County
+48,TX,Texas,Hudspeth,Hudspeth County
+48,TX,Texas,McMullen,McMullen County
+48,TX,Texas,Robertson,Robertson County
+48,TX,Texas,Austin,Austin County
+48,TX,Texas,Briscoe,Briscoe County
+48,TX,Texas,Colorado,Colorado County
+48,TX,Texas,Kenedy,Kenedy County
+48,TX,Texas,Madison,Madison County
+48,TX,Texas,Sherman,Sherman County
+48,TX,Texas,Willacy,Willacy County
+48,TX,Texas,Delta,Delta County
+48,TX,Texas,Erath,Erath County
+48,TX,Texas,Wood,Wood County
+48,TX,Texas,Baylor,Baylor County
+48,TX,Texas,Fayette,Fayette County
+48,TX,Texas,Hutchinson,Hutchinson County
+48,TX,Texas,Kleberg,Kleberg County
+48,TX,Texas,Navarro,Navarro County
+48,TX,Texas,Starr,Starr County
+48,TX,Texas,Travis,Travis County
+48,TX,Texas,Upshur,Upshur County
+48,TX,Texas,Bexar,Bexar County
+48,TX,Texas,Brewster,Brewster County
+48,TX,Texas,Hall,Hall County
+48,TX,Texas,Hemphill,Hemphill County
+48,TX,Texas,Marion,Marion County
+48,TX,Texas,Mason,Mason County
+48,TX,Texas,Motley,Motley County
+48,TX,Texas,Van Zandt,Van Zandt County
+48,TX,Texas,Wheeler,Wheeler County
+49,UT,Utah,Juab,Juab County
+49,UT,Utah,Salt Lake,Salt Lake County
+49,UT,Utah,Grand,Grand County
+49,UT,Utah,Carbon,Carbon County
+49,UT,Utah,Morgan,Morgan County
+49,UT,Utah,Rich,Rich County
+49,UT,Utah,Utah,Utah County
+49,UT,Utah,Wayne,Wayne County
+49,UT,Utah,Davis,Davis County
+49,UT,Utah,Wasatch,Wasatch County
+49,UT,Utah,Beaver,Beaver County
+49,UT,Utah,Daggett,Daggett County
+49,UT,Utah,Summit,Summit County
+49,UT,Utah,Duchesne,Duchesne County
+49,UT,Utah,Emery,Emery County
+49,UT,Utah,San Juan,San Juan County
+49,UT,Utah,Cache,Cache County
+49,UT,Utah,Millard,Millard County
+49,UT,Utah,Sevier,Sevier County
+49,UT,Utah,Piute,Piute County
+49,UT,Utah,Garfield,Garfield County
+49,UT,Utah,Washington,Washington County
+49,UT,Utah,Weber,Weber County
+49,UT,Utah,Kane,Kane County
+49,UT,Utah,Sanpete,Sanpete County
+49,UT,Utah,Box Elder,Box Elder County
+49,UT,Utah,Iron,Iron County
+49,UT,Utah,Uintah,Uintah County
+49,UT,Utah,Tooele,Tooele County
+50,VT,Vermont,Orleans,Orleans County
+50,VT,Vermont,Caledonia,Caledonia County
+50,VT,Vermont,Franklin,Franklin County
+50,VT,Vermont,Bennington,Bennington County
+50,VT,Vermont,Chittenden,Chittenden County
+50,VT,Vermont,Essex,Essex County
+50,VT,Vermont,Rutland,Rutland County
+50,VT,Vermont,Windsor,Windsor County
+50,VT,Vermont,Lamoille,Lamoille County
+50,VT,Vermont,Washington,Washington County
+50,VT,Vermont,Windham,Windham County
+50,VT,Vermont,Orange,Orange County
+50,VT,Vermont,Addison,Addison County
+50,VT,Vermont,Grand Isle,Grand Isle County
+51,VA,Virginia,Craig,Craig County
+51,VA,Virginia,King William,King William County
+51,VA,Virginia,Madison,Madison County
+51,VA,Virginia,Northumberland,Northumberland County
+51,VA,Virginia,Rappahannock,Rappahannock County
+51,VA,Virginia,Hanover,Hanover County
+51,VA,Virginia,Alexandria,Alexandria city
+51,VA,Virginia,Appomattox,Appomattox County
+51,VA,Virginia,Louisa,Louisa County
+51,VA,Virginia,Harrisonburg,Harrisonburg city
+51,VA,Virginia,Portsmouth,Portsmouth city
+51,VA,Virginia,Richmond,Richmond city
+51,VA,Virginia,Bland,Bland County
+51,VA,Virginia,Culpeper,Culpeper County
+51,VA,Virginia,Goochland,Goochland County
+51,VA,Virginia,Powhatan,Powhatan County
+51,VA,Virginia,Falls Church,Falls Church city
+51,VA,Virginia,Staunton,Staunton city
+51,VA,Virginia,Buckingham,Buckingham County
+51,VA,Virginia,Isle of Wight,Isle of Wight County
+51,VA,Virginia,James City,James City County
+51,VA,Virginia,Patrick,Patrick County
+51,VA,Virginia,Scott,Scott County
+51,VA,Virginia,Charles City,Charles City County
+51,VA,Virginia,Southampton,Southampton County
+51,VA,Virginia,Bristol,Bristol city
+51,VA,Virginia,Radford,Radford city
+51,VA,Virginia,Chesterfield,Chesterfield County
+51,VA,Virginia,Richmond,Richmond County
+51,VA,Virginia,Greene,Greene County
+51,VA,Virginia,Lunenburg,Lunenburg County
+51,VA,Virginia,Covington,Covington city
+51,VA,Virginia,Fredericksburg,Fredericksburg city
+51,VA,Virginia,Roanoke,Roanoke city
+51,VA,Virginia,Buchanan,Buchanan County
+51,VA,Virginia,Frederick,Frederick County
+51,VA,Virginia,Northampton,Northampton County
+51,VA,Virginia,Smyth,Smyth County
+51,VA,Virginia,Brunswick,Brunswick County
+51,VA,Virginia,Campbell,Campbell County
+51,VA,Virginia,Giles,Giles County
+51,VA,Virginia,Greensville,Greensville County
+51,VA,Virginia,Montgomery,Montgomery County
+51,VA,Virginia,Pulaski,Pulaski County
+51,VA,Virginia,Washington,Washington County
+51,VA,Virginia,Manassas Park,Manassas Park city
+51,VA,Virginia,Accomack,Accomack County
+51,VA,Virginia,Lancaster,Lancaster County
+51,VA,Virginia,Loudoun,Loudoun County
+51,VA,Virginia,Mathews,Mathews County
+51,VA,Virginia,New Kent,New Kent County
+51,VA,Virginia,Suffolk,Suffolk city
+51,VA,Virginia,Waynesboro,Waynesboro city
+51,VA,Virginia,Lee,Lee County
+51,VA,Virginia,Orange,Orange County
+51,VA,Virginia,Franklin,Franklin city
+51,VA,Virginia,Salem,Salem city
+51,VA,Virginia,Fluvanna,Fluvanna County
+51,VA,Virginia,Galax,Galax city
+51,VA,Virginia,Petersburg,Petersburg city
+51,VA,Virginia,Albemarle,Albemarle County
+51,VA,Virginia,Grayson,Grayson County
+51,VA,Virginia,Prince Edward,Prince Edward County
+51,VA,Virginia,Prince George,Prince George County
+51,VA,Virginia,Russell,Russell County
+51,VA,Virginia,Caroline,Caroline County
+51,VA,Virginia,Dickenson,Dickenson County
+51,VA,Virginia,Floyd,Floyd County
+51,VA,Virginia,Henry,Henry County
+51,VA,Virginia,Middlesex,Middlesex County
+51,VA,Virginia,Charlottesville,Charlottesville city
+51,VA,Virginia,Williamsburg,Williamsburg city
+51,VA,Virginia,Nottoway,Nottoway County
+51,VA,Virginia,Pittsylvania,Pittsylvania County
+51,VA,Virginia,Shenandoah,Shenandoah County
+51,VA,Virginia,Wise,Wise County
+51,VA,Virginia,Emporia,Emporia city
+51,VA,Virginia,Amelia,Amelia County
+51,VA,Virginia,Roanoke,Roanoke County
+51,VA,Virginia,Sussex,Sussex County
+51,VA,Virginia,Virginia Beach,Virginia Beach city
+51,VA,Virginia,Winchester,Winchester city
+51,VA,Virginia,Alleghany,Alleghany County
+51,VA,Virginia,Carroll,Carroll County
+51,VA,Virginia,Charlotte,Charlotte County
+51,VA,Virginia,King George,King George County
+51,VA,Virginia,Mecklenburg,Mecklenburg County
+51,VA,Virginia,Page,Page County
+51,VA,Virginia,Westmoreland,Westmoreland County
+51,VA,Virginia,Hampton,Hampton city
+51,VA,Virginia,Lexington,Lexington city
+51,VA,Virginia,Essex,Essex County
+51,VA,Virginia,Franklin,Franklin County
+51,VA,Virginia,King and Queen,King and Queen County
+51,VA,Virginia,Tazewell,Tazewell County
+51,VA,Virginia,Danville,Danville city
+51,VA,Virginia,Hopewell,Hopewell city
+51,VA,Virginia,Bedford,Bedford County
+51,VA,Virginia,Nelson,Nelson County
+51,VA,Virginia,Prince William,Prince William County
+51,VA,Virginia,Warren,Warren County
+51,VA,Virginia,Buena Vista,Buena Vista city
+51,VA,Virginia,Colonial Heights,Colonial Heights city
+51,VA,Virginia,Norfolk,Norfolk city
+51,VA,Virginia,Gloucester,Gloucester County
+51,VA,Virginia,Augusta,Augusta County
+51,VA,Virginia,Newport News,Newport News city
+51,VA,Virginia,Poquoson,Poquoson city
+51,VA,Virginia,Amherst,Amherst County
+51,VA,Virginia,Bath,Bath County
+51,VA,Virginia,Botetourt,Botetourt County
+51,VA,Virginia,Clarke,Clarke County
+51,VA,Virginia,Cumberland,Cumberland County
+51,VA,Virginia,Highland,Highland County
+51,VA,Virginia,Rockingham,Rockingham County
+51,VA,Virginia,Stafford,Stafford County
+51,VA,Virginia,Norton,Norton city
+51,VA,Virginia,Arlington,Arlington County
+51,VA,Virginia,Halifax,Halifax County
+51,VA,Virginia,Fairfax,Fairfax city
+51,VA,Virginia,Lynchburg,Lynchburg city
+51,VA,Virginia,Rockbridge,Rockbridge County
+51,VA,Virginia,Surry,Surry County
+51,VA,Virginia,Chesapeake,Chesapeake city
+51,VA,Virginia,Manassas,Manassas city
+51,VA,Virginia,Dinwiddie,Dinwiddie County
+51,VA,Virginia,Henrico,Henrico County
+51,VA,Virginia,Spotsylvania,Spotsylvania County
+51,VA,Virginia,York,York County
+51,VA,Virginia,Martinsville,Martinsville city
+51,VA,Virginia,Fairfax,Fairfax County
+51,VA,Virginia,Fauquier,Fauquier County
+51,VA,Virginia,Wythe,Wythe County
+53,WA,Washington,Grant,Grant County
+53,WA,Washington,Okanogan,Okanogan County
+53,WA,Washington,Clallam,Clallam County
+53,WA,Washington,Skamania,Skamania County
+53,WA,Washington,Grays Harbor,Grays Harbor County
+53,WA,Washington,Pierce,Pierce County
+53,WA,Washington,Lincoln,Lincoln County
+53,WA,Washington,Ferry,Ferry County
+53,WA,Washington,Columbia,Columbia County
+53,WA,Washington,Garfield,Garfield County
+53,WA,Washington,Spokane,Spokane County
+53,WA,Washington,Clark,Clark County
+53,WA,Washington,Thurston,Thurston County
+53,WA,Washington,Pacific,Pacific County
+53,WA,Washington,Jefferson,Jefferson County
+53,WA,Washington,Benton,Benton County
+53,WA,Washington,San Juan,San Juan County
+53,WA,Washington,Klickitat,Klickitat County
+53,WA,Washington,Lewis,Lewis County
+53,WA,Washington,Asotin,Asotin County
+53,WA,Washington,Kitsap,Kitsap County
+53,WA,Washington,Mason,Mason County
+53,WA,Washington,Whatcom,Whatcom County
+53,WA,Washington,Walla Walla,Walla Walla County
+53,WA,Washington,Skagit,Skagit County
+53,WA,Washington,Yakima,Yakima County
+53,WA,Washington,Douglas,Douglas County
+53,WA,Washington,Franklin,Franklin County
+53,WA,Washington,Pend Oreille,Pend Oreille County
+53,WA,Washington,Snohomish,Snohomish County
+53,WA,Washington,Stevens,Stevens County
+53,WA,Washington,Island,Island County
+53,WA,Washington,Adams,Adams County
+53,WA,Washington,Wahkiakum,Wahkiakum County
+53,WA,Washington,King,King County
+53,WA,Washington,Kittitas,Kittitas County
+53,WA,Washington,Whitman,Whitman County
+53,WA,Washington,Cowlitz,Cowlitz County
+53,WA,Washington,Chelan,Chelan County
+54,WV,West Virginia,Barbour,Barbour County
+54,WV,West Virginia,Wetzel,Wetzel County
+54,WV,West Virginia,Boone,Boone County
+54,WV,West Virginia,Mason,Mason County
+54,WV,West Virginia,Monongalia,Monongalia County
+54,WV,West Virginia,Taylor,Taylor County
+54,WV,West Virginia,Wyoming,Wyoming County
+54,WV,West Virginia,Doddridge,Doddridge County
+54,WV,West Virginia,Lewis,Lewis County
+54,WV,West Virginia,Logan,Logan County
+54,WV,West Virginia,Pleasants,Pleasants County
+54,WV,West Virginia,Cabell,Cabell County
+54,WV,West Virginia,Pendleton,Pendleton County
+54,WV,West Virginia,Raleigh,Raleigh County
+54,WV,West Virginia,Upshur,Upshur County
+54,WV,West Virginia,Jefferson,Jefferson County
+54,WV,West Virginia,Nicholas,Nicholas County
+54,WV,West Virginia,Brooke,Brooke County
+54,WV,West Virginia,Morgan,Morgan County
+54,WV,West Virginia,Ohio,Ohio County
+54,WV,West Virginia,Greenbrier,Greenbrier County
+54,WV,West Virginia,Monroe,Monroe County
+54,WV,West Virginia,Harrison,Harrison County
+54,WV,West Virginia,Mineral,Mineral County
+54,WV,West Virginia,Lincoln,Lincoln County
+54,WV,West Virginia,Wood,Wood County
+54,WV,West Virginia,Berkeley,Berkeley County
+54,WV,West Virginia,Wirt,Wirt County
+54,WV,West Virginia,Hampshire,Hampshire County
+54,WV,West Virginia,Jackson,Jackson County
+54,WV,West Virginia,McDowell,McDowell County
+54,WV,West Virginia,Ritchie,Ritchie County
+54,WV,West Virginia,Mercer,Mercer County
+54,WV,West Virginia,Randolph,Randolph County
+54,WV,West Virginia,Roane,Roane County
+54,WV,West Virginia,Summers,Summers County
+54,WV,West Virginia,Braxton,Braxton County
+54,WV,West Virginia,Marion,Marion County
+54,WV,West Virginia,Marshall,Marshall County
+54,WV,West Virginia,Tyler,Tyler County
+54,WV,West Virginia,Tucker,Tucker County
+54,WV,West Virginia,Putnam,Putnam County
+54,WV,West Virginia,Wayne,Wayne County
+54,WV,West Virginia,Clay,Clay County
+54,WV,West Virginia,Grant,Grant County
+54,WV,West Virginia,Mingo,Mingo County
+54,WV,West Virginia,Webster,Webster County
+54,WV,West Virginia,Kanawha,Kanawha County
+54,WV,West Virginia,Pocahontas,Pocahontas County
+54,WV,West Virginia,Preston,Preston County
+54,WV,West Virginia,Calhoun,Calhoun County
+54,WV,West Virginia,Gilmer,Gilmer County
+54,WV,West Virginia,Fayette,Fayette County
+54,WV,West Virginia,Hardy,Hardy County
+54,WV,West Virginia,Hancock,Hancock County
+55,WI,Wisconsin,Oconto,Oconto County
+55,WI,Wisconsin,Dane,Dane County
+55,WI,Wisconsin,Jefferson,Jefferson County
+55,WI,Wisconsin,Outagamie,Outagamie County
+55,WI,Wisconsin,Richland,Richland County
+55,WI,Wisconsin,Clark,Clark County
+55,WI,Wisconsin,Douglas,Douglas County
+55,WI,Wisconsin,Green,Green County
+55,WI,Wisconsin,Winnebago,Winnebago County
+55,WI,Wisconsin,Dodge,Dodge County
+55,WI,Wisconsin,Washburn,Washburn County
+55,WI,Wisconsin,Wood,Wood County
+55,WI,Wisconsin,Rock,Rock County
+55,WI,Wisconsin,Vilas,Vilas County
+55,WI,Wisconsin,Washington,Washington County
+55,WI,Wisconsin,Waushara,Waushara County
+55,WI,Wisconsin,Jackson,Jackson County
+55,WI,Wisconsin,Juneau,Juneau County
+55,WI,Wisconsin,Pepin,Pepin County
+55,WI,Wisconsin,Vernon,Vernon County
+55,WI,Wisconsin,Adams,Adams County
+55,WI,Wisconsin,Kewaunee,Kewaunee County
+55,WI,Wisconsin,Marathon,Marathon County
+55,WI,Wisconsin,Trempealeau,Trempealeau County
+55,WI,Wisconsin,Florence,Florence County
+55,WI,Wisconsin,Kenosha,Kenosha County
+55,WI,Wisconsin,Walworth,Walworth County
+55,WI,Wisconsin,Waupaca,Waupaca County
+55,WI,Wisconsin,Forest,Forest County
+55,WI,Wisconsin,Iron,Iron County
+55,WI,Wisconsin,Marinette,Marinette County
+55,WI,Wisconsin,Monroe,Monroe County
+55,WI,Wisconsin,Rusk,Rusk County
+55,WI,Wisconsin,St. Croix,St. Croix County
+55,WI,Wisconsin,Shawano,Shawano County
+55,WI,Wisconsin,Marquette,Marquette County
+55,WI,Wisconsin,Calumet,Calumet County
+55,WI,Wisconsin,Oneida,Oneida County
+55,WI,Wisconsin,Taylor,Taylor County
+55,WI,Wisconsin,Chippewa,Chippewa County
+55,WI,Wisconsin,Crawford,Crawford County
+55,WI,Wisconsin,Eau Claire,Eau Claire County
+55,WI,Wisconsin,Grant,Grant County
+55,WI,Wisconsin,Price,Price County
+55,WI,Wisconsin,Door,Door County
+55,WI,Wisconsin,Racine,Racine County
+55,WI,Wisconsin,Buffalo,Buffalo County
+55,WI,Wisconsin,Pierce,Pierce County
+55,WI,Wisconsin,Bayfield,Bayfield County
+55,WI,Wisconsin,Dunn,Dunn County
+55,WI,Wisconsin,Milwaukee,Milwaukee County
+55,WI,Wisconsin,Ashland,Ashland County
+55,WI,Wisconsin,Burnett,Burnett County
+55,WI,Wisconsin,Iowa,Iowa County
+55,WI,Wisconsin,Lincoln,Lincoln County
+55,WI,Wisconsin,Menominee,Menominee County
+55,WI,Wisconsin,Portage,Portage County
+55,WI,Wisconsin,Sheboygan,Sheboygan County
+55,WI,Wisconsin,Barron,Barron County
+55,WI,Wisconsin,Green Lake,Green Lake County
+55,WI,Wisconsin,Manitowoc,Manitowoc County
+55,WI,Wisconsin,Sauk,Sauk County
+55,WI,Wisconsin,Sawyer,Sawyer County
+55,WI,Wisconsin,Brown,Brown County
+55,WI,Wisconsin,La Crosse,La Crosse County
+55,WI,Wisconsin,Polk,Polk County
+55,WI,Wisconsin,Columbia,Columbia County
+55,WI,Wisconsin,Fond du Lac,Fond du Lac County
+55,WI,Wisconsin,Waukesha,Waukesha County
+55,WI,Wisconsin,Lafayette,Lafayette County
+55,WI,Wisconsin,Langlade,Langlade County
+55,WI,Wisconsin,Ozaukee,Ozaukee County
+56,WY,Wyoming,Washakie,Washakie County
+56,WY,Wyoming,Sweetwater,Sweetwater County
+56,WY,Wyoming,Crook,Crook County
+56,WY,Wyoming,Sublette,Sublette County
+56,WY,Wyoming,Niobrara,Niobrara County
+56,WY,Wyoming,Sheridan,Sheridan County
+56,WY,Wyoming,Teton,Teton County
+56,WY,Wyoming,Platte,Platte County
+56,WY,Wyoming,Big Horn,Big Horn County
+56,WY,Wyoming,Campbell,Campbell County
+56,WY,Wyoming,Carbon,Carbon County
+56,WY,Wyoming,Hot Springs,Hot Springs County
+56,WY,Wyoming,Lincoln,Lincoln County
+56,WY,Wyoming,Natrona,Natrona County
+56,WY,Wyoming,Goshen,Goshen County
+56,WY,Wyoming,Laramie,Laramie County
+56,WY,Wyoming,Park,Park County
+56,WY,Wyoming,Weston,Weston County
+56,WY,Wyoming,Fremont,Fremont County
+56,WY,Wyoming,Converse,Converse County
+56,WY,Wyoming,Johnson,Johnson County
+56,WY,Wyoming,Uinta,Uinta County
+56,WY,Wyoming,Albany,Albany County
+72,PR,Puerto Rico,Dorado,Dorado Municipio
+72,PR,Puerto Rico,Maricao,Maricao Municipio
+72,PR,Puerto Rico,Mayagüez,Mayagüez Municipio
+72,PR,Puerto Rico,Orocovis,Orocovis Municipio
+72,PR,Puerto Rico,Naranjito,Naranjito Municipio
+72,PR,Puerto Rico,Salinas,Salinas Municipio
+72,PR,Puerto Rico,Rincón,Rincón Municipio
+72,PR,Puerto Rico,Barceloneta,Barceloneta Municipio
+72,PR,Puerto Rico,Fajardo,Fajardo Municipio
+72,PR,Puerto Rico,Jayuya,Jayuya Municipio
+72,PR,Puerto Rico,Vega Alta,Vega Alta Municipio
+72,PR,Puerto Rico,Guayanilla,Guayanilla Municipio
+72,PR,Puerto Rico,Isabela,Isabela Municipio
+72,PR,Puerto Rico,Juana Díaz,Juana Díaz Municipio
+72,PR,Puerto Rico,Toa Baja,Toa Baja Municipio
+72,PR,Puerto Rico,Juncos,Juncos Municipio
+72,PR,Puerto Rico,San Juan,San Juan Municipio
+72,PR,Puerto Rico,Loíza,Loíza Municipio
+72,PR,Puerto Rico,Carolina,Carolina Municipio
+72,PR,Puerto Rico,Maunabo,Maunabo Municipio
+72,PR,Puerto Rico,Arecibo,Arecibo Municipio
+72,PR,Puerto Rico,Luquillo,Luquillo Municipio
+72,PR,Puerto Rico,Cayey,Cayey Municipio
+72,PR,Puerto Rico,Humacao,Humacao Municipio
+72,PR,Puerto Rico,Lajas,Lajas Municipio
+72,PR,Puerto Rico,Lares,Lares Municipio
+72,PR,Puerto Rico,Quebradillas,Quebradillas Municipio
+72,PR,Puerto Rico,Trujillo Alto,Trujillo Alto Municipio
+72,PR,Puerto Rico,Barranquitas,Barranquitas Municipio
+72,PR,Puerto Rico,Guayama,Guayama Municipio
+72,PR,Puerto Rico,Utuado,Utuado Municipio
+72,PR,Puerto Rico,Aguas Buenas,Aguas Buenas Municipio
+72,PR,Puerto Rico,Aguadilla,Aguadilla Municipio
+72,PR,Puerto Rico,Hatillo,Hatillo Municipio
+72,PR,Puerto Rico,San Sebastián,San Sebastián Municipio
+72,PR,Puerto Rico,Aguada,Aguada Municipio
+72,PR,Puerto Rico,Añasco,Añasco Municipio
+72,PR,Puerto Rico,Camuy,Camuy Municipio
+72,PR,Puerto Rico,Ceiba,Ceiba Municipio
+72,PR,Puerto Rico,Ciales,Ciales Municipio
+72,PR,Puerto Rico,Coamo,Coamo Municipio
+72,PR,Puerto Rico,Morovis,Morovis Municipio
+72,PR,Puerto Rico,Adjuntas,Adjuntas Municipio
+72,PR,Puerto Rico,Arroyo,Arroyo Municipio
+72,PR,Puerto Rico,Manatí,Manatí Municipio
+72,PR,Puerto Rico,Ponce,Ponce Municipio
+72,PR,Puerto Rico,Sabana Grande,Sabana Grande Municipio
+72,PR,Puerto Rico,San Lorenzo,San Lorenzo Municipio
+72,PR,Puerto Rico,Vieques,Vieques Municipio
+72,PR,Puerto Rico,Corozal,Corozal Municipio
+72,PR,Puerto Rico,Guaynabo,Guaynabo Municipio
+72,PR,Puerto Rico,Gurabo,Gurabo Municipio
+72,PR,Puerto Rico,Caguas,Caguas Municipio
+72,PR,Puerto Rico,Cidra,Cidra Municipio
+72,PR,Puerto Rico,Las Piedras,Las Piedras Municipio
+72,PR,Puerto Rico,Moca,Moca Municipio
+72,PR,Puerto Rico,Naguabo,Naguabo Municipio
+72,PR,Puerto Rico,Peñuelas,Peñuelas Municipio
+72,PR,Puerto Rico,Vega Baja,Vega Baja Municipio
+72,PR,Puerto Rico,Río Grande,Río Grande Municipio
+72,PR,Puerto Rico,Villalba,Villalba Municipio
+72,PR,Puerto Rico,Yauco,Yauco Municipio
+72,PR,Puerto Rico,Bayamón,Bayamón Municipio
+72,PR,Puerto Rico,Comerío,Comerío Municipio
+72,PR,Puerto Rico,Yabucoa,Yabucoa Municipio
+72,PR,Puerto Rico,Aibonito,Aibonito Municipio
+72,PR,Puerto Rico,Santa Isabel,Santa Isabel Municipio
+72,PR,Puerto Rico,Cabo Rojo,Cabo Rojo Municipio
+72,PR,Puerto Rico,Cataño,Cataño Municipio
+72,PR,Puerto Rico,Las Marías,Las Marías Municipio
+72,PR,Puerto Rico,Toa Alta,Toa Alta Municipio
+72,PR,Puerto Rico,Florida,Florida Municipio
+72,PR,Puerto Rico,Canóvanas,Canóvanas Municipio
+72,PR,Puerto Rico,Guánica,Guánica Municipio
+72,PR,Puerto Rico,San Germán,San Germán Municipio
+72,PR,Puerto Rico,Hormigueros,Hormigueros Municipio
+72,PR,Puerto Rico,Culebra,Culebra Municipio
+72,PR,Puerto Rico,Patillas,Patillas Municipio

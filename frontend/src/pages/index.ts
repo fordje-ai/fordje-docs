@@ -1,6 +1,7 @@
 export * from './Home'
 export * from './Login'
 export * from './Search'
+export * from './CodesList'
 export * from './Register'
 export * from './Review'
 export * from './Results'

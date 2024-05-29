@@ -1,5 +1,6 @@
 const ROOT_PATH = '/'
 const LOGIN_PATH = '/login'
+const CODESLIST_PATH = '/codesList'
 const REGISTER_PATH = '/register'
 const REVIEW_PATH = '/review'
 const RESULTS_PATH = '/results'
@@ -10,6 +11,7 @@ const USER_PATH = '/users/:id'
 const paths = {
   ROOT_PATH,
   LOGIN_PATH,
+  CODESLIST_PATH,
   REGISTER_PATH,
   REVIEW_PATH,
   RESULTS_PATH,

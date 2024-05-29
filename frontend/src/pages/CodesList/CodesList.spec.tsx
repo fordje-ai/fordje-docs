@@ -1,13 +1,13 @@
 import { render, screen } from '@testing-library/react'
-import Results from './Results'
+import CodesList from './CodesList'
 
-describe('Results page component', () => {
+describe('Home page component', () => {
   it('should render with success', () => {
-    render(<Results />)
+    render(<CodesList />)
 
     expect(
       screen.getByRole('heading', {
-        name: 'Results',
+        name: 'CodesList',
         level: 1
       })
     ).toBeInTheDocument()
