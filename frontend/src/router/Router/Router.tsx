@@ -1,11 +1,12 @@
 import { Routes, Route } from 'react-router-dom'
 import { useRoutePaths } from '@/hooks'
-import { CodesList, Home, Login, Search, Register, Users, Review, Results } from '@/pages'
+import { Codes, CodesList, Home, Login, Search, Register, Users, Review, Results } from '@/pages'
 import { PrivateRoute } from '../PrivateRoute'
 import { PublicRoute } from '../PublicRoute'
 
 function Router() {
   const {
+    CODES_PATH,
     CODESLIST_PATH,
     LOGIN_PATH,
     SEARCH_PATH,
@@ -13,6 +14,7 @@ function Router() {
     REVIEW_PATH,
     RESULTS_PATH,
     ROOT_PATH,
+    UPLOAD_PATH,
     USERS_PATH,
     USER_PATH
   } = useRoutePaths()
@@ -37,10 +39,12 @@ function Router() {
         }
       />
 
+      <Route path={UPLOAD_PATH} element={<Home />} />
       <Route path={REGISTER_PATH} element={<Register />} />
       <Route path={REVIEW_PATH} element={<Review />} />
       <Route path={RESULTS_PATH} element={<Results />} />
       <Route path={CODESLIST_PATH} element={<CodesList />} />
+      <Route path={CODES_PATH} element={<Codes />} />
 
       <Route
         path={SEARCH_PATH}

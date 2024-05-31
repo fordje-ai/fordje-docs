@@ -1,20 +1,18 @@
-import { Box, Container, TextField, Typography, IconButton } from "@mui/material";
+import { CenterFocusStrong } from "@mui/icons-material";
+import { Box, Container, TextField, Autocomplete, styled, Button, Divider, Typography, IconButton } from "@mui/material";
 import { useState } from "react";
 import SearchIcon from "@mui/icons-material/Search";
 import { QuerySection } from "@/components/QuerySection";
+import CodeTOC from "./CodeTOC";
 
-function Results() {
-  const [searchQuery, setSearchQuery] = useState("");
+function Codes() {
   return (
     <>
       <QuerySection />
       <Box component="section" sx={{margin: '20px 0'}}>
         <Container maxWidth="lg" sx={{flexGrow: 1, display: 'flex', flexDirection: 'row'}}>
           <Box component="div" id="previous-conversations" sx={{display: 'inline-flex', flexDirection: 'column', width: '30%', borderRight: '1px solid #BDC1CAFF', paddingRight: '20px'}}>
-            <Typography component="h3" sx={{fontFamily: 'Roboto', fontSize: '22px', lineHeight: '34px', fontWeight: 700, color: '#5068E2E3', marginBottom: '32px;'}}>Previous Conversations</Typography>
-            <Typography component="h4" sx={{fontFamily: 'Roboto', fontSize: '16px', lineHeight: '26px', fontWeight: 700, color: '#171A1FFF', marginBottom: '22px;', fontStyle: 'italic'}}>What are the heigh requirements for a second story addition?</Typography>
-            <Typography component="h4" sx={{fontFamily: 'Roboto', fontSize: '16px', lineHeight: '26px', fontWeight: 400, color: '#171A1FFF', marginBottom: '22px;', fontStyle: 'italic'}}>What property line setback requirements exist for residential homes?</Typography>
-            <Typography component="h4" sx={{fontFamily: 'Roboto', fontSize: '16px', lineHeight: '26px', fontWeight: 400, color: '#171A1FFF', marginBottom: '22px;', fontStyle: 'italic'}}>When upgrading an electrical panel, what grounding requirements are there?</Typography>
+            <CodeTOC />
           </Box>
           <Box component="div" id="query-results" sx={{display: 'inline-flex', flexDirection: 'column', width: '70%', paddingLeft: '20px'}}>
             <Typography component="h2" sx={{
@@ -50,28 +48,6 @@ function Results() {
             <Typography component="a" href="#" sx={{fontFamily: 'Roboto', fontSize: '20px', lineHeight: '32px', fontWeight: 300, color: '#5068E2FF'}}>Title 11, Tree Code</Typography>
             <Typography component="a" href="#" sx={{fontFamily: 'Roboto', fontSize: '20px', lineHeight: '32px', fontWeight: 300, color: '#5068E2FF'}}>Title 24.55.210, Major Residential Alteration and Addition</Typography>
             <Typography component="p" sx={{fontFamily: 'Roboto', fontSize: '16px', lineHeight: '22px', fontWeight: 700, color: '#171A1FFF', marginTop: '20px', marginBottom: '20px'}}>With this information, you will be able to accurately meet permitting requirements to build a second story addition. Any further refinements?</Typography>
-            <Box component="form" sx={{
-              position: "relative",
-              display: 'block',
-              padding: '20px 0',
-              width: '100%'
-            }}>
-              <TextField
-                id="search-bar"
-                className="text"
-                onInput={(e) => {
-                  setSearchQuery('test Search ');
-                }}
-                label="Refine existing query"
-                placeholder="Ex: What restrictions exist for building a bathroom in a basement?"
-                size="small"
-                fullWidth
-                sx={{background: 'white', width: '100%', display: 'block'}}
-              />
-              <IconButton type="submit" aria-label="search" sx={{display: 'block', position: 'absolute', right: 0, top: '20px'}}>
-                <SearchIcon style={{ fill: "blue" }} />
-              </IconButton>
-            </Box>
           </Box>
         </Container>
       </Box>
@@ -79,4 +55,4 @@ function Results() {
   )
 }
 
-export default Results
+export default Codes
