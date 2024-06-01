@@ -1,13 +1,13 @@
 import stateCodes from "@/utils/stateCodes.json"
-import { Box, Container, Typography } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 
 const availableCodeDocs = {
   'AL': [
     'City of Tuscaloosa',
-    'Town of Fake',
-    'Village of Nothingness',
-    'Murphy County',
-    'Another Fake County'
+    'City of Huntsville',
+    'Town of Addison',
+    'Marshall County',
+    'Henry County'
   ],
   'AZ': [
     'City of Phoenix',
@@ -22,10 +22,10 @@ const availableCodeDocs = {
   ],
   'GA': [
     'City of Atlanta',
-    'Town of Macon',
+    'City of Macon',
     'Fulton County',
-    'Dekalb County',
-    'Town of Augusta'
+    'DeKalb County',
+    'City of Augusta'
   ]
 }
 
