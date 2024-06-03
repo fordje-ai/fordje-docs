@@ -1,116 +1,40 @@
-import { ReactNode, useEffect, useState } from 'react'
-import { useLocation, useNavigate } from 'react-router-dom'
-import { AxiosError } from 'axios'
-import { AuthContext, SignInCredentials, User } from '@/contexts'
-import { paths } from '@/router'
-import { api, setAuthorizationHeader } from '@/services'
-import { createSessionCookies, getToken, removeSessionCookies } from '@/utils'
+import { Auth0Provider, AppState } from "@auth0/auth0-react";
+import React, { PropsWithChildren } from "react";
+import { useNavigate } from "react-router-dom";
 
-type Props = {
-  children: ReactNode
+interface Auth0ProviderWithNavigateProps {
+  children: React.ReactNode;
 }
 
-function AuthProvider(props: Props) {
-  const { children } = props
+const AuthProvider = ({
+  children,
+}: PropsWithChildren<Auth0ProviderWithNavigateProps>): JSX.Element | null => {
+  const navigate = useNavigate();
 
-  const [user, setUser] = useState<User>()
-  const [loadingUserData, setLoadingUserData] = useState(true)
-  const navigate = useNavigate()
-  const { pathname } = useLocation()
+  const domain = process.env.REACT_APP_AUTH0_DOMAIN;
+  const clientId = process.env.REACT_APP_AUTH0_CLIENT_ID;
+  const redirectUri = process.env.REACT_APP_AUTH0_CALLBACK_URL;
 
-  const token = getToken()
-  const isAuthenticated = Boolean(token)
+  const onRedirectCallback = (appState?: AppState) => {
+    navigate(appState?.returnTo || window.location.pathname);
+  };
 
-  async function signIn(params: SignInCredentials) {
-    const { email, password } = params
-
-    try {
-      // const response = await api.post('/sessions', { email, password })
-      const response = {
-        data: {
-          token: 'testToken',
-          refreshToken: 'testRefreshToken',
-          permissions: ['all'],
-          roles: ['all']
-        }
-      }
-      const { token, refreshToken, permissions, roles } = response.data
-
-      createSessionCookies({ token, refreshToken })
-      setUser({ email, permissions, roles })
-      setAuthorizationHeader({ request: api.defaults, token })
-    } catch (error) {
-      const err = error as AxiosError
-      return err
-    }
+  if (!(domain && clientId && redirectUri)) {
+    return null;
   }
-
-  function signOut() {
-    removeSessionCookies()
-    setUser(undefined)
-    setLoadingUserData(false)
-    navigate(paths.LOGIN_PATH)
-  }
-
-  useEffect(() => {
-    if (!token) {
-      removeSessionCookies()
-      setUser(undefined)
-      setLoadingUserData(false)
-    }
-  }, [navigate, pathname, token])
-
-  useEffect(() => {
-    const token = getToken()
-
-    async function getUserData() {
-      setLoadingUserData(true)
-
-      try {
-        // const response = await api.get('/me');
-
-        const response = {
-          data: {
-            token: 'testToken',
-            email: 'testEmail@fordje.com',
-            refreshToken: 'testRefreshToken',
-            permissions: ['all'],
-            roles: ['all']
-          }
-        };
-
-        if (response?.data) {
-          const { email, permissions, roles } = response.data
-          setUser({ email, permissions, roles })
-        }
-      } catch (error) {
-        /**
-         * an error handler can be added here
-         */
-      } finally {
-        setLoadingUserData(false)
-      }
-    }
-
-    if (token) {
-      setAuthorizationHeader({ request: api.defaults, token })
-      getUserData()
-    }
-  }, [])
 
   return (
-    <AuthContext.Provider
-      value={{
-        isAuthenticated,
-        user,
-        loadingUserData,
-        signIn,
-        signOut
+    <Auth0Provider
+      domain={domain}
+      clientId={clientId}
+      authorizationParams={{
+        redirect_uri: redirectUri,
       }}
+      onRedirectCallback={onRedirectCallback}
     >
       {children}
-    </AuthContext.Provider>
-  )
-}
+    </Auth0Provider>
+  );
+};
 
-export default AuthProvider
+export default AuthProvider;
