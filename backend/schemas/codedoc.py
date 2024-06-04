@@ -1,11 +1,11 @@
 from pydantic import BaseModel
 from typing import Optional, Any
+from beanie import PydanticObjectId
 
 class UpdateCodeDocModel(BaseModel):
     fileId: str | None = None
-    city: str | None = None
-    state: str | None = None
-    description: str | None = None
+    ahjId: PydanticObjectId | None = None
+    version: int | None = None
     vintage: int | None = None
     
     class Collection:
@@ -15,9 +15,8 @@ class UpdateCodeDocModel(BaseModel):
         json_schema_extra = {
             "example": {
                 "fileId": "fake-uuid-here",
-                "city": "Raleigh",
-                "state": "NC",
-                "description": "Description of the file goes here",
+                "ahjId": "fake-ahjID-here",
+                "version": "1",
                 "vintage": "2021",
             }
         }
@@ -25,8 +24,8 @@ class UpdateCodeDocModel(BaseModel):
 class Response(BaseModel):
     status_code: int
     response_type: str
-    description: str
-    data: Optional[Any]
+    description: str | None = None
+    data: Optional[Any] | None = None
 
     class Config:
         json_schema_extra = {

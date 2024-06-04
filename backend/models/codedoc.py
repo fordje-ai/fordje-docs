@@ -1,9 +1,8 @@
-from beanie import Document
+from beanie import Document, PydanticObjectId
 
 class CodeDoc(Document):
     fileId: str
-    city: str
-    state: str
+    ahjId: PydanticObjectId
     description: str
     vintage: int
 
@@ -11,9 +10,8 @@ class CodeDoc(Document):
         json_schema_extra = {
             "example": {
                 "fileId": "Test UUID goes here",
-                "city": "Raleigh",
-                "state": "NC",
-                "description": "This is a test description of a code doc",
+                "ahjId": "random ahjId here",
+                "version": 1,
                 "vintage": 2014,
             }
         }

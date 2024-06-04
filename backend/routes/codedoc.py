@@ -40,6 +40,22 @@ async def get_code_doc_data(id: PydanticObjectId):
         "description": "Code Doc doesn't exist",
     }
 
+@router.get("/ahj/{ahjId}", response_description="CodeDocs retrieved", response_model=Response)
+async def get_code_docs_by_ahj(ahjId: PydanticObjectId):
+    code_docs = await retrieve_code_doc_by_ahj(ahjId)
+    if code_docs:
+        return {
+            "status_code": 200,
+            "response_type": "success",
+            "description": "Code Docs data retrieved successfully",
+            "data": code_docs,
+        }
+    return {
+        "status_code": 404,
+        "response_type": "error",
+        "description": "Code Doc doesn't exist",
+    }
+
 
 @router.post(
     "/",

@@ -8,10 +8,9 @@ async def fetch(url, data, headers, session):
 
 async def main():
   # URL of the API endpoint
-  url = 'http://localhost/ahj/'
+  url = 'http://localhost:6060/ahj/'
   headers = {
-      'Content-Type': 'application/json',
-      'Authorization': 'Bearer TokenGoesHere'
+      'Content-Type': 'application/json'
   }
 
   # Open the CSV file
@@ -28,7 +27,7 @@ async def main():
         "county": row['COUNTY'],
         "stateCode": row['STATE_CODE'],
         "stateName": row['STATE_NAME'],
-        "type": 'muni'
+        "type": 'city'
       }
       # Make the POST request and store the response
       async with aiohttp.ClientSession() as session:

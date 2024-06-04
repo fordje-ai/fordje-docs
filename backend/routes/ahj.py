@@ -6,7 +6,7 @@ from schemas.ahj import Response, UpdateAhjModel
 
 router = APIRouter()
 
-
+# Add paging because this hangs in swagger
 @router.get("/", response_description="AHJs retrieved", response_model=Response)
 async def get_ahjs():
     ahjs = await retrieve_ahjs()
@@ -21,6 +21,22 @@ async def get_ahjs():
 @router.get("/{id}", response_description="AHJ data retrieved", response_model=Response)
 async def get_ahj_data(id: PydanticObjectId):
     ahj = await retrieve_ahj(id)
+    if ahj:
+        return {
+            "status_code": 200,
+            "response_type": "success",
+            "description": "AHJ data retrieved successfully",
+            "data": ahj,
+        }
+    return {
+        "status_code": 404,
+        "response_type": "error",
+        "description": "AHJ doesn't exist",
+    }
+
+@router.get("/state/{state_code}", response_description="AHJ data retrieved", response_model=Response)
+async def get_ahj_by_state(state_code: str):
+    ahj = await retrieve_ahjs_by_state(state_code)
     if ahj:
         return {
             "status_code": 200,

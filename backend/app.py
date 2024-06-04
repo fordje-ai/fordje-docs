@@ -5,7 +5,6 @@ from fastapi.responses import JSONResponse
 from starlette.exceptions import HTTPException as StarletteHTTPException
 from auth.dependencies import PermissionsValidator, validate_token
 from config.config import initiate_database, settings
-from routes.admin import router as AdminRouter
 from routes.ahj import router as AhjRouter
 from routes.codedoc import router as CodeDocRouter
 
@@ -47,7 +46,6 @@ async def http_exception_handler(request, exc):
 
     return JSONResponse({"message": message}, status_code=exc.status_code)
 
-
 @app.get("/api/messages/public")
 def public():
     return {"text": "This is a public message."}
@@ -65,5 +63,7 @@ def protected():
 def admin():
     return {"text": "This is an admin message."}
 
-app.include_router(AhjRouter,tags=["AHJs"],prefix="/ahj",dependencies=[Depends(validate_token)],)
-app.include_router(CodeDocRouter,tags=["CodeDocs"],prefix="/codedoc",dependencies=[Depends(validate_token)],)
+app.include_router(AhjRouter,tags=["AHJs"],prefix="/ahj")
+# app.include_router(AhjRouter,tags=["AHJs"],prefix="/ahj",dependencies=[Depends(validate_token)],)
+app.include_router(CodeDocRouter,tags=["CodeDocs"],prefix="/codedoc")
+# app.include_router(CodeDocRouter,tags=["CodeDocs"],prefix="/codedoc",dependencies=[Depends(validate_token)],)
