@@ -5,23 +5,19 @@ const CODESLIST_PATH = '/codesList'
 const REGISTER_PATH = '/register'
 const REVIEW_PATH = '/review'
 const RESULTS_PATH = '/results'
-const SEARCH_PATH = '/search'
 const UPLOAD_PATH = '/upload'
-const USERS_PATH = '/users'
-const USER_PATH = '/users/:id'
+const PROFILE_PATH = '/profile'
 
 const paths = {
   ROOT_PATH,
   LOGIN_PATH,
+  PROFILE_PATH,
   CODES_PATH,
   CODESLIST_PATH,
   REGISTER_PATH,
   REVIEW_PATH,
   RESULTS_PATH,
-  SEARCH_PATH,
-  UPLOAD_PATH,
-  USERS_PATH,
-  USER_PATH
+  UPLOAD_PATH
 } as const
 
 export default paths

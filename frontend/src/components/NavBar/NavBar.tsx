@@ -1,4 +1,4 @@
-import { useRoutePaths, useSession } from '@/hooks'
+import { useRoutePaths } from '@/hooks'
 import * as React from 'react';
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
@@ -21,14 +21,15 @@ const pages = [
   {'name': 'Users', 'url': '/users'},
   {'name': 'Review', 'url': '/review'}
 ];
-const settings = ['Profile', 'Dashboard', 'Logout'];
+const settings = ['Profile', 'Dashboard'];
 
 import { Link } from 'react-router-dom'
-import { CanAccess } from '../CanAccess'
+
+import { useAuth0 } from '@auth0/auth0-react';
 
 function NavBar() {
-  const { isAuthenticated, user, signOut } = useSession()
-  const { LOGIN_PATH, CODES_PATH, CODESLIST_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } = useRoutePaths();
+  const { isAuthenticated } = useAuth0();
+  const { CODES_PATH, CODESLIST_PATH, REVIEW_PATH, REGISTER_PATH, ROOT_PATH, USERS_PATH } = useRoutePaths();
 
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(null);
   const [anchorElUser, setAnchorElUser] = React.useState<null | HTMLElement>(null);
@@ -46,6 +47,27 @@ function NavBar() {
 
   const handleCloseUserMenu = () => {
     setAnchorElUser(null);
+  };
+
+  const { logout, loginWithRedirect } = useAuth0();
+
+  const handleLogout = () => {
+    logout({
+      logoutParams: {
+        returnTo: window.location.origin,
+      },
+    });
+  };
+
+  const handleLogin = async () => {
+    await loginWithRedirect({
+      appState: {
+        returnTo: "/",
+      },
+      authorizationParams: {
+        prompt: "login",
+      },
+    });
   };
 
   return (
@@ -170,6 +192,16 @@ function NavBar() {
                   <Typography textAlign="center">{setting}</Typography>
                 </MenuItem>
               ))}
+              {isAuthenticated && ( 
+                <MenuItem key='logout' onClick={handleLogout}>
+                  <Typography textAlign="center">Logout</Typography>
+                </MenuItem>
+              )}
+              {!isAuthenticated && ( 
+                <MenuItem key='login' onClick={handleLogin}>
+                  <Typography textAlign="center">Login</Typography>
+                </MenuItem>
+              )}
             </Menu>
           </Box>
         </Toolbar>

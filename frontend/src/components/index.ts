@@ -1,5 +1,6 @@
-export * from './CanAccess'
 export * from './ErrorState'
 export * from './Loader'
 export * from './NavBar'
 export * from './Footer'
+export * from './QuerySection'
+export * from './authentication-guard'

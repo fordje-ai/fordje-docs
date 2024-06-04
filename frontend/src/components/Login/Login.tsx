@@ -2,8 +2,22 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { Link, Button } from '@mui/material';
+import { useAuth0 } from '@auth0/auth0-react';
 
 function Login() {
+  const { loginWithRedirect } = useAuth0();
+
+  const handleLogin = async () => {
+    await loginWithRedirect({
+      appState: {
+        returnTo: "/",
+      },
+      authorizationParams: {
+        prompt: "login",
+      },
+    });
+  };
+
   return (
     <Container maxWidth="lg">
       <Box
@@ -15,16 +29,21 @@ function Login() {
         }}
       >
         <Button component="label"
-            role={undefined}
-            variant="contained"
-            tabIndex={-1}
-            sx={{ display: 'flex',
+          onClick={handleLogin}
+          role={undefined}
+          variant="contained"
+          tabIndex={-1}
+          sx={{ 
+            display: 'flex',
             justifyContent: 'center',
             alignItems: 'center',
             backgroundColor: (theme) => theme.palette.primary.main,
             color: (theme) => theme.palette.common.white,
             marginBottom: '.5rem'
-          }}>Login</Button>
+          }}
+        >
+          Login
+        </Button>
       </Box>
 
       <Box

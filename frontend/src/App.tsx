@@ -17,13 +17,11 @@ function App() {
     );
   }
   return (
-    <BrowserRouter>
-      <AuthProvider>
-        <NavBar />
-        <Router />
-        <Footer />
-      </AuthProvider>
-    </BrowserRouter>
+    <>
+      <NavBar />
+      <Router />
+      <Footer />
+    </>
   )
 }
 

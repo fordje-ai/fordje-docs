@@ -1,7 +1,7 @@
 import { useAuth0 } from "@auth0/auth0-react";
 import React from "react";
 
-export const ProfilePage: React.FC = () => {
+const Profile: React.FC = () => {
   const { user } = useAuth0();
 
   if (!user) {
@@ -29,3 +29,5 @@ export const ProfilePage: React.FC = () => {
     </div>      
   );
 };
+
+export default Profile
