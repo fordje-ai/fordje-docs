@@ -75,7 +75,7 @@ document_name = 'path/to/your/document.pdf'
 # from llama_parse import LlamaParse  # pip install llama-parse
 def llama_parse_pdf(file_path):
     parser = LlamaParse(
-        api_key="llx-NnW7ZPR86uWFOYsKmZBFsy5AJz9nnJDtbvMeAB7QsFIZ6K1S",  # can also be set in your env as LLAMA_CLOUD_API_KEY
+        api_key="test",  # can also be set in your env as LLAMA_CLOUD_API_KEY
         result_type="markdown"  # "markdown" and "text" are available
     )
 
